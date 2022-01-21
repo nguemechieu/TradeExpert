@@ -42,8 +42,9 @@ input YN              sendnotify = Yes;         // Send Notification (Yes) or (N
 input YN             displayinfo = Yes;        // Display Trade Info
 //---
 //---- indicator buffers
-double ZZBufferHi[];
-double ZZBufferLo[];
+double ZZBufferHi[1000]={};
+double ZZBufferLo[1000]={};
+double high[1000]={},low[1000]={};
 //--
 double 
    pricepos,
@@ -226,7 +227,7 @@ int OnCalculate(const int rates_total,
         }
      }
    //--
-   for(int zi=360; zi>=0 && !IsStopped(); zi--)
+   for(int zi=360; zi>=0 && IsStopped(); zi--)
      {
        if(high[zi]==ZZBufferHi[zi]) za=zi;
        if(low[zi]==ZZBufferLo[zi]) zb=zi;
