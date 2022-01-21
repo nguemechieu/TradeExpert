@@ -1,1 +1,1 @@
-# MT4_MT5_Discord_TelegramChannelBot
+TradeExpert is a smart trading bot .I allow you to trade via telegram, get news and trade signals. It also helps you to manage your trading account proffesionally.Its new features integrate cryptocurrencies trading functions ,multicurrencies trading, Manual and signal trading,news trading, and Market Analysis.It also integrate the fibonnacci take profit stoploss function and the automatic and manual screenshot function to help you take charts screenshot from your computer or vps via telegram,discord,twitter or others.
