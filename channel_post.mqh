@@ -9,7 +9,10 @@
 #property strict
 #include <object.mqh>
 
-#include <DiscordTelegram/sender_chat.mqh>
+#include <sender_chat.mqh>
+#include <entities.mqh>
+
+#include <chat.mqh>
 class Cchannel_post 
    {
 public:

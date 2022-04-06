@@ -7,7 +7,7 @@
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 #property strict
-   #include <DiscordTelegram/customMessage.mqh>
+   #include <customMessage.mqh>
 class Cchat 
   {
 public:

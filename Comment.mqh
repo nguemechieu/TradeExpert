@@ -186,7 +186,7 @@ public:
       m_graph_mode=value;
    };
    //+------------------------------------------------------------------+
-   void              SetText(const int row,const string text,const color colours)
+   void              SetText(const int row,const string text,const color colour)
    {
       if(row<0)
          return;
@@ -198,7 +198,7 @@ public:
       {
          TComment *item=m_list.GetNodeAtIndex(row);
          item.text=text;
-         item.colour=colours;
+         item.colour=colour;
       }
       else
       {
@@ -210,7 +210,7 @@ public:
             if(row==i)
             {
                item.text=text;
-               item.colour=colours;
+               item.colour=colour;
             }
             else
             {
