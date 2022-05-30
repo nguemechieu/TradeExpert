@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TradeExpWeb/TradeExpWeb.iml" filepath="$PROJECT_DIR$/TradeExpWeb/TradeExpWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/TradeExpert.iml" filepath="$PROJECT_DIR$/.idea/TradeExpert.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TradeExpertFx/TradeExpertFx.iml" filepath="$PROJECT_DIR$/TradeExpertFx/TradeExpertFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TradeExpert/TradeExpert.iml" filepath="$PROJECT_DIR$/TradeExpert/TradeExpert.iml" />
     </modules>
   </component>
 </project>

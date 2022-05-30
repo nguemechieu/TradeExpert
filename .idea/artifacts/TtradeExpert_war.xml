@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TtradeExpert:war">
+    <output-path>$PROJECT_DIR$/TtradeExpert/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TtradeExpert</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TtradeExpert-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TtradeExpert:war exploded" />
+    </root>
+  </artifact>
+</component>
