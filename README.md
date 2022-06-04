@@ -7,5 +7,7 @@ Generate daily weekly monthly and weekly trade reports. Generate excel or csv fi
 Send reports , trade signals and events to telegram or order channels;
 Monitor account balance through telegram;
 Trade on directly on telegram interface;
-
+Our website will soon be realese so you can open your account and check it properly.
+Crypto functionnality are not yet completed but will soon be released.
+THIS SOFTWARE REQUIRE YOU TO HAVE A TELEGRAM TOKEN and MT4 SOFTWARE TO RUN MQL CODE.
 
