@@ -1,0 +1,273 @@
+2	00:36:21.237	Expert TradeExpert USDCHF,H1: removed
+2	00:36:21.267	Expert TradeExpert USDCHF,H1: loaded successfully
+2	00:36:45.743	Custom indicator Triggerlines GBPNZD,H1: loaded successfully
+2	00:36:45.743	Custom indicator ZigZag_Pointer GBPNZD,H1: loaded successfully
+2	00:36:45.775	Custom indicator TrendExpert GBPNZD,H1: loaded successfully
+2	00:36:45.775	Custom indicator forex__news_market_clock_2 GBPNZD,H1: loaded successfully
+2	00:36:45.791	Custom indicator Forex_News_Filter GBPNZD,H1: loaded successfully
+2	00:36:48.239	Custom indicator Triggerlines GBPNZD,H1: removed
+2	00:36:48.239	Custom indicator ZigZag_Pointer GBPNZD,H1: removed
+2	00:36:48.239	Custom indicator TrendExpert GBPNZD,H1: removed
+2	00:36:48.239	Custom indicator forex__news_market_clock_2 GBPNZD,H1: removed
+2	00:36:48.239	Custom indicator Forex_News_Filter GBPNZD,H1: removed
+0	00:36:48.490	'3462709': order sell market 0.07 GBPNZD sl: 0.00000 tp: 1.94313
+0	00:36:48.631	'3462709': order was opened : #294366671 sell 0.07 GBPNZD at 1.94491 sl: 0.00000 tp: 1.94313
+2	00:39:14.084	Expert TradeExpert USDCHF,H1: removed
+2	00:39:14.100	Expert TradeExpert USDCHF,H1: loaded successfully
+2	00:42:03.874	Expert TradeExpert USDCHF,H1: removed
+2	00:42:03.898	Expert TradeExpert USDCHF,H1: loaded successfully
+0	02:36:25.525	'3462709': order #294366671 sell 0.07 GBPNZD at 1.94491 closed due take-profit at price 1.94312
+0	03:03:29.833	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.48 ms)
+0	03:03:30.305	'3462709': previous successful authorization performed from 108.2.119.245
+0	03:03:42.074	'3462709': auto connecting to a better access point Main 2 (ping is 36.48 ms)
+0	03:03:42.319	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 36.48 ms)
+0	03:03:42.754	'3462709': previous successful authorization performed from 108.2.119.245
+0	09:35:54.565	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 36.48 ms)
+0	09:35:55.283	'3462709': previous successful authorization performed from 108.2.119.245
+0	09:36:06.908	'3462709': ping to current access point Main 2 is 30.30 ms
+0	09:40:18.691	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 30.30 ms)
+0	09:40:19.102	'3462709': previous successful authorization performed from 108.2.119.245
+2	13:46:57.937	Expert TradeExpert USDCHF,H1: removed
+2	13:46:57.958	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:50:09.022	Expert TradeExpert USDCHF,H1: removed
+2	13:50:09.100	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:51:02.478	Expert TradeExpert USDCHF,H1: removed
+2	13:51:02.493	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:51:26.196	Custom indicator Triggerlines NZDCAD,H1: loaded successfully
+2	13:51:26.212	Custom indicator ZigZag_Pointer NZDCAD,H1: loaded successfully
+2	13:51:26.227	Custom indicator TrendExpert NZDCAD,H1: loaded successfully
+2	13:51:26.243	Custom indicator forex__news_market_clock_2 NZDCAD,H1: loaded successfully
+2	13:51:26.259	Custom indicator Forex_News_Filter NZDCAD,H1: loaded successfully
+2	13:51:29.413	Custom indicator Triggerlines NZDCAD,H1: removed
+2	13:51:29.422	Custom indicator ZigZag_Pointer NZDCAD,H1: removed
+2	13:51:29.426	Custom indicator TrendExpert NZDCAD,H1: removed
+2	13:51:29.426	Custom indicator forex__news_market_clock_2 NZDCAD,H1: removed
+2	13:51:29.433	Custom indicator Forex_News_Filter NZDCAD,H1: removed
+0	13:51:29.683	'3462709': order sell market 0.04 NZDCAD sl: 0.84356 tp: 0.84187
+0	13:51:32.043	'3462709': order was opened : #294417675 sell 0.04 NZDCAD at 0.84236 sl: 0.84356 tp: 0.84187
+2	14:04:42.705	Expert TradeExpert USDCHF,H1: removed
+2	14:04:42.731	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:05:05.694	Expert TradeExpert USDCHF,H1: removed
+2	14:05:05.709	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:05:20.261	Expert TradeExpert USDCHF,H1: removed
+2	14:05:20.281	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:05:39.390	Expert TradeExpert USDCHF,H1: removed
+2	14:05:39.405	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:08:01.268	Expert TradeExpert USDCHF,H1: removed
+2	14:08:01.285	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:10:40.888	Expert TradeExpert USDCHF,H1: removed
+2	14:10:40.904	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:11:03.357	Custom indicator Triggerlines AUDCHF,H1: loaded successfully
+2	14:11:03.382	Custom indicator ZigZag_Pointer AUDCHF,H1: loaded successfully
+2	14:11:03.404	Custom indicator TrendExpert AUDCHF,H1: loaded successfully
+2	14:11:03.404	Custom indicator forex__news_market_clock_2 AUDCHF,H1: loaded successfully
+2	14:11:03.422	Custom indicator Forex_News_Filter AUDCHF,H1: loaded successfully
+2	14:11:06.530	Custom indicator Triggerlines AUDCHF,H1: removed
+2	14:11:06.534	Custom indicator ZigZag_Pointer AUDCHF,H1: removed
+2	14:11:06.539	Custom indicator TrendExpert AUDCHF,H1: removed
+2	14:11:06.545	Custom indicator forex__news_market_clock_2 AUDCHF,H1: removed
+2	14:11:06.549	Custom indicator Forex_News_Filter AUDCHF,H1: removed
+0	14:11:06.764	'3462709': order sell market 0.18 AUDCHF sl: 0.69380 tp: 0.69235
+0	14:11:06.924	'3462709': order was opened : #294418573 sell 0.18 AUDCHF at 0.69307 sl: 0.69380 tp: 0.69235
+0	14:18:45.341	'3462709': close order #294209730 sell 8.00 EURUSD at 1.07843 sl: 0.00000 tp: 0.00000 at price 0.00000
+0	14:18:45.499	'3462709': order #294209730 sell 8.00 EURUSD at 1.07843 sl: 0.00000 tp: 0.00000 closed at price 1.07917
+2	14:24:28.883	Expert TradeExpert USDCHF,H1: removed
+2	14:24:28.948	Expert TradeExpert USDCHF,H1: loaded successfully
+0	14:24:48.182	'3462709': order sell market 0.07 NZDJPY sl: 85.436 tp: 85.133
+0	14:24:48.302	'3462709': order was opened : #294419082 sell 0.07 NZDJPY at 85.248 sl: 85.436 tp: 85.133
+2	14:24:54.921	Expert TradeExpert USDCHF,H1: removed
+2	14:24:54.945	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:25:16.180	Custom indicator Triggerlines NZDJPY,H1: loaded successfully
+2	14:25:16.194	Custom indicator ZigZag_Pointer NZDJPY,H1: loaded successfully
+2	14:25:16.213	Custom indicator TrendExpert NZDJPY,H1: loaded successfully
+2	14:25:16.224	Custom indicator forex__news_market_clock_2 NZDJPY,H1: loaded successfully
+2	14:25:16.232	Custom indicator Forex_News_Filter NZDJPY,H1: loaded successfully
+2	14:25:19.076	Custom indicator Triggerlines NZDJPY,H1: removed
+2	14:25:19.076	Custom indicator ZigZag_Pointer NZDJPY,H1: removed
+2	14:25:19.076	Custom indicator TrendExpert NZDJPY,H1: removed
+2	14:25:19.085	Custom indicator forex__news_market_clock_2 NZDJPY,H1: removed
+2	14:25:19.086	Custom indicator Forex_News_Filter NZDJPY,H1: removed
+0	14:25:19.336	'3462709': order sell market 0.07 NZDJPY sl: 85.436 tp: 85.133
+1	14:25:19.456	'3462709': order sell 0.07 NZDJPY opening at market sl: 85.436 tp: 85.133 failed [Off quotes]
+0	14:35:37.368	Sources recompilation started
+2	14:36:49.897	Expert TradeExpert USDCHF,H1: removed
+2	14:36:49.917	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:37:20.907	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	14:37:20.917	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	14:37:20.932	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	14:37:20.948	Custom indicator forex__news_market_clock_2 EURUSD,H1: loaded successfully
+2	14:37:20.948	Custom indicator Forex_News_Filter EURUSD,H1: loaded successfully
+2	14:37:23.616	Custom indicator Triggerlines EURUSD,H1: removed
+2	14:37:23.619	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	14:37:23.619	Custom indicator TrendExpert EURUSD,H1: removed
+2	14:37:23.619	Custom indicator forex__news_market_clock_2 EURUSD,H1: removed
+2	14:37:23.619	Custom indicator Forex_News_Filter EURUSD,H1: removed
+0	14:37:23.836	'3462709': order sell market 0.06 EURUSD sl: 1.07967 tp: 1.07801
+0	14:37:23.986	'3462709': order was opened : #294419538 sell 0.06 EURUSD at 1.07876 sl: 1.07967 tp: 1.07801
+0	14:56:34.165	'3462709': order #294418573 sell 0.18 AUDCHF at 0.69307 closed due take-profit at price 0.69235
+2	14:59:33.633	Expert TradeExpert USDCHF,H1: removed
+2	14:59:33.648	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:59:55.938	Custom indicator Triggerlines CADJPY,H1: loaded successfully
+2	14:59:55.965	Custom indicator ZigZag_Pointer CADJPY,H1: loaded successfully
+2	14:59:56.000	Custom indicator TrendExpert CADJPY,H1: loaded successfully
+2	14:59:56.000	Custom indicator forex__news_market_clock_2 CADJPY,H1: loaded successfully
+2	14:59:56.016	Custom indicator Forex_News_Filter CADJPY,H1: loaded successfully
+2	14:59:58.591	Custom indicator Triggerlines CADJPY,H1: removed
+2	14:59:58.591	Custom indicator ZigZag_Pointer CADJPY,H1: removed
+2	14:59:58.601	Custom indicator TrendExpert CADJPY,H1: removed
+2	14:59:58.601	Custom indicator forex__news_market_clock_2 CADJPY,H1: removed
+2	14:59:58.601	Custom indicator Forex_News_Filter CADJPY,H1: removed
+0	14:59:58.802	'3462709': order sell market 0.03 CADJPY sl: 101.312 tp: 100.970
+0	14:59:59.022	'3462709': order was opened : #294420340 sell 0.03 CADJPY at 101.065 sl: 101.312 tp: 100.970
+2	15:02:28.967	Expert TradeExpert USDCHF,H1: removed
+2	15:02:28.998	Expert TradeExpert USDCHF,H1: loaded successfully
+0	15:03:03.164	'3462709': order #294417675 sell 0.04 NZDCAD at 0.84236 closed due stop-loss at price 0.84376
+2	15:05:06.756	Expert TradeExpert USDCHF,H1: removed
+2	15:05:06.781	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:06:33.895	Custom indicator Triggerlines GBPNZD,H1: loaded successfully
+2	15:06:33.910	Custom indicator ZigZag_Pointer GBPNZD,H1: loaded successfully
+2	15:06:33.926	Custom indicator TrendExpert GBPNZD,H1: loaded successfully
+2	15:06:33.942	Custom indicator forex__news_market_clock_2 GBPNZD,H1: loaded successfully
+2	15:06:33.942	Custom indicator Forex_News_Filter GBPNZD,H1: loaded successfully
+2	15:06:36.525	Custom indicator Triggerlines GBPNZD,H1: removed
+2	15:06:36.525	Custom indicator ZigZag_Pointer GBPNZD,H1: removed
+2	15:06:36.525	Custom indicator TrendExpert GBPNZD,H1: removed
+2	15:06:36.541	Custom indicator forex__news_market_clock_2 GBPNZD,H1: removed
+2	15:06:36.541	Custom indicator Forex_News_Filter GBPNZD,H1: removed
+0	15:06:36.807	'3462709': order sell market 0.27 GBPNZD sl: 1.93400 tp: 1.93400
+1	15:06:36.964	'3462709': order sell 0.27 GBPNZD opening at market sl: 1.93400 tp: 1.93400 failed [Invalid S/L or T/P]
+2	15:20:33.676	Expert TradeExpert USDCHF,H1: removed
+2	15:20:33.706	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:21:42.618	Custom indicator Triggerlines EURCAD,H1: loaded successfully
+2	15:21:42.618	Custom indicator ZigZag_Pointer EURCAD,H1: loaded successfully
+2	15:21:42.649	Custom indicator TrendExpert EURCAD,H1: loaded successfully
+2	15:21:42.649	Custom indicator forex__news_market_clock_2 EURCAD,H1: loaded successfully
+2	15:21:42.665	Custom indicator Forex_News_Filter EURCAD,H1: loaded successfully
+2	15:21:45.278	Custom indicator Triggerlines EURCAD,H1: removed
+2	15:21:45.278	Custom indicator ZigZag_Pointer EURCAD,H1: removed
+2	15:21:45.294	Custom indicator TrendExpert EURCAD,H1: removed
+2	15:21:45.294	Custom indicator forex__news_market_clock_2 EURCAD,H1: removed
+2	15:21:45.294	Custom indicator Forex_News_Filter EURCAD,H1: removed
+0	15:21:51.992	'3462709': order sell market 0.09 EURCAD sl: 1.37300 tp: 1.37100
+0	15:21:52.117	'3462709': order was opened : #294421462 sell 0.09 EURCAD at 1.37188 sl: 1.37300 tp: 1.37100
+2	15:26:52.621	Expert TradeExpert USDCHF,H1: removed
+2	15:26:52.644	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:29:12.715	Expert TradeExpert USDCHF,H1: removed
+2	15:29:12.735	Expert TradeExpert USDCHF,H1: loaded successfully
+0	15:36:27.308	'3462709': order #294419538 sell 0.06 EURUSD at 1.07876 closed due stop-loss at price 1.07967
+2	15:41:48.439	Expert TradeExpert USDCHF,H1: removed
+2	15:41:48.454	Expert TradeExpert USDCHF,H1: loaded successfully
+0	15:42:17.052	'3462709': order sell market 0.05 GBPCHF sl: 1.22900 tp: 1.22700
+0	15:42:17.203	'3462709': order was opened : #294422066 sell 0.05 GBPCHF at 1.22802 sl: 1.22900 tp: 1.22700
+2	15:42:29.596	Expert TradeExpert USDCHF,H1: removed
+2	15:42:29.621	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:48:39.531	Expert TradeExpert USDCHF,H1: removed
+2	15:48:39.550	Expert TradeExpert USDCHF,H1: loaded successfully
+0	15:49:35.129	'3462709': order #294421462 sell 0.09 EURCAD at 1.37188 closed due stop-loss at price 1.37300
+2	15:55:08.827	Expert TradeExpert USDCHF,H1: removed
+2	15:55:08.859	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:56:21.567	Custom indicator Triggerlines CHFJPY,H1: loaded successfully
+2	15:56:21.583	Custom indicator ZigZag_Pointer CHFJPY,H1: loaded successfully
+2	15:56:21.598	Custom indicator TrendExpert CHFJPY,H1: loaded successfully
+2	15:56:21.614	Custom indicator forex__news_market_clock_2 CHFJPY,H1: loaded successfully
+2	15:56:21.614	Custom indicator Forex_News_Filter CHFJPY,H1: loaded successfully
+2	15:56:24.201	Custom indicator Triggerlines CHFJPY,H1: removed
+2	15:56:24.201	Custom indicator ZigZag_Pointer CHFJPY,H1: removed
+2	15:56:24.201	Custom indicator TrendExpert CHFJPY,H1: removed
+2	15:56:24.201	Custom indicator forex__news_market_clock_2 CHFJPY,H1: removed
+2	15:56:24.201	Custom indicator Forex_News_Filter CHFJPY,H1: removed
+0	15:56:24.576	'3462709': order sell market 0.04 CHFJPY sl: 134.391 tp: 134.244
+0	15:56:24.748	'3462709': order was opened : #294422685 sell 0.04 CHFJPY at 134.293 sl: 134.391 tp: 134.244
+0	16:00:55.531	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:00:55.531	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1285 / 8013 Mb, Disk: 94 / 217 Gb, GMT-5
+0	16:00:55.531	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:00:58.649	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:11:19.640	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:11:19.640	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1293 / 8013 Mb, Disk: 94 / 217 Gb, GMT-5
+0	16:11:19.640	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:11:21.078	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:11:21.610	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.82 ms)
+0	16:11:22.127	'3462709': previous successful authorization performed from 108.2.119.245
+2	16:12:34.945	Custom indicator Triggerlines USDCHF,H1: loaded successfully
+2	16:12:34.961	Custom indicator ZigZag_Pointer USDCHF,H1: loaded successfully
+2	16:12:34.992	Custom indicator TrendExpert USDCHF,H1: loaded successfully
+2	16:12:34.992	Custom indicator forex__news_market_clock_2 USDCHF,H1: loaded successfully
+2	16:12:35.008	Custom indicator Forex_News_Filter USDCHF,H1: loaded successfully
+2	16:12:42.943	Custom indicator Triggerlines USDCHF,H1: removed
+2	16:12:42.943	Custom indicator ZigZag_Pointer USDCHF,H1: removed
+2	16:12:42.948	Custom indicator TrendExpert USDCHF,H1: removed
+2	16:12:42.948	Custom indicator forex__news_market_clock_2 USDCHF,H1: removed
+2	16:12:42.953	Custom indicator Forex_News_Filter USDCHF,H1: removed
+0	16:12:43.664	'3462709': order sell market 0.27 USDCHF sl: 0.95700 tp: 0.95600
+1	16:12:43.823	'3462709': order sell 0.27 USDCHF opening at market sl: 0.95700 tp: 0.95600 failed [Off quotes]
+2	16:14:23.182	Expert TradeExpert USDCHF,H1: removed
+2	16:14:23.198	Expert TradeExpert USDCHF,H1: loaded successfully
+2	16:15:48.575	Custom indicator Triggerlines GBPNZD,H1: loaded successfully
+2	16:15:48.583	Custom indicator ZigZag_Pointer GBPNZD,H1: loaded successfully
+2	16:15:48.599	Custom indicator TrendExpert GBPNZD,H1: loaded successfully
+2	16:15:48.607	Custom indicator forex__news_market_clock_2 GBPNZD,H1: loaded successfully
+2	16:15:48.615	Custom indicator Forex_News_Filter GBPNZD,H1: loaded successfully
+2	16:15:50.924	Custom indicator Triggerlines GBPNZD,H1: removed
+2	16:15:50.935	Custom indicator ZigZag_Pointer GBPNZD,H1: removed
+2	16:15:50.945	Custom indicator TrendExpert GBPNZD,H1: removed
+2	16:15:50.950	Custom indicator forex__news_market_clock_2 GBPNZD,H1: removed
+2	16:15:50.954	Custom indicator Forex_News_Filter GBPNZD,H1: removed
+0	16:15:51.164	'3462709': order sell market 0.23 GBPNZD sl: 1.93400 tp: 1.93300
+0	16:15:51.294	'3462709': order was opened : #294423685 sell 0.23 GBPNZD at 1.93317 sl: 1.93400 tp: 1.93300
+0	16:27:10.584	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:27:10.584	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1317 / 8013 Mb, Disk: 94 / 217 Gb, GMT-5
+0	16:27:10.584	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:27:11.970	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:27:12.548	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.82 ms)
+0	16:27:13.049	'3462709': previous successful authorization performed from 108.2.119.245
+2	16:32:35.608	Expert TradeExpert USDCHF,H1: removed
+2	16:32:35.636	Expert TradeExpert USDCHF,H1: loaded successfully
+2	16:33:04.580	Custom indicator Triggerlines CADCHF,H1: loaded successfully
+2	16:33:04.596	Custom indicator ZigZag_Pointer CADCHF,H1: loaded successfully
+2	16:33:04.611	Custom indicator TrendExpert CADCHF,H1: loaded successfully
+2	16:33:04.633	Custom indicator forex__news_market_clock_2 CADCHF,H1: loaded successfully
+2	16:33:04.643	Custom indicator Forex_News_Filter CADCHF,H1: loaded successfully
+2	16:33:07.649	Custom indicator Triggerlines CADCHF,H1: removed
+2	16:33:07.654	Custom indicator ZigZag_Pointer CADCHF,H1: removed
+2	16:33:07.664	Custom indicator TrendExpert CADCHF,H1: removed
+2	16:33:07.664	Custom indicator forex__news_market_clock_2 CADCHF,H1: removed
+2	16:33:07.669	Custom indicator Forex_News_Filter CADCHF,H1: removed
+0	16:33:07.874	'3462709': order sell market 0.14 CADCHF sl: 0.75300 tp: 0.75200
+0	16:33:08.004	'3462709': order was opened : #294424040 sell 0.14 CADCHF at 0.75237 sl: 0.75300 tp: 0.75200
+2	16:33:59.044	Expert TradeExpert USDCHF,H1: removed
+2	16:33:59.064	Expert TradeExpert USDCHF,H1: loaded successfully
+2	16:34:14.226	Expert TradeExpert USDCHF,H1: removed
+2	16:34:14.250	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:47:29.782	'3462709': order #294424040 sell 0.14 CADCHF at 0.75237 closed due stop-loss at price 0.75301
+0	16:55:55.986	'3462709': order #294419082 sell 0.07 NZDJPY at 85.248 closed due stop-loss at price 85.439
+0	16:57:01.346	'3462709': order #294422066 sell 0.05 GBPCHF at 1.22802 closed due stop-loss at price 1.22907
+0	16:57:44.266	'3462709': order #294420340 sell 0.03 CADJPY at 101.065 closed due stop-loss at price 101.312
+2	17:03:25.006	Expert TradeExpert USDCHF,H1: removed
+2	17:03:25.021	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:03:37.960	Expert TradeExpert USDCHF,H1: removed
+2	17:03:37.991	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:09:10.829	Expert TradeExpert USDCHF,H1: removed
+2	17:09:10.860	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:09:53.710	Expert TradeExpert USDCHF,H1: removed
+2	17:09:53.741	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:10:21.296	Expert TradeExpert USDCHF,H1: removed
+0	17:10:33.122	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:10:33.123	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1709 / 8013 Mb, Disk: 94 / 217 Gb, GMT-5
+0	17:10:33.123	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	17:10:34.497	Expert TradeExpert USDCHF,H1: loaded successfully
+0	17:10:35.044	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.82 ms)
+0	17:10:35.547	'3462709': previous successful authorization performed from 108.2.119.245
+0	17:10:48.054	'3462709': ping to current access point Main 0 is 32.88 ms
+2	17:29:18.271	Expert TradeExpert USDCHF,H1: removed
+2	17:29:18.287	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:29:46.759	Expert TradeExpert USDCHF,H1: removed
+2	17:29:46.775	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:33:53.926	Expert TradeExpert USDCHF,H1: removed
+2	17:33:53.942	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:41:19.315	Expert TradeExpert USDCHF,H1: removed
+2	17:41:19.346	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:42:19.228	Expert TradeExpert USDCHF,H1: removed
+2	17:42:19.260	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:43:17.368	Expert TradeExpert USDCHF,H1: removed
+2	17:43:17.384	Expert TradeExpert USDCHF,H1: loaded successfully
+2	18:08:45.737	Expert TradeExpert USDCHF,H1: removed

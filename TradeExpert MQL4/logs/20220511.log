@@ -1,0 +1,300 @@
+2	02:31:50.096	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	02:31:58.936	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	02:33:04.459	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	02:39:08.326	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	02:39:08.405	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	02:48:18.247	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	02:48:18.325	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	02:51:04.546	Expert TestDoEasyPart22 EURJPY,H1: loaded successfully
+2	02:59:36.327	Expert TestDoEasyPart22 EURJPY,H1: removed
+2	02:59:36.405	Expert TestDoEasyPart22 EURJPY,H1: loaded successfully
+2	02:59:36.421	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	02:59:36.499	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	03:10:42.817	Expert TestDoEasyPart22 EURJPY,H1: removed
+2	03:10:42.927	Expert TestDoEasyPart22 EURJPY,H1: loaded successfully
+2	03:10:42.927	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	03:10:43.021	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	03:11:11.184	Expert TestDoEasyPart22 EURJPY,H1: removed
+2	03:11:11.261	Expert TestDoEasyPart22 EURJPY,H1: loaded successfully
+2	03:11:11.266	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	03:11:11.321	Expert TestDoEasyPart22 EURUSD,H1: loaded successfully
+2	03:11:11.551	Expert TestDoEasyPart22 EURUSD,Daily: loaded successfully
+2	03:11:14.792	Expert TestDoEasyPart22 EURUSD,Daily: removed
+2	03:11:24.211	Expert TestDoEasyPart22 EURUSD,H1: removed
+2	03:11:34.386	Expert TestDoEasyPart22 EURJPY,H1: removed
+2	03:11:52.994	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:18:10.733	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	03:18:10.811	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:18:24.753	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	03:18:29.303	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:20:10.623	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	03:20:14.310	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:23:52.821	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	03:23:52.900	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:25:22.806	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	03:25:22.884	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	03:26:20.977	Expert TestDoEasyPart22 AUDUSD,H1: removed
+0	04:11:21.999	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	04:11:22.000	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2093 / 8013 Mb, Disk: 84 / 217 Gb, GMT-5
+0	04:11:22.000	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	04:11:24.286	Sources recompilation started
+0	04:11:25.606	Sources recompilation finished (1 compiled in 1312 msec)
+0	04:11:26.885	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 31.37 ms)
+0	04:11:27.286	'3462709': previous successful authorization performed from 98.115.132.129
+2	04:11:38.468	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+0	04:11:38.683	'3462709': auto connecting to a better access point Main 0 (ping is 32.07 ms)
+0	04:11:38.909	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.07 ms)
+0	04:11:39.270	'3462709': previous successful authorization performed from 98.115.132.129
+2	04:12:00.871	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:12:39.908	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:13:02.124	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:15:28.230	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:15:38.754	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:17:30.074	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:18:09.217	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:18:16.021	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:20:09.952	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:20:10.014	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:22:22.646	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:22:22.710	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:23:07.417	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:23:07.480	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:23:43.047	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:23:43.109	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:33:47.519	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:33:47.585	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:46:18.821	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	04:46:18.894	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	04:56:12.844	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:02:01.446	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+0	05:06:44.424	'3462709': order #295408849 buy 0.10 EURJPY at 137.387 closed due stop-loss at price 137.059
+2	05:23:01.528	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:23:01.637	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	05:23:50.964	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:24:53.618	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	05:26:58.506	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:26:58.574	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+2	05:29:57.582	Expert TestDoEasyPart22 AUDUSD,H1: removed
+0	05:30:13.566	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	05:30:13.566	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2274 / 8013 Mb, Disk: 84 / 217 Gb, GMT-5
+0	05:30:13.566	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	05:30:17.160	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+0	05:30:17.739	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.07 ms)
+0	05:30:18.210	'3462709': previous successful authorization performed from 98.115.132.129
+0	05:30:29.558	'3462709': ping to current access point Main 0 is 32.74 ms
+2	05:31:48.357	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:31:48.419	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+0	05:35:58.764	Automated trading disabled
+2	05:37:47.230	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	05:43:37.835	Expert TestDoEasyPart22 AUDUSD,H1: loaded successfully
+0	05:44:01.984	Automated trading enabled
+2	05:50:33.586	Expert TestDoEasyPart22 USDCHF,H1: loaded successfully
+2	05:51:24.654	Expert TestDoEasyPart22 USDCHF,H1: removed
+2	05:51:24.716	Expert TradeExpert USDCHF,H1: loaded successfully
+0	05:51:47.602	'3462709': order buy market 0.10 USDCHF sl: 0.98937 tp: 1.00025
+1	05:51:47.790	'3462709': order buy 0.10 USDCHF opening at market sl: 0.98937 tp: 1.00025 failed [Invalid S/L or T/P]
+0	05:51:59.206	'3462709': pending order buy stop 0.10 USDCHF at 0.99235 sl: 0.98938 tp: 0.99631
+0	05:51:59.400	'3462709': order was opened : #295433872 buy stop 0.10 USDCHF at 0.99235 sl: 0.98938 tp: 0.99631
+0	05:52:10.888	'3462709': pending order sell stop 0.10 USDCHF at 0.98617 sl: 0.99013 tp: 0.97826
+0	05:52:11.013	'3462709': order was opened : #295433875 sell stop 0.10 USDCHF at 0.98617 sl: 0.99013 tp: 0.97826
+0	05:52:42.381	'3462709': pending order sell stop 0.10 USDCHF at 0.98602 sl: 0.98998 tp: 0.97415
+0	05:52:42.537	'3462709': order was opened : #295433880 sell stop 0.10 USDCHF at 0.98602 sl: 0.98998 tp: 0.97415
+0	05:54:44.580	'3462709': pending order sell stop 0.10 USDCHF at 0.98854 sl: 0.98949 tp: 0.96972
+0	05:54:44.767	'3462709': order #295433908 sell stop 0.10 USDCHF at 0.98854 activated at price 0.98854
+0	05:54:44.767	'3462709': order was opened : #295433908 sell stop 0.10 USDCHF at 0.98854 sl: 0.98949 tp: 0.96972
+0	05:54:44.767	'3462709': pending order sell stop 0.10 USDCHF at 0.98554 sl: 0.98949 tp: 0.96972
+0	05:54:44.986	'3462709': order was opened : #295433909 sell stop 0.10 USDCHF at 0.98554 sl: 0.98949 tp: 0.96972
+0	05:56:05.723	'3462709': close order #295433908 sell 0.10 USDCHF at 0.98854 sl: 0.98949 tp: 0.96972 at price 0.00000
+0	05:56:05.874	'3462709': order #295433908 sell 0.10 USDCHF at 0.98854 sl: 0.98949 tp: 0.96972 closed at price 0.98847
+2	06:01:57.053	Expert TestDoEasyPart22 AUDUSD,H1: removed
+2	06:01:57.100	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	06:02:18.709	Expert TradeExpert AUDUSD,H1: removed
+2	06:02:44.873	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	06:12:13.144	Expert TradeExpert USDCHF,H1: removed
+2	06:12:13.222	Expert TradeExpert USDCHF,H1: loaded successfully
+0	06:12:49.577	System to be shutdown, request for close OANDA - MT4
+0	06:12:50.280	OANDA - MT4 build 1355 stopped because system shutdown
+0	06:15:12.908	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	06:15:12.908	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 4523 / 8013 Mb, Disk: 86 / 217 Gb, GMT-5
+0	06:15:12.908	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	06:15:16.259	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	06:15:16.322	Expert TradeExpert USDCHF,H1: loaded successfully
+0	06:15:16.871	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.74 ms)
+0	06:15:17.232	'3462709': previous successful authorization performed from 98.115.132.129
+0	06:17:46.139	'3462709': delete pending order #295433909 sell stop 0.10 USDCHF at 0.98554 sl: 0.98949 tp: 0.96972
+0	06:17:46.233	'3462709': pending order #295433909 was deleted
+0	06:17:46.359	'3462709': pending order buy limit 0.10 USDCHF at 0.98604 sl: 0.98208 tp: 0.99000
+0	06:17:46.469	'3462709': order was opened : #295434976 buy limit 0.10 USDCHF at 0.98604 sl: 0.98208 tp: 0.99000
+0	06:18:28.957	'3462709': delete pending order #295433872 buy stop 0.10 USDCHF at 0.99235 sl: 0.98938 tp: 0.99631
+0	06:18:29.067	'3462709': pending order #295433872 was deleted
+2	06:27:47.970	Expert TradeExpert AUDUSD,H1: removed
+2	06:27:48.032	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	06:27:48.055	Expert TradeExpert USDCHF,H1: removed
+2	06:27:48.127	Expert TradeExpert USDCHF,H1: loaded successfully
+2	06:49:27.158	Expert TradeExpert AUDUSD,H1: removed
+2	06:49:27.236	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	06:49:27.236	Expert TradeExpert USDCHF,H1: removed
+2	06:49:27.331	Expert TradeExpert USDCHF,H1: loaded successfully
+2	06:49:31.081	Expert TradeExpert AUDUSD,H1: removed
+2	06:49:31.159	Expert TradeExpert USDCHF,H1: removed
+2	06:50:34.429	Expert TradeExpert USDCHF,H1: loaded successfully
+2	06:50:57.838	Expert TradeExpert USDCHF,H1: removed
+2	06:52:15.569	Expert TradeExpert USDCHF,H1: loaded successfully
+2	06:52:43.607	Expert TradeExpert USDCHF,H1: removed
+2	06:53:46.275	Expert TradeExpert USDCHF,H1: loaded successfully
+2	06:54:00.824	Expert TradeExpert USDCHF,H1: removed
+2	06:54:38.446	Expert TradeExpert EURUSD,Daily: loaded successfully
+2	06:54:43.687	Expert TradeExpert EURUSD,Daily: removed
+2	07:26:35.781	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:26:44.833	Expert TradeExpert USDCHF,H1: removed
+2	07:28:21.727	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:28:30.987	Expert TradeExpert USDCHF,H1: removed
+2	07:29:25.383	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:29:41.035	Expert TradeExpert USDCHF,H1: removed
+2	07:30:32.216	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:30:46.614	Expert TradeExpert USDCHF,H1: removed
+2	07:32:20.992	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:32:34.838	Expert TradeExpert USDCHF,H1: removed
+2	07:34:27.426	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:34:44.744	Expert TradeExpert USDCHF,H1: removed
+2	07:35:01.659	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:35:08.114	Expert TradeExpert USDCHF,H1: removed
+2	07:38:12.921	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:38:18.906	Expert TradeExpert USDCHF,H1: removed
+2	07:38:22.394	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:38:30.148	Expert TradeExpert USDCHF,H1: removed
+2	07:40:09.306	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:40:16.139	Expert TradeExpert USDCHF,H1: removed
+2	07:41:44.183	Expert TradeExpert USDCHF,H1: loaded successfully
+0	07:42:08.397	'3462709': delete pending order #295433875 sell stop 0.10 USDCHF at 0.98617 sl: 0.99013 tp: 0.97826
+0	07:42:08.538	'3462709': pending order #295433875 was deleted
+0	07:42:08.538	'3462709': delete pending order #295433880 sell stop 0.10 USDCHF at 0.98602 sl: 0.98998 tp: 0.97415
+0	07:42:08.725	'3462709': pending order #295433880 was deleted
+0	07:42:08.725	'3462709': delete pending order #295434976 buy limit 0.10 USDCHF at 0.98604 sl: 0.98208 tp: 0.99000
+0	07:42:08.850	'3462709': pending order #295434976 was deleted
+2	07:43:09.168	Expert TradeExpert USDCHF,H1: removed
+2	07:43:13.685	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:45:15.296	Expert TradeExpert USDCHF,H1: removed
+2	07:45:15.375	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:49:21.068	Expert TradeExpert USDCHF,H1: removed
+2	07:49:21.147	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:53:49.047	Expert TradeExpert USDCHF,H1: removed
+2	07:53:49.125	Expert TradeExpert USDCHF,H1: loaded successfully
+2	07:54:30.216	Expert TradeExpert USDCHF,H1: removed
+2	07:54:42.674	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:00:21.079	Expert TradeExpert AUDUSD,H1: removed
+2	08:00:21.157	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:02:55.009	Expert TradeExpert AUDUSD,H1: removed
+0	08:09:46.538	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	08:09:46.538	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2794 / 8013 Mb, Disk: 86 / 217 Gb, GMT-5
+0	08:09:46.538	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	08:09:49.132	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	08:09:49.681	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.74 ms)
+0	08:09:50.119	'3462709': previous successful authorization performed from 98.115.132.129
+2	08:09:54.579	Expert TradeExpert AUDUSD,H1: removed
+0	08:10:01.458	'3462709': ping to current access point Main 0 is 32.89 ms
+2	08:11:47.698	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:11:59.509	Expert TradeExpert AUDUSD,H1: removed
+2	08:15:50.815	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:15:56.523	Expert TradeExpert AUDUSD,H1: removed
+2	08:16:48.973	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:16:55.570	Expert TradeExpert AUDUSD,H1: removed
+2	08:18:17.818	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:18:26.997	Expert TradeExpert AUDUSD,H1: removed
+2	08:19:09.324	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:19:18.710	Expert TradeExpert AUDUSD,H1: removed
+2	08:21:16.056	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:21:21.984	Expert TradeExpert AUDUSD,H1: removed
+0	08:25:22.440	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	08:25:22.440	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2530 / 8013 Mb, Disk: 86 / 217 Gb, GMT-5
+0	08:25:22.440	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	08:25:24.279	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.89 ms)
+0	08:25:24.805	'3462709': previous successful authorization performed from 98.115.132.129
+2	08:25:42.851	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:25:49.417	Expert TradeExpert AUDUSD,H1: removed
+2	08:27:06.477	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:27:15.515	Expert TradeExpert AUDUSD,H1: removed
+2	08:28:58.112	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:29:03.974	Expert TradeExpert AUDUSD,H1: removed
+2	08:30:14.086	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:30:19.590	Expert TradeExpert AUDUSD,H1: removed
+0	08:32:32.610	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	08:32:32.610	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2143 / 8013 Mb, Disk: 86 / 217 Gb, GMT-5
+0	08:32:32.610	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	08:32:34.690	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.89 ms)
+0	08:32:35.206	'3462709': previous successful authorization performed from 98.115.132.129
+2	08:32:45.233	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:32:56.299	Expert TradeExpert AUDUSD,H1: removed
+2	08:33:54.455	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:34:00.460	Expert TradeExpert AUDUSD,H1: removed
+2	08:35:31.491	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	08:35:37.227	Expert TradeExpert AUDUSD,H1: removed
+1	09:05:50.531	'3462709': ping failed
+0	09:05:52.188	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.24 ms)
+1	13:56:19.586	'3462709': connect failed [No connection]
+2	14:09:01.928	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:10:45.924	Expert TradeExpert AUDUSD,H1: removed
+0	14:10:46.204	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	14:10:46.917	'3462709': previous successful authorization performed from 98.115.132.129
+0	14:10:59.569	'3462709': ping to current access point Main 0 is 67.68 ms
+2	14:11:06.842	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:11:17.616	Expert TradeExpert AUDUSD,H1: removed
+2	14:12:54.473	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:13:43.738	Expert TradeExpert AUDUSD,H1: removed
+2	14:13:43.801	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:14:49.933	Expert TradeExpert AUDUSD,H1: removed
+2	14:14:50.011	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:15:30.765	Expert TradeExpert AUDUSD,H1: removed
+2	14:15:30.843	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:16:19.724	Expert TradeExpert AUDUSD,H1: removed
+2	14:16:19.802	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:19:25.271	Expert TradeExpert AUDUSD,H1: removed
+2	14:21:41.813	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:28:39.111	Expert TradeExpert AUDUSD,H1: removed
+2	14:28:39.174	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:43:26.602	Expert TradeExpert AUDUSD,H1: removed
+2	14:43:26.650	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:55:16.123	Expert TradeExpert AUDUSD,H1: removed
+2	14:55:16.186	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	14:58:48.455	Expert TradeExpert AUDUSD,H1: removed
+2	14:58:48.529	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:01:23.773	Expert TradeExpert AUDUSD,H1: removed
+2	15:01:23.866	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:03:50.435	Expert TradeExpert AUDUSD,H1: removed
+2	15:03:50.514	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:05:35.773	Expert TradeExpert AUDUSD,H1: removed
+2	15:05:42.552	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:12:01.627	Expert TradeExpert AUDUSD,H1: removed
+2	15:12:01.751	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:16:15.682	Expert TradeExpert AUDUSD,H1: removed
+2	15:16:55.948	Custom indicator ZigZag_Pointer AUDUSD,H1: loaded successfully
+2	15:26:39.218	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:32:16.484	Expert TradeExpert AUDUSD,H1: removed
+2	15:32:16.656	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:38:24.381	Expert TradeExpert AUDUSD,H1: removed
+2	15:38:24.474	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:39:53.726	Expert TradeExpert AUDUSD,H1: removed
+2	15:39:53.789	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:42:03.881	Expert TradeExpert AUDUSD,H1: removed
+2	15:42:03.928	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:42:46.086	Expert TradeExpert AUDUSD,H1: removed
+2	15:42:46.133	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:44:26.365	Expert TradeExpert AUDUSD,H1: removed
+2	15:44:26.537	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	15:54:22.364	LiveUpdate: update C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4 folder started
+0	15:54:22.580	LiveUpdate: update C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4 folder finished
+0	15:54:22.815	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	15:54:22.815	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2352 / 8013 Mb, Disk: 86 / 217 Gb, GMT-5
+0	15:54:22.815	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	15:54:25.349	Sources recompilation started
+0	15:54:38.964	Sources recompilation finished (28 compiled in 13640 msec)
+2	15:54:39.933	Custom indicator ZigZag_Pointer AUDUSD,H1: loaded successfully
+2	15:54:40.027	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	15:54:41.108	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 67.68 ms)
+0	15:54:42.117	'3462709': previous successful authorization performed from 107.77.203.123
+0	15:54:55.678	'3462709': ping to current access point Main 0 is 60.42 ms
+2	15:57:37.592	Expert TradeExpert AUDUSD,H1: removed
+2	15:58:29.334	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	15:59:25.593	Expert TradeExpert AUDUSD,H1: removed
+2	15:59:31.493	Custom indicator ZigZag_Pointer AUDUSD,H1: removed
+0	16:01:52.262	OANDA - MT4 build 1356 stopped

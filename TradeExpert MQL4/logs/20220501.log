@@ -1,0 +1,142 @@
+1	00:57:29.219	'3462709': connect failed [No connection]
+1	05:38:03.711	MQL5.community: authorization failed
+1	05:42:51.168	MQL5.community: authorization failed
+1	05:47:51.861	MQL5.community: authorization failed
+1	05:52:51.921	MQL5.community: authorization failed
+1	05:57:52.014	MQL5.community: authorization failed
+1	06:02:52.013	MQL5.community: authorization failed
+1	06:21:18.564	MQL5.community: authorization failed
+1	12:38:59.891	MQL5.community: authorization failed
+0	12:39:12.224	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.71 ms)
+0	12:39:12.932	'3462709': previous successful authorization performed from 108.2.119.245
+0	12:39:25.668	'3462709': ping to current access point Main 0 is 30.06 ms
+1	14:37:34.531	'3462709': ping failed
+1	15:22:25.394	'3462709': connect failed [No connection]
+0	15:38:13.472	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	15:38:14.164	'3462709': previous successful authorization performed from 108.2.119.245
+0	15:38:26.722	'3462709': auto connecting to a better access point Main 2 (ping is 61.94 ms)
+0	15:38:27.092	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 61.94 ms)
+0	15:38:27.922	'3462709': previous successful authorization performed from 107.77.203.167
+1	16:30:35.546	'3462709': ping failed
+1	17:06:51.660	'3462709': connect failed [No connection]
+0	17:23:05.268	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	17:23:05.957	'3462709': previous successful authorization performed from 107.77.203.167
+0	17:23:19.840	'3462709': ping to current access point Main 0 is 74.44 ms
+1	17:31:53.524	'3462709': connect failed [No connection]
+0	17:32:14.437	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 74.44 ms)
+0	17:32:19.758	'3462709': previous successful authorization performed from 107.77.203.168
+2	17:32:42.323	Expert TradeExpert EURUSD,H1: loaded successfully
+2	17:43:16.032	Expert TradeExpert EURUSD,H1: removed
+2	17:43:16.048	Expert TradeExpert EURUSD,H1: loaded successfully
+0	17:44:44.075	Automated trading disabled
+0	17:44:47.774	Automated trading enabled
+2	17:44:54.047	Expert TradeExpert EURUSD,H1: removed
+0	17:45:03.839	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:45:03.839	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1440 / 8013 Mb, Disk: 83 / 217 Gb, GMT-5
+0	17:45:03.839	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	17:45:05.558	Sources recompilation started
+0	17:45:06.796	Sources recompilation finished (1 compiled in 1250 msec)
+2	17:45:07.424	Expert TradeExpert EURUSD,H1: loaded successfully
+0	17:45:08.112	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 74.44 ms)
+0	17:45:08.894	'3462709': previous successful authorization performed from 107.77.203.168
+2	17:48:38.822	Expert TradeExpert EURUSD,H1: removed
+2	17:48:38.853	Expert TradeExpert EURUSD,H1: loaded successfully
+2	17:51:27.571	Expert dailybreakout EURUSD,H1: loaded successfully
+0	17:52:27.098	'3462709': pending order sell stop 1.02 EURUSD at 1.05430 sl: 0.00000 tp: 0.00000
+1	17:52:27.302	'3462709': order sell stop 1.02 EURUSD opening at 1.05430 sl: 0.00000 tp: 0.00000 failed [Invalid S/L or T/P]
+0	17:53:00.137	'3462709': pending order sell stop 1.02 EURUSD at 1.05429 sl: 0.00000 tp: 0.00000
+0	17:53:00.403	'3462709': order #294879705 sell stop 1.02 EURUSD at 1.05429 activated at price 1.05429
+0	17:53:00.512	Trades: use hosting service to speed up the execution - 13.42 ms via 'MQL5 Chicago 01 (MQL5.community)' instead of 74.44 ms
+0	17:53:00.512	'3462709': order was opened : #294879705 sell stop 1.02 EURUSD at 1.05429 sl: 0.00000 tp: 0.00000
+0	17:53:00.512	'3462709': modify order #294879705 sell 1.02 EURUSD at 1.05429 sl: 0.00000 tp: 0.00000 -> sl: 1.06429 tp: 0.00000
+0	17:53:00.653	'3462709': order #294879705 sell 1.02 EURUSD at 1.05429 was modified -> sl: 1.06429 tp: 0.00000
+0	17:53:00.653	'3462709': modify order #294879705 sell 1.02 EURUSD at 1.05429 sl: 1.06429 tp: 0.00000 -> sl: 1.06429 tp: 1.04429
+0	17:53:00.857	'3462709': order #294879705 sell 1.02 EURUSD at 1.05429 was modified -> sl: 1.06429 tp: 1.04429
+1	18:10:07.531	'3462709': ping failed
+1	18:10:28.648	'3462709': connect failed [No connection]
+0	18:18:05.157	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	18:18:05.850	'3462709': previous successful authorization performed from 107.77.203.168
+0	18:18:19.034	'3462709': ping to current access point Main 0 is 91.94 ms
+1	18:21:18.791	'3462709': connect failed [No connection]
+0	18:31:24.874	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 91.94 ms)
+0	18:31:25.508	'3462709': previous successful authorization performed from 107.77.203.102
+2	18:40:22.386	Expert TradeExpert EURUSD,H1: removed
+2	18:40:22.402	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:40:43.627	Expert TradeExpert EURUSD,H1: removed
+2	18:40:43.643	Expert TradeExpert EURUSD,H1: loaded successfully
+0	18:46:07.269	'3462709': close order #294879705 sell 1.02 EURUSD at 1.05429 sl: 1.06429 tp: 1.04429 at price 0.00000
+0	18:46:07.534	'3462709': order #294879705 sell 1.02 EURUSD at 1.05429 sl: 1.06429 tp: 1.04429 closed at price 1.05411
+0	18:46:16.001	'3462709': pending order sell stop 1.02 EURUSD at 1.05393 sl: 0.00000 tp: 0.00000
+1	18:46:16.157	'3462709': order sell stop 1.02 EURUSD opening at 1.05393 sl: 0.00000 tp: 0.00000 failed [Invalid S/L or T/P]
+0	18:46:43.528	'3462709': pending order sell stop 1.02 EURUSD at 1.05393 sl: 0.00000 tp: 0.00000
+0	18:46:43.826	'3462709': order was opened : #294882054 sell stop 1.02 EURUSD at 1.05393 sl: 0.00000 tp: 0.00000
+0	18:46:43.826	'3462709': modify pending order #294882054 sell stop 1.02 EURUSD at 1.05393 sl: 0.00000 tp: 0.00000 -> price: 1.05393 sl: 1.06393 tp: 0.00000
+0	18:46:44.248	'3462709': pending order #294882054 sell stop 1.02 EURUSD was modified -> price: 1.05393 sl: 1.06393 tp: 0.00000
+0	18:46:44.248	'3462709': modify pending order #294882054 sell stop 1.02 EURUSD at 1.05393 sl: 1.06393 tp: 0.00000 -> price: 1.05393 sl: 1.06393 tp: 1.04393
+0	18:46:44.873	'3462709': pending order #294882054 sell stop 1.02 EURUSD was modified -> price: 1.05393 sl: 1.06393 tp: 1.04393
+0	18:46:44.873	'3462709': pending order sell stop 1.02 EURUSD at 1.05394 sl: 0.00000 tp: 0.00000
+0	18:46:45.264	'3462709': order #294882056 sell stop 1.02 EURUSD at 1.05394 activated at price 1.05394
+0	18:46:45.264	'3462709': order was opened : #294882056 sell stop 1.02 EURUSD at 1.05394 sl: 0.00000 tp: 0.00000
+0	18:46:45.264	'3462709': modify order #294882056 sell 1.02 EURUSD at 1.05394 sl: 0.00000 tp: 0.00000 -> sl: 1.06394 tp: 0.00000
+0	18:46:45.842	'3462709': order #294882056 sell 1.02 EURUSD at 1.05394 was modified -> sl: 1.06394 tp: 0.00000
+0	18:46:45.842	'3462709': modify order #294882056 sell 1.02 EURUSD at 1.05394 sl: 1.06394 tp: 0.00000 -> sl: 1.06394 tp: 1.04394
+0	18:46:46.077	'3462709': order #294882056 sell 1.02 EURUSD at 1.05394 was modified -> sl: 1.06394 tp: 1.04394
+2	18:51:40.433	Expert TradeExpert EURUSD,H1: removed
+2	18:51:40.449	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:52:01.628	Expert dailybreakout EURUSD,H1: removed
+2	18:52:05.912	Expert TradeExpert EURUSD,H1: loaded successfully
+1	19:10:05.546	'3462709': ping failed
+0	21:17:08.895	'3462709': login on OANDA-Demo-1 through Main 2 (ping: n/a)
+0	21:17:09.255	'3462709': previous successful authorization performed from 107.77.203.217
+0	21:17:21.624	'3462709': auto connecting to a better access point Main 0 (ping is 33.19 ms)
+0	21:17:21.828	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.19 ms)
+0	21:17:22.109	'3462709': previous successful authorization performed from 108.2.119.245
+2	21:17:23.366	Expert TradeExpert EURUSD,H1: removed
+2	21:17:23.381	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:17:23.386	Expert TradeExpert EURUSD,H1: removed
+2	21:17:23.401	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:17:52.508	Expert TradeExpert EURUSD,H1: removed
+2	21:17:52.523	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:17:52.523	Expert TradeExpert EURUSD,H1: removed
+2	21:17:52.539	Expert TradeExpert EURUSD,H1: loaded successfully
+0	21:19:05.731	'3462709': close order #294882056 sell 1.02 EURUSD at 1.05394 sl: 1.06394 tp: 1.04394 at price 0.00000
+0	21:19:05.918	'3462709': order #294882056 sell 1.02 EURUSD at 1.05394 sl: 1.06394 tp: 1.04394 closed at price 1.05280
+2	21:36:14.384	Expert TradeExpert EURUSD,H1: removed
+2	22:34:03.002	Expert TradeExpert EURUSD,H1: removed
+2	22:34:03.059	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:34:19.040	Expert TradeExpert EURUSD,H1: removed
+2	22:34:19.126	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:34:43.557	Expert TradeExpert EURUSD,H1: removed
+2	22:34:43.581	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:37:08.162	Expert TradeExpert EURUSD,H1: removed
+2	22:37:08.225	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:37:24.737	Expert TradeExpert EURUSD,H1: removed
+2	22:37:41.322	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:40:30.107	Expert TradeExpert EURUSD,H1: removed
+2	22:40:30.131	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:40:51.440	Expert TradeExpert EURUSD,H1: removed
+2	22:40:51.456	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:44:26.855	Expert TradeExpert EURUSD,H1: removed
+2	22:44:26.880	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:44:57.686	Expert TradeExpert EURUSD,H1: removed
+2	22:44:57.702	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:55:51.228	Expert TradeExpert EURUSD,H1: removed
+2	22:55:51.252	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:59:58.514	Expert TradeExpert EURUSD,H1: removed
+2	22:59:58.593	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:01:58.170	Expert TradeExpert EURUSD,H1: removed
+2	23:01:58.194	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:03:18.041	Expert TradeExpert EURUSD,H1: removed
+2	23:03:18.065	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:04:02.291	Expert TradeExpert EURUSD,H1: removed
+2	23:04:02.315	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:04:46.554	Expert TradeExpert EURUSD,H1: removed
+2	23:04:46.617	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:06:16.836	Expert TradeExpert EURUSD,H1: removed
+2	23:06:16.860	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:08:12.310	Expert TradeExpert EURUSD,H1: removed
+2	23:08:12.326	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:29:42.709	Expert TradeExpert EURUSD,H1: removed
+2	23:29:42.728	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:40:13.776	Expert TradeExpert EURUSD,H1: removed
+2	23:40:13.806	Expert TradeExpert EURUSD,H1: loaded successfully

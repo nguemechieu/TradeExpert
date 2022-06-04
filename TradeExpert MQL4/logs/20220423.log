@@ -1,0 +1,74 @@
+0	00:30:34.559	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	00:30:34.560	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1058 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	00:30:34.560	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	00:30:37.165	Expert TradeExpert USDCHF,H1: loaded successfully
+0	00:30:37.794	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.88 ms)
+0	00:30:38.283	'3462709': previous successful authorization performed from 108.2.119.245
+0	00:30:50.511	'3462709': auto connecting to a better access point Main 2 (ping is 31.56 ms)
+0	00:30:50.803	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 31.56 ms)
+0	00:30:51.223	'3462709': previous successful authorization performed from 108.2.119.245
+2	00:30:53.316	Custom indicator Forex_News_Filter USDCHF,H1: loaded successfully
+1	00:51:32.262	'3462709': ping failed
+1	00:51:32.364	'3462709': connect failed [No connection]
+1	11:29:46.572	MQL5.community: authorization failed
+0	11:29:51.767	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	11:29:52.151	'3462709': previous successful authorization performed from 108.2.119.245
+0	11:30:04.554	'3462709': ping to current access point Main 0 is 32.32 ms
+1	11:34:22.531	'3462709': ping failed
+0	11:34:25.805	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.85 ms)
+0	11:34:26.198	'3462709': previous successful authorization performed from 108.2.119.245
+2	11:48:38.969	Expert TradeExpert USDCHF,H1: removed
+2	11:48:39.001	Expert TradeExpert USDCHF,H1: loaded successfully
+2	11:50:46.770	Expert TradeExpert USDCHF,H1: removed
+2	11:50:46.795	Expert TradeExpert USDCHF,H1: loaded successfully
+2	11:51:16.395	Expert TradeExpert USDCHF,H1: removed
+2	11:51:16.490	Expert TradeExpert USDCHF,H1: loaded successfully
+2	11:51:35.572	Expert TradeExpert USDCHF,H1: removed
+2	11:51:35.572	Custom indicator Forex_News_Filter USDCHF,H1: removed
+0	11:51:41.132	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	11:51:41.132	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1774 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	11:51:41.132	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	11:51:43.348	Sources recompilation started
+0	11:51:44.908	Sources recompilation finished (1 compiled in 1562 msec)
+2	11:51:45.590	Custom indicator Forex_News_Filter USDCHF,H1: loaded successfully
+2	11:51:45.614	Expert TradeExpert USDCHF,H1: loaded successfully
+0	11:51:46.399	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.85 ms)
+0	11:51:46.940	'3462709': previous successful authorization performed from 108.2.119.245
+2	12:03:27.504	Expert TradeExpert USDCHF,H1: removed
+2	12:03:27.528	Expert TradeExpert USDCHF,H1: loaded successfully
+2	12:35:57.535	Expert TradeExpert USDCHF,H1: removed
+2	12:35:57.559	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:24:57.076	Expert TradeExpert USDCHF,H1: removed
+2	13:24:57.084	Custom indicator Forex_News_Filter USDCHF,H1: removed
+0	14:22:30.553	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	14:22:30.553	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1623 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	14:22:30.553	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	14:22:31.959	Sources recompilation started
+0	14:22:33.553	Sources recompilation finished (2 compiled in 1594 msec)
+0	14:22:34.676	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.85 ms)
+0	14:22:35.257	'3462709': previous successful authorization performed from 108.2.119.245
+0	14:22:46.731	'3462709': ping to current access point Main 2 is 30.14 ms
+2	14:22:54.017	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+2	14:23:01.262	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	14:23:15.133	Custom indicator TradeReport EURUSD,H1: loaded successfully
+2	14:23:19.250	Custom indicator TradeExpert_Indicator_V3_2021 EURUSD,H1: loaded successfully
+2	14:23:21.086	Custom indicator TradeExpert_Indicator_V3_2021 EURUSD,H1: removed
+2	14:23:28.638	Custom indicator TradeReport_compact_-_v.1.04_01y EURUSD,H1: loaded successfully
+2	14:24:24.152	Custom indicator TrendsFollowers EURUSD,H1: removed
+2	14:24:24.155	Custom indicator TrendExpert EURUSD,H1: removed
+2	14:24:24.156	Custom indicator TradeReport EURUSD,H1: removed
+2	14:24:24.157	Custom indicator TradeReport_compact_-_v.1.04_01y EURUSD,H1: removed
+0	21:27:17.600	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	21:27:17.601	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1126 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	21:27:17.601	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	21:27:19.562	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+2	21:27:19.580	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	21:27:19.589	Custom indicator TradeReport EURUSD,H1: loaded successfully
+2	21:27:19.598	Custom indicator TradeReport_compact_-_v.1.04_01y EURUSD,H1: loaded successfully
+0	21:27:20.427	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 30.14 ms)
+0	21:27:20.906	'3462709': previous successful authorization performed from 108.2.119.245
+0	21:27:33.005	'3462709': auto connecting to a better access point Main 0 (ping is 32.68 ms)
+0	21:27:33.251	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.68 ms)
+0	21:27:33.636	'3462709': previous successful authorization performed from 108.2.119.245
+0	21:31:27.847	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.47 ms)
+0	21:31:28.230	'3462709': previous successful authorization performed from 108.2.119.245

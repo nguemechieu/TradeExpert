@@ -1,0 +1,645 @@
+2	00:00:11.006	Expert TradeExpert USDJPY,H1: removed
+2	00:00:11.070	Expert TradeExpert USDJPY,H1: loaded successfully
+2	00:12:13.697	Expert TradeExpert USDJPY,H1: removed
+2	00:12:13.719	Expert TradeExpert USDJPY,H1: loaded successfully
+2	00:19:50.679	Expert TradeExpert USDJPY,H1: removed
+2	00:19:50.711	Expert TradeExpert USDJPY,H1: loaded successfully
+0	00:39:00.376	'3462709': order #294448101 sell 0.01 NZDCAD at 0.84110 closed due take-profit at price 0.84032
+0	00:53:41.147	'3462709': order #294446006 sell 0.51 NZDUSD at 0.66012 closed due take-profit at price 0.65935
+2	00:58:08.052	Expert TradeExpert USDJPY,H1: removed
+2	00:58:08.071	Expert TradeExpert USDJPY,H1: loaded successfully
+2	00:58:16.531	Expert TradeExpert USDJPY,H1: removed
+2	00:58:16.555	Expert TradeExpert USDJPY,H1: loaded successfully
+0	01:14:45.826	'3462709': order #294449306 sell 0.02 GBPJPY at 164.480 closed due stop-loss at price 164.636
+2	01:18:52.596	Expert TradeExpert USDJPY,H1: removed
+2	01:18:52.612	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:19:06.719	Expert TradeExpert USDJPY,H1: removed
+2	01:19:06.743	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:20:09.308	Expert TradeExpert USDJPY,H1: removed
+2	01:20:09.333	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:22:03.070	Expert TradeExpert USDJPY,H1: removed
+2	01:22:03.094	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:24:36.470	Expert TradeExpert USDJPY,H1: removed
+0	01:26:27.627	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	01:26:27.627	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1289 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	01:26:27.627	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	01:26:29.807	Expert TradeExpert USDJPY,H1: loaded successfully
+0	01:26:30.346	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.65 ms)
+0	01:26:30.845	'3462709': previous successful authorization performed from 108.2.119.245
+0	01:26:43.411	'3462709': auto connecting to a better access point Main 2 (ping is 32.09 ms)
+0	01:26:43.770	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.09 ms)
+0	01:26:44.442	'3462709': previous successful authorization performed from 108.2.119.245
+2	01:30:56.560	Expert TradeExpert USDJPY,H1: removed
+2	01:30:56.581	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:33:46.249	Expert TradeExpert USDJPY,H1: removed
+2	01:33:46.273	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:33:53.374	Expert TradeExpert USDJPY,H1: removed
+2	01:33:53.398	Expert TradeExpert USDJPY,H1: loaded successfully
+0	01:37:11.137	Automated trading disabled
+3	01:37:11.137	Automated trading disabled because the account has been changed
+0	01:37:11.263	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.12 ms)
+0	01:37:11.686	'8848155': previous successful authorization performed from 107.77.204.100
+0	01:37:17.709	'8848155': ping to current access point Main 1 is 11.53 ms
+0	01:41:40.655	Automated trading enabled
+2	01:42:42.190	Expert TradeExpert USDJPY,H1: removed
+2	01:42:42.222	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:44:19.036	Expert TradeExpert USDJPY,H1: removed
+2	01:44:19.060	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:45:17.515	Expert TradeExpert USDJPY,H1: removed
+2	01:45:17.531	Expert TradeExpert USDJPY,H1: loaded successfully
+2	01:48:57.476	Expert TradeExpert USDJPY,H1: removed
+2	01:48:57.500	Expert TradeExpert USDJPY,H1: loaded successfully
+0	01:50:49.274	'8848155': order sell market 0.06 USDJPY sl: 0.000 tp: 0.000
+1	01:50:49.394	'8848155': order sell 0.06 USDJPY opening at market sl: 0.000 tp: 0.000 failed [Not enough money]
+2	01:52:06.768	Expert TradeExpert USDJPY,H1: removed
+2	01:52:06.792	Expert TradeExpert USDJPY,H1: loaded successfully
+0	01:52:23.911	Automated trading disabled
+3	01:52:23.911	Automated trading disabled because the account has been changed
+0	01:52:24.181	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.09 ms)
+0	01:52:24.710	'3462709': previous successful authorization performed from 108.2.119.245
+0	01:53:13.949	Automated trading enabled
+2	01:58:47.414	Expert TradeExpert USDJPY,H1: removed
+2	01:58:47.438	Expert TradeExpert USDJPY,H1: loaded successfully
+0	02:14:20.738	'3462709': order #294448534 sell 0.20 EURJPY at 138.374 closed due take-profit at price 138.114
+2	02:29:51.532	Expert TradeExpert USDJPY,H1: removed
+2	02:29:51.557	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:35:52.537	Expert TradeExpert USDJPY,H1: removed
+2	02:35:52.568	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:44:14.801	Expert TradeExpert USDJPY,H1: removed
+2	02:44:14.833	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:44:14.932	Expert TradeExpert EURUSD,H1: loaded successfully
+2	02:46:28.008	Expert TradeExpert USDJPY,H1: removed
+2	02:46:28.015	Expert TradeExpert EURUSD,H1: removed
+0	02:46:37.011	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	02:46:37.011	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1145 / 8013 Mb, Disk: 92 / 217 Gb, GMT-5
+0	02:46:37.011	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	02:46:39.502	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:46:39.829	Expert TradeExpert EURUSD,H1: loaded successfully
+0	02:46:40.282	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.09 ms)
+0	02:46:40.723	'3462709': previous successful authorization performed from 108.2.119.245
+0	02:46:52.893	'3462709': auto connecting to a better access point Main 0 (ping is 32.92 ms)
+0	02:46:53.150	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.92 ms)
+0	02:46:53.518	'3462709': previous successful authorization performed from 108.2.119.245
+2	02:48:00.318	Expert TradeExpert USDJPY,H1: removed
+2	02:48:00.335	Expert TradeExpert EURUSD,H1: removed
+0	02:48:09.233	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	02:48:09.234	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 842 / 8013 Mb, Disk: 92 / 217 Gb, GMT-5
+0	02:48:09.234	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	02:48:10.885	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:48:11.298	Expert TradeExpert EURUSD,H1: loaded successfully
+0	02:48:11.539	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.92 ms)
+0	02:48:11.990	'3462709': previous successful authorization performed from 108.2.119.245
+2	02:48:14.417	Expert TradeExpert EURUSD,H1: removed
+1	02:48:14.417	Profiling - loading of TradeExpert failed
+2	02:55:17.551	Expert TradeExpert USDJPY,H1: removed
+2	02:55:17.578	Expert TradeExpert USDJPY,H1: loaded successfully
+2	02:55:17.647	Expert TradeExpert EURUSD,H1: loaded successfully
+2	03:06:12.604	Expert TradeExpert EURUSD,H1: removed
+2	03:06:21.235	Expert TradeExpert USDJPY,H1: removed
+2	03:06:21.265	Expert TradeExpert USDJPY,H1: loaded successfully
+0	11:15:21.930	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	11:15:21.931	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1368 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	11:15:21.931	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	11:15:24.394	Expert TradeExpert USDJPY,H1: loaded successfully
+0	11:15:24.912	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.92 ms)
+0	11:15:25.411	'3462709': previous successful authorization performed from 108.2.119.245
+0	11:15:37.886	'3462709': auto connecting to a better access point Main 2 (ping is 33.99 ms)
+0	11:15:38.186	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 33.99 ms)
+0	11:15:38.535	'3462709': previous successful authorization performed from 108.2.119.245
+2	11:22:22.238	Expert TradeExpert USDJPY,H1: removed
+2	11:22:22.269	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:26:08.448	Expert TradeExpert USDJPY,H1: removed
+2	11:26:08.473	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:31:16.833	Expert TradeExpert USDJPY,H1: removed
+2	11:31:16.862	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:31:31.058	Expert TradeExpert USDJPY,H1: removed
+2	11:31:31.083	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:33:57.575	Expert TradeExpert USDJPY,H1: removed
+2	11:33:57.597	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:39:08.506	Expert TradeExpert USDJPY,H1: removed
+2	11:39:08.532	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:55:26.030	Expert TradeExpert USDJPY,H1: removed
+2	11:55:26.055	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:55:26.414	Expert TradeExpert USDJPY,H1: removed
+2	11:59:50.997	Expert TradeExpert USDJPY,H1: loaded successfully
+2	11:59:57.113	Expert TradeExpert USDJPY,H1: removed
+2	12:01:22.980	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:11:42.107	Expert TradeExpert USDJPY,H1: removed
+2	12:11:42.130	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:11:57.982	Expert TradeExpert USDJPY,H1: removed
+2	12:11:58.008	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:13:39.484	Expert TradeExpert USDJPY,H1: removed
+2	12:13:39.511	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:15:08.300	Expert TradeExpert USDJPY,H1: removed
+2	12:15:08.324	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:15:49.410	Expert TradeExpert USDJPY,H1: removed
+2	12:15:49.438	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:16:12.715	Expert TradeExpert USDJPY,H1: removed
+2	12:16:12.742	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:16:17.599	Expert TradeExpert USDJPY,H1: removed
+0	12:16:21.273	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	12:16:21.273	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1192 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	12:16:21.273	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	12:16:22.962	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:16:23.325	Expert TradeExpert EURUSD,H1: loaded successfully
+0	12:16:23.604	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 33.99 ms)
+0	12:16:24.022	'3462709': previous successful authorization performed from 108.2.119.245
+0	12:16:36.322	'3462709': auto connecting to a better access point Main 0 (ping is 32.78 ms)
+0	12:16:36.613	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.78 ms)
+0	12:16:37.060	'3462709': previous successful authorization performed from 108.2.119.245
+2	12:18:26.423	Expert TradeExpert EURUSD,H1: removed
+2	12:18:28.401	Expert TradeExpert USDJPY,H1: removed
+2	12:18:28.427	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:20:05.896	Expert TradeExpert USDJPY,H1: removed
+2	12:20:05.921	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:22:26.414	Expert TradeExpert USDJPY,H1: removed
+2	12:22:26.441	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:26:03.864	Expert TradeExpert USDJPY,H1: removed
+2	12:26:03.888	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:26:18.697	Expert TradeExpert USDJPY,H1: removed
+2	12:26:18.723	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:31:35.101	Expert TradeExpert USDJPY,H1: removed
+2	12:31:35.127	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:32:01.447	Expert TradeExpert USDJPY,H1: removed
+2	12:32:01.470	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:40:14.543	Expert TradeExpert USDJPY,H1: removed
+2	12:40:14.566	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:42:37.519	Expert TradeExpert USDJPY,H1: removed
+2	12:42:37.540	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:45:11.723	Expert TradeExpert USDJPY,H1: removed
+2	12:45:11.744	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:53:29.456	Expert TradeExpert USDJPY,H1: removed
+2	12:53:29.476	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:01:47.831	Expert TradeExpert USDJPY,H1: removed
+2	13:01:47.852	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:13:27.948	Expert TradeExpert USDJPY,H1: removed
+2	13:13:27.969	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:18:03.287	Expert TradeExpert USDJPY,H1: removed
+2	13:18:03.312	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:24:03.751	Expert TradeExpert USDJPY,H1: removed
+2	13:24:03.773	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:31:28.551	Expert TradeExpert USDJPY,H1: removed
+2	13:31:28.577	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:51:37.939	Expert TradeExpert USDJPY,H1: removed
+2	13:51:37.964	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:52:37.383	Expert TradeExpert USDJPY,H1: removed
+2	13:52:40.410	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:59:38.442	Expert TradeExpert USDJPY,H1: removed
+2	13:59:38.464	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:10:03.847	Expert TradeExpert USDJPY,H1: removed
+2	14:10:03.871	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:10:32.907	Expert TradeExpert USDJPY,H1: removed
+2	14:10:32.930	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:12:04.980	Expert TradeExpert USDJPY,H1: removed
+2	14:12:05.002	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:14:11.069	Expert TradeExpert USDJPY,H1: removed
+2	14:14:11.091	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:15:39.836	Expert TradeExpert USDJPY,H1: removed
+2	14:15:39.858	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:17:42.641	Expert TradeExpert USDJPY,H1: removed
+2	14:17:42.663	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:17:54.966	Custom indicator Triggerlines NZDCHF,H1: loaded successfully
+2	14:17:54.975	Custom indicator ZigZag_Pointer NZDCHF,H1: loaded successfully
+2	14:17:54.994	Custom indicator TrendExpert NZDCHF,H1: loaded successfully
+2	14:17:55.005	Custom indicator forex__news_market_clock_2 NZDCHF,H1: loaded successfully
+2	14:17:55.017	Custom indicator Forex_News_Filter NZDCHF,H1: loaded successfully
+2	14:17:58.265	Custom indicator Triggerlines NZDCHF,H1: removed
+2	14:17:58.266	Custom indicator ZigZag_Pointer NZDCHF,H1: removed
+2	14:17:58.269	Custom indicator TrendExpert NZDCHF,H1: removed
+2	14:17:58.270	Custom indicator forex__news_market_clock_2 NZDCHF,H1: removed
+2	14:17:58.271	Custom indicator Forex_News_Filter NZDCHF,H1: removed
+0	14:17:58.531	'3462709': order sell market 0.04 NZDCHF sl: 0.00000 tp: 0.63428
+0	14:17:58.646	'3462709': order was opened : #294502992 sell 0.04 NZDCHF at 0.63428 sl: 0.00000 tp: 0.63428
+0	14:21:52.434	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	14:21:52.434	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1216 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	14:21:52.434	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	14:21:54.447	Expert TradeExpert USDJPY,H1: loaded successfully
+0	14:29:27.294	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	14:29:27.294	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1634 / 8013 Mb, Disk: 90 / 217 Gb, GMT-5
+0	14:29:27.294	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	14:29:28.707	Expert TradeExpert USDJPY,H1: loaded successfully
+0	14:29:29.253	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.17 ms)
+0	14:29:29.673	'3462709': previous successful authorization performed from 108.2.119.245
+2	14:31:28.541	Expert TradeExpert USDJPY,H1: removed
+2	14:31:28.576	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:32:14.059	Expert TradeExpert USDJPY,H1: removed
+2	14:36:10.980	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:36:30.577	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	14:36:30.589	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	14:36:30.607	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	14:36:30.616	Custom indicator forex__news_market_clock_2 EURNZD,H1: loaded successfully
+2	14:36:30.626	Custom indicator Forex_News_Filter EURNZD,H1: loaded successfully
+2	14:36:33.882	Custom indicator Triggerlines EURNZD,H1: removed
+2	14:36:33.883	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	14:36:33.886	Custom indicator TrendExpert EURNZD,H1: removed
+2	14:36:33.887	Custom indicator forex__news_market_clock_2 EURNZD,H1: removed
+2	14:36:33.889	Custom indicator Forex_News_Filter EURNZD,H1: removed
+0	14:36:34.161	'3462709': order sell market 0.02 EURNZD sl: 1.62024 tp: 1.61929
+0	14:36:34.275	'3462709': order was opened : #294503715 sell 0.02 EURNZD at 1.61929 sl: 1.62024 tp: 1.61929
+0	14:43:24.280	'3462709': order #294503715 sell 0.02 EURNZD at 1.61929 closed due stop-loss at price 1.62025
+0	14:45:13.421	'3462709': order #294502992 sell 0.04 NZDCHF at 0.63428 closed due take-profit at price 0.63428
+2	14:47:00.038	Expert TradeExpert USDJPY,H1: removed
+2	14:47:00.060	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:47:22.667	Expert TradeExpert USDJPY,H1: removed
+2	14:47:22.691	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:47:37.875	Custom indicator Triggerlines GBPCHF,H1: loaded successfully
+2	14:47:37.884	Custom indicator ZigZag_Pointer GBPCHF,H1: loaded successfully
+2	14:47:37.902	Custom indicator TrendExpert GBPCHF,H1: loaded successfully
+2	14:47:37.912	Custom indicator forex__news_market_clock_2 GBPCHF,H1: loaded successfully
+2	14:47:37.922	Custom indicator Forex_News_Filter GBPCHF,H1: loaded successfully
+0	14:47:39.057	'3462709': order sell market 0.02 GBPCHF sl: 1.22190 tp: 1.22056
+0	14:47:39.165	'3462709': order was opened : #294504196 sell 0.02 GBPCHF at 1.22150 sl: 1.22190 tp: 1.22056
+2	14:47:45.836	Expert TradeExpert USDJPY,H1: removed
+2	14:47:45.861	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:47:45.947	Custom indicator Triggerlines GBPCHF,H1: removed
+2	14:47:45.949	Custom indicator ZigZag_Pointer GBPCHF,H1: removed
+2	14:47:45.951	Custom indicator TrendExpert GBPCHF,H1: removed
+2	14:47:45.953	Custom indicator forex__news_market_clock_2 GBPCHF,H1: removed
+2	14:47:45.954	Custom indicator Forex_News_Filter GBPCHF,H1: removed
+2	14:47:59.992	Custom indicator Triggerlines EURJPY,H1: loaded successfully
+2	14:48:00.000	Custom indicator ZigZag_Pointer EURJPY,H1: loaded successfully
+2	14:48:00.018	Custom indicator TrendExpert EURJPY,H1: loaded successfully
+2	14:48:00.029	Custom indicator forex__news_market_clock_2 EURJPY,H1: loaded successfully
+2	14:48:00.039	Custom indicator Forex_News_Filter EURJPY,H1: loaded successfully
+2	14:48:02.825	Custom indicator Triggerlines EURJPY,H1: removed
+2	14:48:02.827	Custom indicator ZigZag_Pointer EURJPY,H1: removed
+2	14:48:02.829	Custom indicator TrendExpert EURJPY,H1: removed
+2	14:48:02.831	Custom indicator forex__news_market_clock_2 EURJPY,H1: removed
+2	14:48:02.832	Custom indicator Forex_News_Filter EURJPY,H1: removed
+0	14:48:03.105	'3462709': order sell market 0.02 EURJPY sl: 0.000 tp: 137.149
+0	14:48:03.239	'3462709': order was opened : #294504212 sell 0.02 EURJPY at 137.149 sl: 0.000 tp: 137.149
+0	14:51:28.110	'3462709': order #294504212 sell 0.02 EURJPY at 137.149 closed due take-profit at price 137.148
+2	14:58:40.486	Expert TradeExpert USDJPY,H1: removed
+2	14:58:40.511	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:58:55.712	Custom indicator Triggerlines CHFJPY,H1: loaded successfully
+2	14:58:55.722	Custom indicator ZigZag_Pointer CHFJPY,H1: loaded successfully
+2	14:58:55.739	Custom indicator TrendExpert CHFJPY,H1: loaded successfully
+2	14:58:55.749	Custom indicator forex__news_market_clock_2 CHFJPY,H1: loaded successfully
+2	14:58:55.758	Custom indicator Forex_News_Filter CHFJPY,H1: loaded successfully
+2	14:58:58.369	Custom indicator Triggerlines CHFJPY,H1: removed
+2	14:58:58.371	Custom indicator ZigZag_Pointer CHFJPY,H1: removed
+2	14:58:58.373	Custom indicator TrendExpert CHFJPY,H1: removed
+2	14:58:58.374	Custom indicator forex__news_market_clock_2 CHFJPY,H1: removed
+2	14:58:58.376	Custom indicator Forex_News_Filter CHFJPY,H1: removed
+0	14:58:58.706	'3462709': order sell market 0.01 CHFJPY sl: 0.000 tp: 133.307
+0	14:58:58.851	'3462709': order was opened : #294504554 sell 0.01 CHFJPY at 133.447 sl: 0.000 tp: 133.307
+2	15:02:03.960	Expert TradeExpert USDJPY,H1: removed
+2	15:02:03.984	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:02:18.111	Custom indicator Triggerlines USDCHF,H1: loaded successfully
+2	15:02:18.124	Custom indicator ZigZag_Pointer USDCHF,H1: loaded successfully
+2	15:02:18.143	Custom indicator TrendExpert USDCHF,H1: loaded successfully
+2	15:02:18.152	Custom indicator forex__news_market_clock_2 USDCHF,H1: loaded successfully
+2	15:02:18.162	Custom indicator Forex_News_Filter USDCHF,H1: loaded successfully
+2	15:02:21.290	Custom indicator Triggerlines USDCHF,H1: removed
+2	15:02:21.291	Custom indicator ZigZag_Pointer USDCHF,H1: removed
+2	15:02:21.294	Custom indicator TrendExpert USDCHF,H1: removed
+2	15:02:21.295	Custom indicator forex__news_market_clock_2 USDCHF,H1: removed
+2	15:02:21.297	Custom indicator Forex_News_Filter USDCHF,H1: removed
+0	15:02:21.634	'3462709': order sell market 0.23 USDCHF sl: 0.00000 tp: 0.95886
+0	15:02:21.744	'3462709': order was opened : #294504839 sell 0.23 USDCHF at 0.95886 sl: 0.00000 tp: 0.95886
+0	15:05:21.368	'3462709': order #294504839 sell 0.23 USDCHF at 0.95886 closed due take-profit at price 0.95884
+2	15:09:00.531	Expert TradeExpert USDJPY,H1: removed
+2	15:09:00.556	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:13:40.230	Expert TradeExpert USDJPY,H1: removed
+2	15:13:40.254	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:13:54.539	Custom indicator Triggerlines AUDUSD,H1: loaded successfully
+2	15:13:54.549	Custom indicator ZigZag_Pointer AUDUSD,H1: loaded successfully
+2	15:13:54.567	Custom indicator TrendExpert AUDUSD,H1: loaded successfully
+2	15:13:54.577	Custom indicator forex__news_market_clock_2 AUDUSD,H1: loaded successfully
+2	15:13:54.587	Custom indicator Forex_News_Filter AUDUSD,H1: loaded successfully
+2	15:13:57.893	Custom indicator Triggerlines AUDUSD,H1: removed
+2	15:13:57.894	Custom indicator ZigZag_Pointer AUDUSD,H1: removed
+2	15:13:57.897	Custom indicator TrendExpert AUDUSD,H1: removed
+2	15:13:57.898	Custom indicator forex__news_market_clock_2 AUDUSD,H1: removed
+2	15:13:57.900	Custom indicator Forex_News_Filter AUDUSD,H1: removed
+0	15:13:58.207	'3462709': order sell market 0.04 AUDUSD sl: 0.00000 tp: 0.71647
+0	15:13:58.380	'3462709': order was opened : #294505510 sell 0.04 AUDUSD at 0.71647 sl: 0.00000 tp: 0.71647
+2	15:16:32.616	Expert TradeExpert USDJPY,H1: removed
+2	15:16:32.643	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:16:53.175	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	15:16:53.183	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	15:16:53.200	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	15:16:53.210	Custom indicator forex__news_market_clock_2 EURUSD,H1: loaded successfully
+2	15:16:53.219	Custom indicator Forex_News_Filter EURUSD,H1: loaded successfully
+2	15:16:56.313	Custom indicator Triggerlines EURUSD,H1: removed
+2	15:16:56.314	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	15:16:56.317	Custom indicator TrendExpert EURUSD,H1: removed
+2	15:16:56.319	Custom indicator forex__news_market_clock_2 EURUSD,H1: removed
+2	15:16:56.320	Custom indicator Forex_News_Filter EURUSD,H1: removed
+0	15:16:56.604	'3462709': order sell market 0.03 EURUSD sl: 0.00000 tp: 1.07078
+0	15:16:56.742	'3462709': order was opened : #294505769 sell 0.03 EURUSD at 1.07078 sl: 0.00000 tp: 1.07078
+2	15:23:32.869	Expert TradeExpert USDJPY,H1: removed
+2	15:23:32.893	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:23:48.668	Custom indicator Triggerlines GBPJPY,H1: loaded successfully
+2	15:23:48.678	Custom indicator ZigZag_Pointer GBPJPY,H1: loaded successfully
+2	15:23:48.696	Custom indicator TrendExpert GBPJPY,H1: loaded successfully
+2	15:23:48.706	Custom indicator forex__news_market_clock_2 GBPJPY,H1: loaded successfully
+2	15:23:48.715	Custom indicator Forex_News_Filter GBPJPY,H1: loaded successfully
+2	15:23:51.820	Custom indicator Triggerlines GBPJPY,H1: removed
+2	15:23:51.821	Custom indicator ZigZag_Pointer GBPJPY,H1: removed
+2	15:23:51.824	Custom indicator TrendExpert GBPJPY,H1: removed
+2	15:23:51.825	Custom indicator forex__news_market_clock_2 GBPJPY,H1: removed
+2	15:23:51.827	Custom indicator Forex_News_Filter GBPJPY,H1: removed
+0	15:23:52.117	'3462709': order sell market 0.03 GBPJPY sl: 163.277 tp: 162.930
+0	15:23:52.250	'3462709': order was opened : #294505973 sell 0.03 GBPJPY at 163.088 sl: 163.277 tp: 162.930
+0	16:34:40.795	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:34:40.795	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1325 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	16:34:40.795	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:34:43.013	Expert TradeExpert USDJPY,H1: loaded successfully
+0	16:34:43.549	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.17 ms)
+0	16:34:44.014	'3462709': previous successful authorization performed from 108.2.119.245
+0	16:34:56.378	'3462709': ping to current access point Main 0 is 32.94 ms
+2	16:39:12.768	Expert TradeExpert USDJPY,H1: removed
+2	16:39:12.790	Expert TradeExpert USDJPY,H1: loaded successfully
+2	16:39:51.207	Expert TradeExpert USDJPY,H1: removed
+2	16:39:51.242	Expert TradeExpert USDJPY,H1: loaded successfully
+0	16:47:07.279	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:47:07.280	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1437 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	16:47:07.280	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:47:08.750	Expert TradeExpert USDJPY,H1: loaded successfully
+0	16:47:09.310	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.94 ms)
+0	16:47:09.821	'3462709': previous successful authorization performed from 108.2.119.245
+2	16:48:56.486	Custom indicator Triggerlines AUDNZD,Daily: loaded successfully
+2	16:48:56.499	Custom indicator ZigZag_Pointer AUDNZD,Daily: loaded successfully
+2	16:48:56.518	Custom indicator TrendExpert AUDNZD,Daily: loaded successfully
+2	16:48:56.528	Custom indicator forex__news_market_clock_2 AUDNZD,Daily: loaded successfully
+2	16:48:56.538	Custom indicator Forex_News_Filter AUDNZD,Daily: loaded successfully
+2	16:48:59.406	Custom indicator Triggerlines AUDNZD,Daily: removed
+2	16:48:59.407	Custom indicator ZigZag_Pointer AUDNZD,Daily: removed
+2	16:48:59.410	Custom indicator TrendExpert AUDNZD,Daily: removed
+2	16:48:59.411	Custom indicator forex__news_market_clock_2 AUDNZD,Daily: removed
+2	16:48:59.412	Custom indicator Forex_News_Filter AUDNZD,Daily: removed
+0	16:48:59.632	'3462709': order sell market 0.07 AUDNZD sl: 1.08843 tp: 1.08442
+0	16:48:59.746	'3462709': order was opened : #294509035 sell 0.07 AUDNZD at 1.08442 sl: 1.08843 tp: 1.08442
+2	16:52:45.056	Expert TradeExpert USDJPY,H1: removed
+2	16:52:45.081	Expert TradeExpert USDJPY,H1: loaded successfully
+2	16:53:01.144	Expert TradeExpert USDJPY,H1: removed
+2	16:53:01.169	Expert TradeExpert USDJPY,H1: loaded successfully
+2	16:56:42.798	Expert TradeExpert USDJPY,H1: removed
+2	16:56:42.821	Expert TradeExpert USDJPY,H1: loaded successfully
+2	16:58:01.359	Expert TradeExpert USDJPY,H1: removed
+2	16:58:01.384	Expert TradeExpert USDJPY,H1: loaded successfully
+2	16:58:42.596	Expert TradeExpert USDJPY,H1: removed
+2	16:58:42.619	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:02:45.107	Expert TradeExpert USDJPY,H1: removed
+2	17:02:45.129	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:04:15.600	Expert TradeExpert USDJPY,H1: removed
+2	17:04:15.621	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:05:32.717	Expert TradeExpert USDJPY,H1: removed
+2	17:05:32.743	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:06:33.453	Expert TradeExpert USDJPY,H1: removed
+0	17:06:41.425	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:06:41.425	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1524 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	17:06:41.425	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	17:06:42.839	Expert TradeExpert USDJPY,H1: loaded successfully
+0	17:06:43.420	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.94 ms)
+0	17:06:43.831	'3462709': previous successful authorization performed from 108.2.119.245
+2	17:12:11.778	Expert TradeExpert USDJPY,H1: removed
+2	17:12:11.803	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:13:12.069	Expert TradeExpert USDJPY,H1: removed
+2	17:13:12.090	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:19:13.629	Expert TradeExpert USDJPY,H1: removed
+2	17:19:13.652	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:19:20.980	Expert TradeExpert USDJPY,H1: removed
+2	17:19:21.003	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:24:27.692	Expert TradeExpert USDJPY,H1: removed
+2	17:24:27.712	Expert TradeExpert USDJPY,H1: loaded successfully
+2	17:24:49.623	Expert TradeExpert USDJPY,H1: removed
+0	17:25:07.139	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:25:07.139	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1316 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	17:25:07.139	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	17:25:08.561	Expert TradeExpert USDJPY,H1: loaded successfully
+0	17:25:09.079	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.94 ms)
+0	17:25:09.560	'3462709': previous successful authorization performed from 108.2.119.245
+2	17:35:40.308	Expert TradeExpert USDJPY,H1: removed
+2	17:35:40.332	Expert TradeExpert USDJPY,H1: loaded successfully
+0	17:53:28.192	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:53:28.192	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1302 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	17:53:28.192	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	17:53:29.664	Expert TradeExpert EURUSD,H1: loaded successfully
+0	18:05:08.890	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	18:05:08.891	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1230 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	18:05:08.891	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	18:05:10.313	Expert TradeExpert EURUSD,H1: loaded successfully
+0	18:05:10.774	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.43 ms)
+0	18:05:11.171	'3462709': previous successful authorization performed from 108.2.119.245
+2	18:06:24.421	Expert TradeExpert EURUSD,H1: removed
+2	18:06:24.443	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:06:44.835	Expert TradeExpert EURUSD,H1: removed
+2	18:06:44.859	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:08:09.412	Expert TradeExpert EURUSD,H1: removed
+2	18:08:09.435	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:12:43.016	Expert TradeExpert EURUSD,H1: removed
+2	18:12:43.036	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:14:12.020	Expert TradeExpert EURUSD,H1: removed
+2	18:14:12.045	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:17:30.041	Expert TradeExpert EURUSD,H1: removed
+2	18:17:30.067	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:20:15.669	Expert TradeExpert EURUSD,H1: removed
+2	18:20:15.690	Expert TradeExpert EURUSD,H1: loaded successfully
+2	18:21:03.365	Expert TradeExpert EURUSD,H1: removed
+0	18:22:10.432	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	18:22:10.432	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1329 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	18:22:10.432	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	18:22:11.891	Expert TradeExpert EURUSD,H1: loaded successfully
+0	19:00:01.993	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	19:00:01.993	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1480 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	19:00:01.993	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	19:00:03.483	Expert TradeExpert EURUSD,H1: loaded successfully
+0	19:00:03.954	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 32.43 ms)
+0	19:00:04.382	'3462709': previous successful authorization performed from 108.2.119.245
+0	19:00:16.882	'3462709': ping to current access point Main 0 is 33.01 ms
+2	19:06:32.793	Expert TradeExpert EURUSD,H1: removed
+2	19:06:32.819	Expert TradeExpert EURUSD,H1: loaded successfully
+2	19:13:25.495	Expert TradeExpert EURUSD,H1: removed
+2	19:13:25.520	Expert TradeExpert EURUSD,H1: loaded successfully
+2	19:14:26.738	Expert TradeExpert EURUSD,H1: removed
+2	19:14:26.762	Expert TradeExpert EURUSD,H1: loaded successfully
+2	19:19:26.718	Expert TradeExpert EURUSD,H1: removed
+2	19:19:26.739	Expert TradeExpert EURUSD,H1: loaded successfully
+0	19:30:46.404	'3462709': order #294505769 sell 0.03 EURUSD at 1.07078 closed due take-profit at price 1.07078
+2	20:00:46.428	Expert TradeExpert EURUSD,H1: removed
+2	20:00:46.453	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:00:55.396	Expert TradeExpert EURUSD,H1: removed
+2	20:00:55.420	Expert TradeExpert EURUSD,H1: loaded successfully
+0	20:01:08.223	'3462709': order #294504554 sell 0.01 CHFJPY at 133.447 closed due take-profit at price 133.307
+0	20:02:45.169	'3462709': order #294509035 sell 0.07 AUDNZD at 1.08442 closed due take-profit at price 1.08441
+2	20:03:02.309	Expert TradeExpert EURUSD,H1: removed
+2	20:03:02.333	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:10:24.147	Expert TradeExpert EURUSD,H1: removed
+2	20:10:24.173	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:12:11.319	Expert TradeExpert EURUSD,H1: removed
+2	20:12:11.341	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:12:43.729	Expert TradeExpert EURUSD,H1: removed
+2	20:12:43.752	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:21:06.764	Expert TradeExpert EURUSD,H1: removed
+2	20:21:06.789	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:25:29.355	Expert TradeExpert EURUSD,H1: removed
+2	20:25:29.376	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:28:49.181	Expert TradeExpert EURUSD,H1: removed
+2	20:28:49.204	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:29:05.885	Custom indicator Triggerlines EURUSD,Daily: loaded successfully
+2	20:29:05.897	Custom indicator ZigZag_Pointer EURUSD,Daily: loaded successfully
+2	20:29:05.917	Custom indicator TrendExpert EURUSD,Daily: loaded successfully
+2	20:29:05.928	Custom indicator forex__news_market_clock_2 EURUSD,Daily: loaded successfully
+2	20:29:05.939	Custom indicator Forex_News_Filter EURUSD,Daily: loaded successfully
+2	20:29:08.784	Custom indicator Triggerlines EURUSD,Daily: removed
+2	20:29:08.785	Custom indicator ZigZag_Pointer EURUSD,Daily: removed
+2	20:29:08.789	Custom indicator TrendExpert EURUSD,Daily: removed
+2	20:29:08.790	Custom indicator forex__news_market_clock_2 EURUSD,Daily: removed
+2	20:29:08.792	Custom indicator Forex_News_Filter EURUSD,Daily: removed
+0	20:29:09.081	'3462709': order sell market 0.03 EURUSD sl: 0.91990 tp: 0.90885
+1	20:29:09.162	'3462709': order sell 0.03 EURUSD opening at market sl: 0.91990 tp: 0.90885 failed [Invalid S/L or T/P]
+2	20:40:47.977	Expert TradeExpert EURUSD,H1: removed
+2	20:40:48.000	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:40:54.839	Expert TradeExpert EURUSD,H1: removed
+2	20:40:54.860	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:41:20.391	Custom indicator Triggerlines EURUSD,Daily: loaded successfully
+2	20:41:20.401	Custom indicator ZigZag_Pointer EURUSD,Daily: loaded successfully
+2	20:41:20.419	Custom indicator TrendExpert EURUSD,Daily: loaded successfully
+2	20:41:20.429	Custom indicator forex__news_market_clock_2 EURUSD,Daily: loaded successfully
+2	20:41:20.439	Custom indicator Forex_News_Filter EURUSD,Daily: loaded successfully
+2	20:41:23.242	Custom indicator Triggerlines EURUSD,Daily: removed
+2	20:41:23.243	Custom indicator ZigZag_Pointer EURUSD,Daily: removed
+2	20:41:23.245	Custom indicator TrendExpert EURUSD,Daily: removed
+2	20:41:23.247	Custom indicator forex__news_market_clock_2 EURUSD,Daily: removed
+2	20:41:23.248	Custom indicator Forex_News_Filter EURUSD,Daily: removed
+0	20:41:23.503	'3462709': order sell market 0.02 EURUSD sl: 0.00000 tp: 1.07238
+0	20:41:23.612	'3462709': order was opened : #294524075 sell 0.02 EURUSD at 1.07239 sl: 0.00000 tp: 1.07238
+0	20:41:52.468	'3462709': order #294524075 sell 0.02 EURUSD at 1.07239 closed due take-profit at price 1.07237
+2	20:45:34.243	Expert TradeExpert EURUSD,H1: removed
+2	20:45:34.266	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:45:49.366	Custom indicator Triggerlines EURUSD,Daily: loaded successfully
+2	20:45:49.375	Custom indicator ZigZag_Pointer EURUSD,Daily: loaded successfully
+2	20:45:49.393	Custom indicator TrendExpert EURUSD,Daily: loaded successfully
+2	20:45:49.403	Custom indicator forex__news_market_clock_2 EURUSD,Daily: loaded successfully
+2	20:45:49.413	Custom indicator Forex_News_Filter EURUSD,Daily: loaded successfully
+2	20:45:51.714	Custom indicator Triggerlines EURUSD,Daily: removed
+2	20:45:51.715	Custom indicator ZigZag_Pointer EURUSD,Daily: removed
+2	20:45:51.718	Custom indicator TrendExpert EURUSD,Daily: removed
+2	20:45:51.719	Custom indicator forex__news_market_clock_2 EURUSD,Daily: removed
+2	20:45:51.720	Custom indicator Forex_News_Filter EURUSD,Daily: removed
+0	20:45:51.981	'3462709': order sell market 0.01 EURUSD sl: 0.00000 tp: 1.07236
+0	20:45:52.110	'3462709': order was opened : #294524446 sell 0.01 EURUSD at 1.07236 sl: 0.00000 tp: 1.07236
+0	20:50:10.002	'3462709': order #294524446 sell 0.01 EURUSD at 1.07236 closed due take-profit at price 1.07236
+2	20:56:04.913	Expert TradeExpert EURUSD,H1: removed
+2	20:56:04.936	Expert TradeExpert EURUSD,H1: loaded successfully
+2	20:57:46.333	Custom indicator Triggerlines EURGBP,Daily: loaded successfully
+2	20:57:46.345	Custom indicator ZigZag_Pointer EURGBP,Daily: loaded successfully
+2	20:57:46.362	Custom indicator TrendExpert EURGBP,Daily: loaded successfully
+2	20:57:46.372	Custom indicator forex__news_market_clock_2 EURGBP,Daily: loaded successfully
+2	20:57:46.382	Custom indicator Forex_News_Filter EURGBP,Daily: loaded successfully
+2	20:57:49.847	Custom indicator Triggerlines EURGBP,Daily: removed
+2	20:57:49.848	Custom indicator ZigZag_Pointer EURGBP,Daily: removed
+2	20:57:49.850	Custom indicator TrendExpert EURGBP,Daily: removed
+2	20:57:49.852	Custom indicator forex__news_market_clock_2 EURGBP,Daily: removed
+2	20:57:49.853	Custom indicator Forex_News_Filter EURGBP,Daily: removed
+0	20:57:50.108	'3462709': order sell market 0.01 EURGBP sl: 164.76147 tp: 161.50147
+1	20:57:50.219	'3462709': order sell 0.01 EURGBP opening at market sl: 164.76147 tp: 161.50147 failed [Invalid S/L or T/P]
+2	20:58:48.154	Expert TradeExpert EURUSD,H1: removed
+2	20:58:48.179	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:07:44.001	Expert TradeExpert EURUSD,H1: removed
+2	21:07:44.028	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:15:42.454	Expert TradeExpert EURUSD,H1: removed
+2	21:15:42.479	Expert TradeExpert EURUSD,H1: loaded successfully
+0	21:20:53.404	'3462709': order sell market 0.04 EURGBP sl: 0.63459 tp: 0.63326
+1	21:20:53.549	'3462709': order sell 0.04 EURGBP opening at market sl: 0.63459 tp: 0.63326 failed [Invalid S/L or T/P]
+2	21:20:53.747	Expert TradeExpert EURUSD,H1: removed
+2	21:20:53.772	Expert TradeExpert EURUSD,H1: loaded successfully
+2	21:21:54.662	Custom indicator Triggerlines EURGBP,Daily: loaded successfully
+2	21:21:54.671	Custom indicator ZigZag_Pointer EURGBP,Daily: loaded successfully
+2	21:21:54.688	Custom indicator TrendExpert EURGBP,Daily: loaded successfully
+2	21:21:54.698	Custom indicator forex__news_market_clock_2 EURGBP,Daily: loaded successfully
+2	21:21:54.708	Custom indicator Forex_News_Filter EURGBP,Daily: loaded successfully
+2	21:21:57.138	Custom indicator Triggerlines EURGBP,Daily: removed
+2	21:21:57.139	Custom indicator ZigZag_Pointer EURGBP,Daily: removed
+2	21:21:57.141	Custom indicator TrendExpert EURGBP,Daily: removed
+2	21:21:57.143	Custom indicator forex__news_market_clock_2 EURGBP,Daily: removed
+2	21:21:57.144	Custom indicator Forex_News_Filter EURGBP,Daily: removed
+0	21:21:57.366	'3462709': order sell market 0.04 EURGBP sl: 0.00000 tp: 0.84182
+0	21:21:57.492	'3462709': order was opened : #294526264 sell 0.04 EURGBP at 0.84182 sl: 0.00000 tp: 0.84182
+0	21:44:47.575	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	21:44:47.575	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1082 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	21:44:47.575	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	21:44:50.269	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.01 ms)
+0	21:44:50.668	'3462709': previous successful authorization performed from 108.2.119.245
+0	22:08:44.626	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	22:08:44.626	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1197 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	22:08:44.626	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	22:08:45.938	Expert TradeExpert EURUSD,H1: loaded successfully
+0	22:18:49.730	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	22:18:49.730	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1298 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	22:18:49.730	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	22:18:51.072	Expert TradeExpert EURUSD,H1: loaded successfully
+0	22:18:51.575	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 30.02 ms)
+0	22:18:52.025	'3462709': previous successful authorization performed from 108.2.119.245
+2	22:21:06.131	Custom indicator Triggerlines GBPCAD,H1: loaded successfully
+2	22:21:06.140	Custom indicator ZigZag_Pointer GBPCAD,H1: loaded successfully
+2	22:21:06.158	Custom indicator TrendExpert GBPCAD,H1: loaded successfully
+2	22:21:06.168	Custom indicator forex__news_market_clock_2 GBPCAD,H1: loaded successfully
+2	22:21:06.177	Custom indicator Forex_News_Filter GBPCAD,H1: loaded successfully
+2	22:21:08.680	Custom indicator Triggerlines GBPCAD,H1: removed
+2	22:21:08.681	Custom indicator ZigZag_Pointer GBPCAD,H1: removed
+2	22:21:08.683	Custom indicator TrendExpert GBPCAD,H1: removed
+2	22:21:08.685	Custom indicator forex__news_market_clock_2 GBPCAD,H1: removed
+2	22:21:08.686	Custom indicator Forex_News_Filter GBPCAD,H1: removed
+0	22:21:16.108	'3462709': order sell market 0.05 GBPCAD sl: 0.00000 tp: 1.62302
+0	22:21:16.232	'3462709': order was opened : #294528275 sell 0.05 GBPCAD at 1.62345 sl: 0.00000 tp: 1.62302
+2	22:24:54.777	Expert TradeExpert EURUSD,H1: removed
+2	22:25:29.525	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:26:42.512	Custom indicator Triggerlines GBPCAD,H1: loaded successfully
+2	22:26:42.526	Custom indicator ZigZag_Pointer GBPCAD,H1: loaded successfully
+2	22:26:42.544	Custom indicator TrendExpert GBPCAD,H1: loaded successfully
+2	22:26:42.554	Custom indicator forex__news_market_clock_2 GBPCAD,H1: loaded successfully
+2	22:26:42.563	Custom indicator Forex_News_Filter GBPCAD,H1: loaded successfully
+2	22:26:51.073	Custom indicator Triggerlines GBPCAD,H1: removed
+2	22:26:51.074	Custom indicator ZigZag_Pointer GBPCAD,H1: removed
+2	22:26:51.077	Custom indicator TrendExpert GBPCAD,H1: removed
+2	22:26:51.078	Custom indicator forex__news_market_clock_2 GBPCAD,H1: removed
+2	22:26:51.079	Custom indicator Forex_News_Filter GBPCAD,H1: removed
+0	22:26:51.360	'3462709': order sell market 0.04 GBPCAD sl: 1.62373 tp: 1.62259
+1	22:26:51.456	'3462709': order sell 0.04 GBPCAD opening at market sl: 1.62373 tp: 1.62259 failed [Invalid S/L or T/P]
+2	22:28:11.658	Expert TradeExpert EURUSD,H1: removed
+2	22:28:11.681	Expert TradeExpert EURUSD,H1: loaded successfully
+2	22:29:15.615	Custom indicator Triggerlines GBPNZD,H1: loaded successfully
+2	22:29:15.629	Custom indicator ZigZag_Pointer GBPNZD,H1: loaded successfully
+2	22:29:15.648	Custom indicator TrendExpert GBPNZD,H1: loaded successfully
+2	22:29:15.658	Custom indicator forex__news_market_clock_2 GBPNZD,H1: loaded successfully
+2	22:29:15.667	Custom indicator Forex_News_Filter GBPNZD,H1: loaded successfully
+2	22:29:18.419	Custom indicator Triggerlines GBPNZD,H1: removed
+2	22:29:18.420	Custom indicator ZigZag_Pointer GBPNZD,H1: removed
+2	22:29:18.423	Custom indicator TrendExpert GBPNZD,H1: removed
+2	22:29:18.424	Custom indicator forex__news_market_clock_2 GBPNZD,H1: removed
+2	22:29:18.426	Custom indicator Forex_News_Filter GBPNZD,H1: removed
+0	22:29:18.711	'3462709': order sell market 0.03 GBPNZD sl: 0.00000 tp: 1.92498
+0	22:29:18.837	'3462709': order was opened : #294528399 sell 0.03 GBPNZD at 1.92562 sl: 0.00000 tp: 1.92498
+0	23:20:06.675	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:20:06.675	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1219 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	23:20:06.675	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:20:08.256	Expert TradeExpert EURUSD,H1: loaded successfully
+0	23:20:08.844	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 30.02 ms)
+0	23:20:09.255	'3462709': previous successful authorization performed from 108.2.119.245
+0	23:20:20.726	'3462709': auto connecting to a better access point Main 0 (ping is 33.57 ms)
+0	23:20:20.936	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.57 ms)
+0	23:20:21.315	'3462709': previous successful authorization performed from 108.2.119.245
+2	23:21:44.563	Expert TradeExpert EURUSD,H1: removed
+2	23:21:44.590	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:22:34.429	Expert TradeExpert EURUSD,H1: removed
+2	23:22:34.455	Expert TradeExpert EURUSD,H1: loaded successfully
+2	23:23:56.986	Expert TradeExpert EURUSD,H1: removed
+0	23:25:58.064	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:25:58.065	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1272 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	23:25:58.065	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:25:59.467	Expert TradeExpert EURUSD,H1: loaded successfully
+0	23:44:45.687	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:44:45.687	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 861 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	23:44:45.687	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:44:47.643	Expert TradeExpert EURUSD,H1: loaded successfully
+0	23:44:48.120	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.57 ms)
+0	23:44:48.536	'3462709': previous successful authorization performed from 108.2.119.245
+2	23:50:35.607	Expert TradeExpert EURUSD,H1: removed
+0	23:52:05.316	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:52:05.317	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1107 / 8013 Mb, Disk: 89 / 217 Gb, GMT-5
+0	23:52:05.317	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	23:52:07.090	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.57 ms)
+0	23:52:07.590	'3462709': previous successful authorization performed from 108.2.119.245

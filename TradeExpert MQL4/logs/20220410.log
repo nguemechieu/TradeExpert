@@ -1,0 +1,93 @@
+0	18:05:51.788	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	18:05:51.788	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1847 / 8013 Mb, Disk: 62 / 217 Gb, GMT-5
+0	18:05:51.788	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	18:05:52.223	Sources recompilation started
+0	18:05:53.478	Sources recompilation finished (1 compiled in 1266 msec)
+2	18:05:53.978	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	18:05:53.998	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	18:05:54.013	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	18:05:54.898	Custom indicator TrendsFollowers USDCHF,H4: loaded successfully
+2	18:05:54.908	Custom indicator TrendsFollowers USDCHF,H4: loaded successfully
+0	19:41:31.577	Account: connect to OANDA-v20 Practice-3 failed, check internet connection or contact broker support service
+0	19:42:04.393	Automated trading disabled
+3	19:42:04.393	Automated trading disabled because the account has been changed
+1	19:42:13.734	'8848155': connect failed [Invalid account]
+0	19:42:44.545	'8848155': login on OANDA-v20 Live-1 through main (ping: n/a)
+0	19:42:44.936	'8848155': previous successful authorization performed from 108.2.119.245
+0	19:42:47.457	'8848155': auto connecting to a better access point Main 1 (ping is 12.70 ms)
+0	19:42:47.644	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.70 ms)
+0	19:42:47.820	'8848155': previous successful authorization performed from 108.2.119.245
+2	19:49:27.048	Custom indicator OsMA EURUSD,H1: loaded successfully
+2	19:49:29.506	Custom indicator OsMA EURUSD,H1: removed
+2	19:56:59.085	Custom indicator TrendsFollowers NZDUSD,H1: loaded successfully
+2	19:57:02.833	Custom indicator TrendsFollowers NZDUSD,H1: removed
+2	19:57:11.508	Custom indicator TrendsFollowers NZDUSD,H1: loaded successfully
+2	20:26:11.870	Custom indicator TrendsFollowers USDCZK,H1: loaded successfully
+2	21:17:32.933	Custom indicator TrendsFollowers USDCHF,H4: removed
+2	21:17:32.934	Custom indicator TrendsFollowers USDCHF,H4: removed
+2	21:20:38.669	Custom indicator TrendsFollowers GBPUSD,M30: loaded successfully
+2	21:21:17.176	Custom indicator TrendExpert GBPUSD,M30: loaded successfully
+2	21:21:43.050	Custom indicator THE_ATM_INDICATOR_FX_master GBPUSD,M30: loaded successfully
+2	23:14:02.368	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	23:14:02.376	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	23:14:02.593	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	23:14:02.602	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	23:14:02.632	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	23:14:02.640	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	23:14:02.686	Custom indicator TrendsFollowers NZDUSD,H1: removed
+2	23:14:02.695	Custom indicator TrendsFollowers NZDUSD,H1: loaded successfully
+2	23:14:02.716	Custom indicator TrendsFollowers USDCZK,H1: removed
+2	23:14:02.724	Custom indicator TrendsFollowers USDCZK,H1: loaded successfully
+2	23:17:53.473	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:21:40.366	Expert TradeExpert USDJPY,H1: removed
+2	23:21:40.398	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:24:18.663	Expert TradeExpert USDJPY,H1: removed
+2	23:24:18.695	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:24:32.082	Expert TradeExpert USDJPY,H1: removed
+2	23:24:32.132	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:24:32.281	Expert TradeExpert USDJPY,H1: removed
+0	23:24:37.200	Automated trading disabled
+0	23:24:41.127	Automated trading enabled
+2	23:24:45.375	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:27:15.792	Expert TradeExpert USDJPY,H1: removed
+2	23:27:15.863	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:27:24.301	Expert TradeExpert USDJPY,H1: removed
+2	23:27:24.330	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:28:10.226	Expert TradeExpert USDJPY,H1: removed
+2	23:28:10.257	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:28:18.488	Expert TradeExpert USDJPY,H1: removed
+2	23:28:18.543	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:29:25.336	Expert TradeExpert USDJPY,H1: removed
+2	23:29:25.366	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:30:41.681	Expert TradeExpert USDJPY,H1: removed
+2	23:30:41.713	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:32:36.036	Expert TradeExpert USDJPY,H1: removed
+2	23:32:36.067	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:33:44.502	Expert TradeExpert USDJPY,H1: removed
+2	23:33:44.535	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:33:44.745	Expert TradeExpert USDJPY,H1: removed
+2	23:33:54.291	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:34:00.439	Expert TradeExpert USDJPY,H1: removed
+2	23:34:30.989	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:38:59.787	Expert TradeExpert USDJPY,H1: removed
+2	23:38:59.815	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:39:00.034	Expert TradeExpert USDJPY,H1: removed
+2	23:39:26.629	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:39:31.979	Expert TradeExpert USDJPY,H1: removed
+2	23:40:17.013	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:43:20.746	Expert TradeExpert USDJPY,H1: removed
+2	23:43:20.777	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:44:11.826	Expert TradeExpert USDJPY,H1: removed
+2	23:44:11.860	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:45:11.429	Expert TradeExpert USDJPY,H1: removed
+2	23:45:11.466	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:46:30.215	Expert TradeExpert USDJPY,H1: removed
+2	23:46:30.246	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:51:31.671	Expert TradeExpert USDJPY,H1: removed
+2	23:51:40.689	Expert TradeExpert USDJPY,H4: loaded successfully
+2	23:52:51.020	Expert TradeExpert USDJPY,H4: removed
+2	23:52:51.049	Expert TradeExpert USDJPY,H4: loaded successfully
+2	23:56:57.724	Expert TradeExpert USDJPY,H4: removed
+2	23:56:57.755	Expert TradeExpert USDJPY,H4: loaded successfully
+2	23:57:28.867	Expert TradeExpert USDJPY,H4: removed
+2	23:57:28.897	Expert TradeExpert USDJPY,H4: loaded successfully

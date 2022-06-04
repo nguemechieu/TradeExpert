@@ -1,0 +1,44 @@
+0	00:04:20.454	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	00:04:20.454	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 963 / 8013 Mb, Disk: 53 / 217 Gb, GMT-5
+0	00:04:20.454	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	00:52:49.029	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	00:52:49.029	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2243 / 8013 Mb, Disk: 53 / 217 Gb, GMT-5
+0	00:52:49.029	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	00:52:51.092	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	00:52:51.511	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 15.40 ms)
+0	00:52:51.693	'8848155': previous successful authorization performed from 98.115.132.129
+0	00:54:51.073	Automated trading disabled
+2	00:55:06.348	Expert TradeExpert AUDUSD,H1: removed
+2	00:55:18.675	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	13:11:30.368	Automated trading enabled
+1	19:15:02.563	'8848155': ping failed
+0	19:15:04.684	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 15.40 ms)
+0	19:15:05.105	'8848155': previous successful authorization performed from 98.115.132.129
+0	19:15:07.926	'8848155': auto connecting to a better access point Main 1 (ping is 15.97 ms)
+0	19:15:08.133	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 15.97 ms)
+0	19:15:08.529	'8848155': previous successful authorization performed from 98.115.132.129
+2	19:35:42.348	Expert TradeExpert AUDUSD,H1: removed
+0	19:35:42.769	OANDA - MT4 build 1356 stopped
+0	22:27:00.756	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	22:27:00.756	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1949 / 8013 Mb, Disk: 38 / 217 Gb, GMT-5
+0	22:27:00.756	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	22:27:19.073	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	22:39:06.253	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	22:39:06.253	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2203 / 8013 Mb, Disk: 38 / 217 Gb, GMT-5
+0	22:39:06.253	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	22:39:08.239	Expert TradeExpert AUDUSD,H1: loaded successfully
+0	22:39:08.635	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 16.57 ms)
+0	22:39:08.908	'8848155': previous successful authorization performed from 98.115.132.129
+2	23:22:13.790	Expert TradeExpert AUDUSD,H1: removed
+2	23:22:13.887	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	23:29:41.941	Expert TradeExpert AUDUSD,H1: removed
+0	23:29:42.240	OANDA - MT4 build 1356 stopped
+0	23:45:37.658	OANDA - MT4 build 1356 started (OANDA Corporation)
+0	23:45:37.658	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1583 / 8013 Mb, Disk: 38 / 217 Gb, GMT-5
+0	23:45:37.658	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:45:39.924	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	23:45:40.256	Expert TradeExpert EURUSD,Daily: loaded successfully
+0	23:45:40.388	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 16.57 ms)
+0	23:45:40.652	'8848155': previous successful authorization performed from 98.115.132.129
+0	23:45:43.312	'8848155': ping to current access point Main 1 is 15.50 ms
+2	23:45:44.363	Expert TradeExpert EURUSD,Daily: removed

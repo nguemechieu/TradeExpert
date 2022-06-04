@@ -1,0 +1,47 @@
+2	00:01:21.931	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	00:17:58.764	Expert TradeExpertPro EURUSD,H1: removed
+2	00:17:58.795	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	00:18:47.301	Expert TradeExpertPro EURUSD,H1: removed
+2	00:18:47.332	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	00:23:20.373	Expert TradeExpertPro EURUSD,H1: removed
+2	00:23:20.413	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	00:27:24.195	Expert TradeExpertPro EURUSD,H1: removed
+2	00:27:24.226	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	00:28:46.284	Expert TradeExpertPro EURUSD,H1: removed
+1	07:06:41.546	'3462709': ping failed
+1	07:06:42.021	'3462709': connect failed [No connection]
+1	07:06:42.097	MQL5.community: authorization failed
+1	13:47:33.907	MQL5.community: authorization failed
+0	13:47:36.762	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	13:47:37.186	'3462709': previous successful authorization performed from 108.2.119.245
+0	13:47:49.354	'3462709': ping to current access point Main 0 is 34.75 ms
+2	13:59:35.006	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	13:59:55.180	Expert TradeExpertPro EURUSD,H1: removed
+0	16:21:35.314	Sources recompilation started
+2	16:55:24.890	Expert TradeExpertPro\TradeExpertPro EURJPY,H1: loaded successfully
+2	17:00:49.229	Expert TradeExpertPro EURJPY,H1: removed
+1	18:45:23.527	'3462709': connect failed [No connection]
+1	19:47:37.898	MQL5.community: authorization failed
+1	19:47:41.539	MQL5.community: authorization failed
+1	19:52:41.546	MQL5.community: authorization failed
+1	19:57:41.532	MQL5.community: authorization failed
+1	20:02:41.537	MQL5.community: authorization failed
+1	20:07:41.543	MQL5.community: authorization failed
+1	20:12:41.545	MQL5.community: authorization failed
+1	20:17:41.535	MQL5.community: authorization failed
+1	20:22:41.537	MQL5.community: authorization failed
+1	20:27:41.539	MQL5.community: authorization failed
+1	20:32:41.544	MQL5.community: authorization failed
+1	20:48:40.942	MQL5.community: authorization failed
+1	21:37:45.173	MQL5.community: authorization failed
+0	21:37:53.274	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	21:37:53.698	'3462709': previous successful authorization performed from 108.2.119.245
+0	21:38:04.847	'3462709': ping to current access point Main 0 is 30.30 ms
+2	23:42:14.427	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	23:43:19.091	Expert TradeExpertPro EURUSD,H1: removed
+2	23:43:19.119	Expert TradeExpertPro\TradeExpertPro EURUSD,H1: loaded successfully
+2	23:43:43.280	Expert TradeExpertPro EURUSD,H1: removed
+2	23:44:20.327	Expert TradeExpertPro\TradeExpertPro EURJPY,H1: loaded successfully
+2	23:46:06.231	Expert TradeExpertPro EURJPY,H1: removed
+2	23:46:43.870	Expert TradeExpertPro\TradeExpertPro USDCHF,H1: loaded successfully
+2	23:47:00.646	Expert TradeExpertPro USDCHF,H1: removed

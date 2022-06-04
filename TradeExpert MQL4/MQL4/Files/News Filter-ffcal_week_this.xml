@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<weeklyevents>
+	<event>
+		<title>German Import Prices m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.1%]]></forecast>
+		<previous><![CDATA[5.7%]]></previous>
+	</event>
+	<event>
+		<title>German Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[6:29am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[0.8%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Flash CPI y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[8.4%]]></forecast>
+		<previous><![CDATA[8.4%]]></previous>
+	</event>
+	<event>
+		<title>KOF Economic Barometer</title>
+		<country>CHF</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[102.6]]></forecast>
+		<previous><![CDATA[101.7]]></previous>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<country>CAD</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.2B]]></forecast>
+		<previous><![CDATA[-0.8B]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>USD</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[1:00pm]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>FOMC Member Waller Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[3:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Building Consents m/m</title>
+		<country>NZD</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[10:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[5.8%]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>JPY</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[11:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.6%]]></forecast>
+		<previous><![CDATA[2.6%]]></previous>
+	</event>
+	<event>
+		<title>Prelim Industrial Production m/m</title>
+		<country>JPY</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.1%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-30-2022]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.6%]]></forecast>
+		<previous><![CDATA[0.9%]]></previous>
+	</event>
+	<event>
+		<title>ANZ Business Confidence</title>
+		<country>NZD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-42.0]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[49.1]]></forecast>
+		<previous><![CDATA[47.4]]></previous>
+	</event>
+	<event>
+		<title>Non-Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[45.2]]></forecast>
+		<previous><![CDATA[41.9]]></previous>
+	</event>
+	<event>
+		<title>Private Sector Credit m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Company Operating Profits q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[5.1%]]></forecast>
+		<previous><![CDATA[2.0%]]></previous>
+	</event>
+	<event>
+		<title>Current Account</title>
+		<country>AUD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[13.4B]]></forecast>
+		<previous><![CDATA[12.7B]]></previous>
+	</event>
+	<event>
+		<title>Building Approvals m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.2%]]></forecast>
+		<previous><![CDATA[-18.5%]]></previous>
+	</event>
+	<event>
+		<title>Housing Starts y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.5%]]></forecast>
+		<previous><![CDATA[6.0%]]></previous>
+	</event>
+	<event>
+		<title>Consumer Confidence</title>
+		<country>JPY</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[33.9]]></forecast>
+		<previous><![CDATA[33.0]]></previous>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>CHF</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.50B]]></forecast>
+		<previous><![CDATA[2.99B]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales y/y</title>
+		<country>CHF</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-1.4%]]></forecast>
+		<previous><![CDATA[-6.6%]]></previous>
+	</event>
+	<event>
+		<title>French Consumer Spending m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[-1.3%]]></previous>
+	</event>
+	<event>
+		<title>French Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.7%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>French Prelim GDP q/q</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.0%]]></forecast>
+		<previous><![CDATA[0.0%]]></previous>
+	</event>
+	<event>
+		<title>GDP q/q</title>
+		<country>CHF</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>German Unemployment Change</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[7:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-16K]]></forecast>
+		<previous><![CDATA[-13K]]></previous>
+	</event>
+	<event>
+		<title>M4 Money Supply m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>Net Lending to Individuals m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.0B]]></forecast>
+		<previous><![CDATA[8.3B]]></previous>
+	</event>
+	<event>
+		<title>Mortgage Approvals</title>
+		<country>GBP</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[72K]]></forecast>
+		<previous><![CDATA[71K]]></previous>
+	</event>
+	<event>
+		<title>Italian Prelim CPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[0.2%]]></previous>
+	</event>
+	<event>
+		<title>Core CPI Flash Estimate y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.6%]]></forecast>
+		<previous><![CDATA[3.5%]]></previous>
+	</event>
+	<event>
+		<title>CPI Flash Estimate y/y</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.8%]]></forecast>
+		<previous><![CDATA[7.5%]]></previous>
+	</event>
+	<event>
+		<title>Italian 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[9:16am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.78|1.3]]></previous>
+	</event>
+	<event>
+		<title>Gov Board Member Zurbrugg Speaks</title>
+		<country>CHF</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[12:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>GDP m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[1.1%]]></previous>
+	</event>
+	<event>
+		<title><![CDATA[S&P/CS Composite-20 HPI y/y]]></title>
+		<country>USD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[19.8%]]></forecast>
+		<previous><![CDATA[20.2%]]></previous>
+	</event>
+	<event>
+		<title>HPI m/m</title>
+		<country>USD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.0%]]></forecast>
+		<previous><![CDATA[2.1%]]></previous>
+	</event>
+	<event>
+		<title>Chicago PMI</title>
+		<country>USD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[55.0]]></forecast>
+		<previous><![CDATA[56.4]]></previous>
+	</event>
+	<event>
+		<title>CB Consumer Confidence</title>
+		<country>USD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[103.9]]></forecast>
+		<previous><![CDATA[107.3]]></previous>
+	</event>
+	<event>
+		<title>AIG Manufacturing Index</title>
+		<country>AUD</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[10:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[58.5]]></previous>
+	</event>
+	<event>
+		<title>BRC Shop Price Index y/y</title>
+		<country>GBP</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[11:01pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.7%]]></previous>
+	</event>
+	<event>
+		<title>Capital Spending q/y</title>
+		<country>JPY</country>
+		<date><![CDATA[05-31-2022]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[3.7%]]></forecast>
+		<previous><![CDATA[4.3%]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>JPY</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[12:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.2]]></forecast>
+		<previous><![CDATA[53.2]]></previous>
+	</event>
+	<event>
+		<title>GDP q/q</title>
+		<country>AUD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.6%]]></forecast>
+		<previous><![CDATA[3.4%]]></previous>
+	</event>
+	<event>
+		<title>Caixin Manufacturing PMI</title>
+		<country>CNY</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[1:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[49.1]]></forecast>
+		<previous><![CDATA[46.0]]></previous>
+	</event>
+	<event>
+		<title>Nationwide HPI m/m</title>
+		<country>GBP</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.6%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>German Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.5%]]></forecast>
+		<previous><![CDATA[-0.1%]]></previous>
+	</event>
+	<event>
+		<title>Commodity Prices y/y</title>
+		<country>AUD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[39.9%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[7:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[51.9]]></forecast>
+		<previous><![CDATA[53.3]]></previous>
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CHF</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[7:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[61.2]]></forecast>
+		<previous><![CDATA[62.5]]></previous>
+	</event>
+	<event>
+		<title>Italian Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.5]]></forecast>
+		<previous><![CDATA[54.5]]></previous>
+	</event>
+	<event>
+		<title>French Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[7:50am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.5]]></forecast>
+		<previous><![CDATA[54.5]]></previous>
+	</event>
+	<event>
+		<title>German Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[7:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.7]]></forecast>
+		<previous><![CDATA[54.7]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.4]]></forecast>
+		<previous><![CDATA[54.4]]></previous>
+	</event>
+	<event>
+		<title>Italian Monthly Unemployment Rate</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[8.3%]]></forecast>
+		<previous><![CDATA[8.3%]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>GBP</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.6]]></forecast>
+		<previous><![CDATA[54.6]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[6.8%]]></forecast>
+		<previous><![CDATA[6.8%]]></previous>
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[11:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Manufacturing PMI</title>
+		<country>CAD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[1:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[56.2]]></previous>
+	</event>
+	<event>
+		<title>Final Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[57.5]]></forecast>
+		<previous><![CDATA[57.5]]></previous>
+	</event>
+	<event>
+		<title>French Gov Budget Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[1:49pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-38.3B]]></previous>
+	</event>
+	<event>
+		<title>Overnight Rate</title>
+		<country>CAD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[1.50%]]></forecast>
+		<previous><![CDATA[1.00%]]></previous>
+	</event>
+	<event>
+		<title>BOC Rate Statement</title>
+		<country>CAD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>ISM Manufacturing PMI</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[54.4]]></forecast>
+		<previous><![CDATA[55.4]]></previous>
+	</event>
+	<event>
+		<title>ISM Manufacturing Prices</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[80.6]]></forecast>
+		<previous><![CDATA[84.6]]></previous>
+	</event>
+	<event>
+		<title>Construction Spending m/m</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.7%]]></forecast>
+		<previous><![CDATA[0.1%]]></previous>
+	</event>
+	<event>
+		<title>JOLTS Job Openings</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[11.29M]]></forecast>
+		<previous><![CDATA[11.55M]]></previous>
+	</event>
+	<event>
+		<title>Wards Total Vehicle Sales</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[2:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[13.6M]]></forecast>
+		<previous><![CDATA[14.3M]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Williams Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[3:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>FOMC Member Bullard Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[5:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Beige Book</title>
+		<country>USD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[6:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Overseas Trade Index q/q</title>
+		<country>NZD</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[10:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.3%]]></forecast>
+		<previous><![CDATA[-1.0%]]></previous>
+	</event>
+	<event>
+		<title>Monetary Base y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[06-01-2022]]></date>
+		<time><![CDATA[11:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.3%]]></forecast>
+		<previous><![CDATA[6.6%]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>CNY</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:01am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>AUD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[9.02B]]></forecast>
+		<previous><![CDATA[9.31B]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>AUD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[1:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.9%]]></forecast>
+		<previous><![CDATA[0.9%]]></previous>
+	</event>
+	<event>
+		<title>10-y Bond Auction</title>
+		<country>JPY</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[3:35am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[0.25|5.7]]></previous>
+	</event>
+	<event>
+		<title>CPI m/m</title>
+		<country>CHF</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[0.4%]]></previous>
+	</event>
+	<event>
+		<title>Spanish Unemployment Change</title>
+		<country>EUR</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[-33.5K]]></forecast>
+		<previous><![CDATA[-86.3K]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>GBP</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Italian Bank Holiday</title>
+		<country>EUR</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[7:03am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Spanish 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[8:48am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.05|1.3]]></previous>
+	</event>
+	<event>
+		<title>French 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[8:56am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[1.51|1.8]]></previous>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.3%]]></forecast>
+		<previous><![CDATA[5.3%]]></previous>
+	</event>
+	<event>
+		<title>OPEC-JMMC Meetings</title>
+		<country>ALL</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[10:15am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Challenger Job Cuts y/y</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[11:30am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[6.0%]]></previous>
+	</event>
+	<event>
+		<title>ADP Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:15pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[295K]]></forecast>
+		<previous><![CDATA[247K]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Claims</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[210K]]></forecast>
+		<previous><![CDATA[210K]]></previous>
+	</event>
+	<event>
+		<title>Revised Unit Labor Costs q/q</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[11.6%]]></forecast>
+		<previous><![CDATA[11.6%]]></previous>
+	</event>
+	<event>
+		<title>Revised Nonfarm Productivity q/q</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-7.5%]]></forecast>
+		<previous><![CDATA[-7.5%]]></previous>
+	</event>
+	<event>
+		<title>Building Permits m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.5%]]></forecast>
+		<previous><![CDATA[-9.3%]]></previous>
+	</event>
+	<event>
+		<title>Factory Orders m/m</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.8%]]></forecast>
+		<previous><![CDATA[2.2%]]></previous>
+	</event>
+	<event>
+		<title>Natural Gas Storage</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[86B]]></forecast>
+		<previous><![CDATA[80B]]></previous>
+	</event>
+	<event>
+		<title>Gov Council Member Beaudry Speaks</title>
+		<country>CAD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[2:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Crude Oil Inventories</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[3:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-3.0M]]></forecast>
+		<previous><![CDATA[-1.0M]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Mester Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[5:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>AIG Construction Index</title>
+		<country>AUD</country>
+		<date><![CDATA[06-02-2022]]></date>
+		<time><![CDATA[10:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[55.9]]></previous>
+	</event>
+	<event>
+		<title>German Trade Balance</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[6:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[5.6B]]></forecast>
+		<previous><![CDATA[3.2B]]></previous>
+	</event>
+	<event>
+		<title>French Industrial Production m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[6:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.2%]]></forecast>
+		<previous><![CDATA[-0.5%]]></previous>
+	</event>
+	<event>
+		<title>Bank Holiday</title>
+		<country>GBP</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[7:00am]]></time>
+		<impact><![CDATA[Holiday]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>Spanish Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[7:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[56.0]]></forecast>
+		<previous><![CDATA[57.1]]></previous>
+	</event>
+	<event>
+		<title>Italian Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[7:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[54.6]]></forecast>
+		<previous><![CDATA[55.7]]></previous>
+	</event>
+	<event>
+		<title>French Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[7:50am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[58.4]]></forecast>
+		<previous><![CDATA[58.4]]></previous>
+	</event>
+	<event>
+		<title>German Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[7:55am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[56.3]]></forecast>
+		<previous><![CDATA[56.3]]></previous>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[8:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[56.3]]></forecast>
+		<previous><![CDATA[56.3]]></previous>
+	</event>
+	<event>
+		<title>Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[0.3%]]></forecast>
+		<previous><![CDATA[-0.4%]]></previous>
+	</event>
+	<event>
+		<title>Non-Farm Employment Change</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[325K]]></forecast>
+		<previous><![CDATA[428K]]></previous>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[3.5%]]></forecast>
+		<previous><![CDATA[3.6%]]></previous>
+	</event>
+	<event>
+		<title>Average Hourly Earnings m/m</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast><![CDATA[0.4%]]></forecast>
+		<previous><![CDATA[0.3%]]></previous>
+	</event>
+	<event>
+		<title>Labor Productivity q/q</title>
+		<country>CAD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[-0.5%]]></forecast>
+		<previous><![CDATA[-0.5%]]></previous>
+	</event>
+	<event>
+		<title>Final Services PMI</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[1:45pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[53.5]]></forecast>
+		<previous><![CDATA[53.5]]></previous>
+	</event>
+	<event>
+		<title>ISM Services PMI</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast><![CDATA[56.5]]></forecast>
+		<previous><![CDATA[57.1]]></previous>
+	</event>
+	<event>
+		<title>FOMC Member Brainard Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+	</event>
+	<event>
+		<title>President Biden Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[06-03-2022]]></date>
+		<time><![CDATA[2:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+	</event>
+</weeklyevents>

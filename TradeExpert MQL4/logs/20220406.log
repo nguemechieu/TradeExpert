@@ -1,0 +1,17 @@
+2	00:16:47.220	Expert MACD Sample EURUSD,H4: loaded successfully
+2	00:16:49.626	Expert MACD Sample EURUSD,H4: removed
+0	15:21:08.584	System to be shutdown, request for close OANDA - MT4
+0	15:21:08.727	OANDA - MT4 build 1355 stopped because system shutdown
+0	19:21:14.903	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	19:21:14.903	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2726 / 8013 Mb, Disk: 77 / 217 Gb, GMT-5
+0	19:21:14.903	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	19:21:15.888	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	19:21:15.896	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	19:21:15.912	Custom indicator TrendsFollowers EURUSD,H4: loaded successfully
+2	19:21:16.908	Custom indicator TrendsFollowers USDCHF,H4: loaded successfully
+2	19:21:16.924	Custom indicator TrendsFollowers USDCHF,H4: loaded successfully
+2	19:25:47.931	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	19:25:47.938	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	19:25:47.938	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	19:25:47.938	Custom indicator TrendsFollowers USDCHF,H4: removed
+2	19:25:47.938	Custom indicator TrendsFollowers USDCHF,H4: removed

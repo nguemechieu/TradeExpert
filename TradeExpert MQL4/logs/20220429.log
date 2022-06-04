@@ -1,0 +1,43 @@
+0	01:02:06.526	'3462709': order #294725521 buy 0.02 AUDCHF at 0.69061 closed due take-profit at price 0.69421
+0	02:17:26.317	'3462709': close order #294802623 sell 0.01 CHFJPY at 134.509 sl: 150.000 tp: 30.000 at price 0.000
+0	02:17:26.606	'3462709': order #294802623 sell 0.01 CHFJPY at 134.509 sl: 150.000 tp: 30.000 closed at price 134.325
+0	02:17:26.932	'3462709': close order #294802602 sell 0.01 EURJPY at 137.390 sl: 150.000 tp: 30.000 at price 0.000
+0	02:17:27.025	'3462709': order #294802602 sell 0.01 EURJPY at 137.390 sl: 150.000 tp: 30.000 closed at price 137.337
+0	02:17:27.353	'3462709': close order #294802540 sell 0.01 NZDJPY at 84.939 sl: 150.000 tp: 30.000 at price 0.000
+0	02:17:27.461	'3462709': order #294802540 sell 0.01 NZDJPY at 84.939 sl: 150.000 tp: 30.000 closed at price 84.974
+0	02:17:27.787	'3462709': close order #294802311 sell 0.01 CADJPY at 102.195 sl: 150.000 tp: 30.000 at price 0.000
+0	02:17:27.943	'3462709': order #294802311 sell 0.01 CADJPY at 102.195 sl: 150.000 tp: 30.000 closed at price 102.224
+0	02:17:28.269	'3462709': close order #294802308 sell 0.01 USDJPY at 130.544 sl: 150.000 tp: 30.000 at price 0.000
+0	02:17:28.394	'3462709': order #294802308 sell 0.01 USDJPY at 130.544 sl: 150.000 tp: 30.000 closed at price 130.292
+0	02:17:28.715	'3462709': close order #294725418 buy 0.02 EURCHF at 1.02087 sl: 1.01905 tp: 1.02519 at price 0.00000
+0	02:17:28.824	'3462709': order #294725418 buy 0.02 EURCHF at 1.02087 sl: 1.01905 tp: 1.02519 closed at price 1.02242
+0	02:17:29.148	'3462709': close order #294725391 buy 0.01 EURCHF at 1.02113 sl: 1.01905 tp: 1.02519 at price 0.00000
+0	02:17:29.303	'3462709': order #294725391 buy 0.01 EURCHF at 1.02113 sl: 1.01905 tp: 1.02519 closed at price 1.02242
+0	05:21:14.520	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	05:21:14.520	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1488 / 8013 Mb, Disk: 87 / 217 Gb, GMT-5
+0	05:21:14.520	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	05:21:16.794	Expert TradeExpert USDJPY,Daily: loaded successfully
+0	05:21:17.278	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 33.88 ms)
+0	05:21:17.763	'3462709': previous successful authorization performed from 108.2.119.245
+0	05:21:30.207	'3462709': ping to current access point Main 0 is 31.34 ms
+2	05:28:13.086	Expert TradeExpert USDJPY,Daily: removed
+2	05:28:13.106	Expert TradeExpert USDJPY,Daily: loaded successfully
+2	05:28:54.743	Expert TradeExpert USDJPY,Daily: removed
+2	05:29:13.577	Expert TradeExpert USDJPY,Daily: loaded successfully
+2	05:39:24.308	Expert TradeExpert USDJPY,Daily: removed
+0	05:42:46.228	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	05:42:46.228	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1389 / 8013 Mb, Disk: 87 / 217 Gb, GMT-5
+0	05:42:46.228	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	05:42:47.497	Expert TradeExpert USDJPY,Daily: loaded successfully
+0	11:57:05.960	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	11:57:05.960	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1124 / 8013 Mb, Disk: 87 / 217 Gb, GMT-5
+0	11:57:05.960	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	11:57:08.292	Sources recompilation started
+0	11:57:09.588	Sources recompilation finished (1 compiled in 1297 msec)
+0	11:57:10.918	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.34 ms)
+0	11:57:11.388	'3462709': previous successful authorization performed from 108.2.119.245
+0	11:57:23.652	'3462709': auto connecting to a better access point Main 2 (ping is 34.07 ms)
+0	11:57:23.919	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 34.07 ms)
+0	11:57:24.357	'3462709': previous successful authorization performed from 108.2.119.245
+2	19:17:19.288	Expert TradeExpert USDJPY,Daily: loaded successfully
+2	19:47:45.362	Expert TradeExpert USDJPY,Daily: removed

@@ -1,0 +1,26 @@
+1	13:19:37.547	'3462709': ping failed
+1	13:19:37.907	MQL5.community: authorization failed
+1	13:19:39.845	'3462709': connect failed [No connection]
+0	13:19:55.406	'3462709': login on OANDA-Demo-1 through Main 0 (ping: n/a)
+0	13:19:56.007	'3462709': previous successful authorization performed from 108.2.119.245
+0	13:20:07.766	'3462709': auto connecting to a better access point Main 2 (ping is 32.58 ms)
+0	13:20:08.020	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.58 ms)
+0	13:20:08.439	'3462709': previous successful authorization performed from 108.2.119.245
+0	14:11:16.413	Automated trading disabled
+2	18:00:13.052	Expert TradeExpert EURUSD,H1: loaded successfully
+0	18:01:02.117	Automated trading enabled
+2	18:15:27.359	Expert TradeExpert EURUSD,H1: removed
+1	22:08:43.571	'3462709': ping failed
+0	22:08:43.903	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.58 ms)
+0	22:08:44.202	'3462709': previous successful authorization performed from 108.2.119.245
+0	22:08:55.452	'3462709': ping to current access point Main 2 is 30.29 ms
+0	23:36:11.882	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:36:11.882	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 2140 / 8013 Mb, Disk: 82 / 217 Gb, GMT-5
+0	23:36:11.882	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:36:14.725	Expert dailybreakout EURUSD,Daily: loaded successfully
+0	23:36:14.944	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 30.29 ms)
+0	23:36:15.319	'3462709': previous successful authorization performed from 108.2.119.245
+2	23:36:16.849	Expert dailybreakout EURUSD,Daily: removed
+0	23:36:26.945	'3462709': auto connecting to a better access point Main 0 (ping is 31.71 ms)
+0	23:36:27.180	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.71 ms)
+0	23:36:27.806	'3462709': previous successful authorization performed from 108.2.119.245

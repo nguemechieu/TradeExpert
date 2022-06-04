@@ -1,0 +1,27 @@
+2	00:20:06.467	Expert TradeExpert NZDCHF,H1: removed
+2	00:20:13.373	Expert TradeExpert NZDCHF,H1: loaded successfully
+2	00:21:20.579	Expert TradeExpert NZDCHF,H1: removed
+2	00:21:20.610	Expert TradeExpert NZDCHF,H1: loaded successfully
+2	00:22:33.317	Expert TradeExpert NZDCHF,H1: removed
+2	00:22:33.348	Expert TradeExpert NZDCHF,H1: loaded successfully
+2	00:25:52.424	Expert TradeExpert NZDCHF,H1: removed
+0	00:26:09.144	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	00:26:09.144	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1842 / 8013 Mb, Disk: 72 / 217 Gb, GMT-5
+0	00:26:09.144	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	00:26:11.362	Expert TradeExpert NZDCHF,H1: loaded successfully
+0	00:26:11.831	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.84 ms)
+0	00:26:12.160	'3462709': previous successful authorization performed from 108.2.119.245
+0	00:26:24.002	'3462709': ping to current access point Main 0 is 30.68 ms
+2	00:28:12.398	Expert TradeExpert NZDCHF,H1: removed
+2	00:28:12.429	Expert TradeExpert NZDCHF,H1: loaded successfully
+2	00:32:30.938	Expert TradeExpert NZDCHF,H1: removed
+2	00:32:30.969	Expert TradeExpert NZDCHF,H1: loaded successfully
+2	00:39:09.151	Expert TradeExpert NZDCHF,H1: removed
+2	00:39:09.182	Expert TradeExpert NZDCHF,H1: loaded successfully
+1	12:59:54.549	'3462709': ping failed
+0	12:59:54.876	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 30.68 ms)
+0	12:59:55.200	'3462709': previous successful authorization performed from 108.2.119.245
+0	13:00:07.661	'3462709': auto connecting to a better access point Main 2 (ping is 31.26 ms)
+0	13:00:07.902	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 31.26 ms)
+0	13:00:08.574	'3462709': previous successful authorization performed from 108.2.119.245
+2	13:43:13.766	Expert TradeExpert NZDCHF,H1: removed

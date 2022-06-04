@@ -1,0 +1,562 @@
+2	00:00:00.925	Expert TradeExpert USDJPY,H4: removed
+2	00:00:00.963	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:05:04.359	Expert TradeExpert USDJPY,H4: removed
+2	00:05:04.391	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:15:06.023	Expert TradeExpert USDJPY,H4: removed
+2	00:15:06.057	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:15:23.437	Expert TradeExpert USDCZK,H1: loaded successfully
+2	00:25:55.357	Expert TradeExpert USDJPY,H4: removed
+2	00:25:55.387	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:25:55.390	Expert TradeExpert USDCZK,H1: removed
+2	00:25:55.420	Expert TradeExpert USDCZK,H1: loaded successfully
+2	00:34:23.340	Expert TradeExpert USDCZK,H1: removed
+2	00:34:23.343	Custom indicator TrendsFollowers USDCZK,H1: removed
+2	00:34:27.079	Custom indicator TrendsFollowers NZDUSD,H1: removed
+2	00:34:35.985	Expert TradeExpert EURUSD,H4: loaded successfully
+2	00:46:27.483	Expert TradeExpert EURUSD,H4: removed
+2	00:46:27.514	Expert TradeExpert EURUSD,H4: loaded successfully
+2	00:46:27.517	Expert TradeExpert USDJPY,H4: removed
+2	00:46:27.545	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:48:58.389	Expert TradeExpert EURUSD,H4: removed
+2	00:48:58.422	Expert TradeExpert EURUSD,H4: loaded successfully
+2	00:48:58.425	Expert TradeExpert USDJPY,H4: removed
+2	00:48:58.455	Expert TradeExpert USDJPY,H4: loaded successfully
+2	00:56:29.303	Expert TradeExpert EURUSD,H4: removed
+2	00:56:29.306	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	00:56:29.312	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	00:56:29.315	Custom indicator TrendsFollowers EURUSD,H4: removed
+2	00:56:31.493	Expert TradeExpert USDJPY,H4: removed
+2	00:56:32.919	Custom indicator TrendsFollowers GBPUSD,M30: removed
+2	00:56:32.929	Custom indicator TrendExpert GBPUSD,M30: removed
+2	00:56:32.933	Custom indicator THE_ATM_INDICATOR_FX_master GBPUSD,M30: removed
+2	00:56:43.912	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	01:04:47.021	Expert TradeExpert AUDUSD,H1: removed
+2	01:04:47.053	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	01:13:34.638	Expert TradeExpert AUDUSD,H1: removed
+2	01:13:34.711	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	01:15:56.251	Expert TradeExpert AUDUSD,H1: removed
+2	01:15:56.284	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	01:17:11.188	Expert TradeExpert AUDUSD,H1: removed
+2	01:17:11.220	Expert TradeExpert AUDUSD,H1: loaded successfully
+1	02:01:45.949	'8848155': ping failed
+1	02:02:07.048	'8848155': connect failed [No connection]
+1	02:02:07.052	MQL5.community: authorization failed
+1	02:05:57.053	MQL5.community: authorization failed
+1	02:10:57.077	MQL5.community: authorization failed
+0	02:13:57.188	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.70 ms)
+0	02:13:57.378	'8848155': previous successful authorization performed from 108.2.119.245
+0	02:14:01.731	'8848155': auto connecting to a better access point Main 2 (ping is 12.92 ms)
+0	02:14:01.868	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 12.92 ms)
+0	02:14:02.089	'8848155': previous successful authorization performed from 108.2.119.245
+2	07:06:39.507	Expert TradeExpert AUDUSD,H1: removed
+2	07:06:39.538	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:13:21.517	Expert TradeExpert AUDUSD,H1: removed
+2	07:13:21.580	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:14:58.875	Expert TradeExpert AUDUSD,H1: removed
+2	07:14:58.902	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:15:44.165	Expert TradeExpert AUDUSD,H1: removed
+2	07:15:44.212	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:16:12.544	Expert TradeExpert AUDUSD,H1: removed
+0	07:16:37.035	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	07:16:37.035	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1603 / 8013 Mb, Disk: 73 / 217 Gb, GMT-5
+0	07:16:37.035	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+0	07:16:38.630	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 12.92 ms)
+0	07:16:38.829	'8848155': previous successful authorization performed from 108.2.119.245
+0	07:16:41.240	'8848155': ping to current access point Main 2 is 11.75 ms
+2	07:20:35.385	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:23:12.235	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:23:17.618	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:23:39.378	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:26:51.391	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:26:51.407	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:26:51.427	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:26:52.224	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:26:52.226	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:26:52.228	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:28:54.923	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:28:54.935	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:28:54.960	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:28:57.675	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:28:57.678	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:28:57.683	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:30:58.515	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:30:58.524	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:30:58.541	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:31:01.129	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:31:01.130	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:31:01.133	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:33:04.073	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:33:04.083	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:33:04.103	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:33:06.658	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:33:06.660	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:33:06.662	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:35:13.489	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:35:13.502	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:35:13.526	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:35:15.903	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:35:15.910	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:35:15.923	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:37:17.628	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:37:17.641	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:37:17.660	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:37:20.220	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:37:20.224	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:37:20.231	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:39:21.117	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:39:21.127	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:39:21.145	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:39:23.557	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:39:23.560	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:39:23.567	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:39:57.722	Expert TradeExpert AUDUSD,H1: removed
+2	07:39:57.753	Expert TradeExpert AUDUSD,H1: loaded successfully
+2	07:40:06.340	Custom indicator Triggerlines NZDUSD,H1: loaded successfully
+2	07:40:06.350	Custom indicator ZigZag_Pointer NZDUSD,H1: loaded successfully
+2	07:40:06.370	Custom indicator TrendExpert NZDUSD,H1: loaded successfully
+2	07:40:08.840	Custom indicator Triggerlines NZDUSD,H1: removed
+2	07:40:08.841	Custom indicator ZigZag_Pointer NZDUSD,H1: removed
+2	07:40:08.844	Custom indicator TrendExpert NZDUSD,H1: removed
+2	07:40:33.797	Expert TradeExpert AUDUSD,H1: removed
+2	07:41:08.087	Expert TradeExpert EURUSD,H1: loaded successfully
+2	07:41:20.778	Custom indicator Triggerlines USDJPY,H1: loaded successfully
+2	07:41:20.788	Custom indicator ZigZag_Pointer USDJPY,H1: loaded successfully
+2	07:41:20.808	Custom indicator TrendExpert USDJPY,H1: loaded successfully
+2	07:41:23.070	Custom indicator Triggerlines USDJPY,H1: removed
+2	07:41:23.071	Custom indicator ZigZag_Pointer USDJPY,H1: removed
+2	07:41:23.074	Custom indicator TrendExpert USDJPY,H1: removed
+2	07:43:24.971	Custom indicator Triggerlines USDJPY,H1: loaded successfully
+2	07:43:24.983	Custom indicator ZigZag_Pointer USDJPY,H1: loaded successfully
+2	07:43:25.004	Custom indicator TrendExpert USDJPY,H1: loaded successfully
+2	07:43:27.553	Custom indicator Triggerlines USDJPY,H1: removed
+2	07:43:27.554	Custom indicator ZigZag_Pointer USDJPY,H1: removed
+2	07:43:27.558	Custom indicator TrendExpert USDJPY,H1: removed
+2	07:45:30.210	Custom indicator Triggerlines USDJPY,H1: loaded successfully
+2	07:45:30.219	Custom indicator ZigZag_Pointer USDJPY,H1: loaded successfully
+2	07:45:30.237	Custom indicator TrendExpert USDJPY,H1: loaded successfully
+2	07:45:34.348	Custom indicator Triggerlines USDJPY,H1: removed
+2	07:45:34.350	Custom indicator ZigZag_Pointer USDJPY,H1: removed
+2	07:45:34.354	Custom indicator TrendExpert USDJPY,H1: removed
+2	07:45:41.465	Custom indicator Triggerlines USDZAR,H1: loaded successfully
+2	07:45:41.475	Custom indicator ZigZag_Pointer USDZAR,H1: loaded successfully
+2	07:45:41.492	Custom indicator TrendExpert USDZAR,H1: loaded successfully
+2	07:45:43.952	Custom indicator Triggerlines USDZAR,H1: removed
+2	07:45:43.955	Custom indicator ZigZag_Pointer USDZAR,H1: removed
+2	07:45:43.960	Custom indicator TrendExpert USDZAR,H1: removed
+0	07:46:56.873	Automated trading disabled
+2	07:47:12.003	Expert TradeExpert USDJPY,H1: loaded successfully
+2	07:47:45.460	Custom indicator Triggerlines USDZAR,H1: loaded successfully
+2	07:47:45.469	Custom indicator ZigZag_Pointer USDZAR,H1: loaded successfully
+2	07:47:45.487	Custom indicator TrendExpert USDZAR,H1: loaded successfully
+2	07:47:48.005	Expert TradeExpert USDJPY,H1: removed
+2	07:47:48.011	Custom indicator Triggerlines USDZAR,H1: removed
+2	07:47:48.013	Custom indicator ZigZag_Pointer USDZAR,H1: removed
+2	07:47:48.015	Custom indicator TrendExpert USDZAR,H1: removed
+2	07:48:21.793	Expert TradeExpert EURUSD,H1: removed
+2	07:48:21.821	Expert TradeExpert EURUSD,H1: loaded successfully
+2	07:49:23.293	Custom indicator Triggerlines USDCZK,H1: loaded successfully
+2	07:49:23.304	Custom indicator ZigZag_Pointer USDCZK,H1: loaded successfully
+2	07:49:23.322	Custom indicator TrendExpert USDCZK,H1: loaded successfully
+2	07:49:25.771	Custom indicator Triggerlines USDCZK,H1: removed
+2	07:49:25.773	Custom indicator ZigZag_Pointer USDCZK,H1: removed
+2	07:49:25.775	Custom indicator TrendExpert USDCZK,H1: removed
+0	07:50:05.801	Automated trading enabled
+2	07:51:27.044	Custom indicator Triggerlines USDCZK,H1: loaded successfully
+2	07:51:27.053	Custom indicator ZigZag_Pointer USDCZK,H1: loaded successfully
+2	07:51:27.072	Custom indicator TrendExpert USDCZK,H1: loaded successfully
+2	07:51:34.293	Expert TradeExpert EURUSD,H1: removed
+2	07:51:34.325	Expert TradeExpert EURUSD,H1: loaded successfully
+2	07:51:34.450	Custom indicator Triggerlines USDCZK,H1: removed
+2	07:51:34.451	Custom indicator ZigZag_Pointer USDCZK,H1: removed
+2	07:51:34.454	Custom indicator TrendExpert USDCZK,H1: removed
+2	07:51:36.418	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	07:51:36.430	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	07:51:36.450	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	07:51:39.172	Custom indicator Triggerlines EURNZD,H1: removed
+2	07:51:39.178	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	07:51:39.188	Custom indicator TrendExpert EURNZD,H1: removed
+2	07:53:47.667	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	07:53:47.676	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	07:53:47.695	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	07:53:50.197	Custom indicator Triggerlines EURNZD,H1: removed
+2	07:53:50.199	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	07:53:50.201	Custom indicator TrendExpert EURNZD,H1: removed
+2	07:55:58.596	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	07:55:58.609	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	07:55:58.628	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	07:56:01.054	Custom indicator Triggerlines EURNZD,H1: removed
+2	07:56:01.057	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	07:56:01.062	Custom indicator TrendExpert EURNZD,H1: removed
+2	07:58:02.224	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	07:58:02.235	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	07:58:02.254	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	07:58:04.677	Custom indicator Triggerlines EURNZD,H1: removed
+2	07:58:04.679	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	07:58:04.682	Custom indicator TrendExpert EURNZD,H1: removed
+2	07:59:24.243	Expert TradeExpert EURUSD,H1: removed
+2	07:59:24.274	Expert TradeExpert EURUSD,H1: loaded successfully
+2	07:59:26.438	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	07:59:26.446	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	07:59:26.464	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	07:59:29.027	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:59:29.028	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:59:29.031	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:59:51.697	Expert TradeExpert EURUSD,H1: removed
+2	07:59:51.703	Custom indicator Triggerlines EURUSD,H1: removed
+2	07:59:51.707	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	07:59:51.712	Custom indicator TrendExpert EURUSD,H1: removed
+2	07:59:55.322	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:00:07.026	Custom indicator Triggerlines GBPJPY,H1: loaded successfully
+2	08:00:07.038	Custom indicator ZigZag_Pointer GBPJPY,H1: loaded successfully
+2	08:00:07.062	Custom indicator TrendExpert GBPJPY,H1: loaded successfully
+2	08:00:10.429	Custom indicator Triggerlines GBPJPY,H1: removed
+2	08:00:10.430	Custom indicator ZigZag_Pointer GBPJPY,H1: removed
+2	08:00:10.433	Custom indicator TrendExpert GBPJPY,H1: removed
+2	08:02:11.155	Custom indicator Triggerlines GBPJPY,H1: loaded successfully
+2	08:02:11.165	Custom indicator ZigZag_Pointer GBPJPY,H1: loaded successfully
+2	08:02:11.185	Custom indicator TrendExpert GBPJPY,H1: loaded successfully
+2	08:02:13.725	Custom indicator Triggerlines GBPJPY,H1: removed
+2	08:02:13.727	Custom indicator ZigZag_Pointer GBPJPY,H1: removed
+2	08:02:13.730	Custom indicator TrendExpert GBPJPY,H1: removed
+2	08:04:22.214	Custom indicator Triggerlines GBPJPY,H1: loaded successfully
+2	08:04:22.225	Custom indicator ZigZag_Pointer GBPJPY,H1: loaded successfully
+2	08:04:22.243	Custom indicator TrendExpert GBPJPY,H1: loaded successfully
+2	08:04:24.898	Custom indicator Triggerlines GBPJPY,H1: removed
+2	08:04:24.899	Custom indicator ZigZag_Pointer GBPJPY,H1: removed
+2	08:04:24.902	Custom indicator TrendExpert GBPJPY,H1: removed
+2	08:04:44.386	Expert TradeExpert USDJPY,H1: removed
+2	08:04:44.413	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:04:54.429	Custom indicator Triggerlines EURCHF,H1: loaded successfully
+2	08:04:54.441	Custom indicator ZigZag_Pointer EURCHF,H1: loaded successfully
+2	08:04:54.462	Custom indicator TrendExpert EURCHF,H1: loaded successfully
+2	08:04:57.163	Custom indicator Triggerlines EURCHF,H1: removed
+2	08:04:57.164	Custom indicator ZigZag_Pointer EURCHF,H1: removed
+2	08:04:57.167	Custom indicator TrendExpert EURCHF,H1: removed
+2	08:07:06.750	Custom indicator Triggerlines EURCHF,H1: loaded successfully
+2	08:07:06.764	Custom indicator ZigZag_Pointer EURCHF,H1: loaded successfully
+2	08:07:06.785	Custom indicator TrendExpert EURCHF,H1: loaded successfully
+2	08:07:09.143	Custom indicator Triggerlines EURCHF,H1: removed
+2	08:07:09.144	Custom indicator ZigZag_Pointer EURCHF,H1: removed
+2	08:07:09.147	Custom indicator TrendExpert EURCHF,H1: removed
+2	08:07:45.540	Expert TradeExpert USDJPY,H1: removed
+2	08:07:45.570	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:07:55.647	Custom indicator Triggerlines CHFJPY,H1: loaded successfully
+2	08:07:55.660	Custom indicator ZigZag_Pointer CHFJPY,H1: loaded successfully
+2	08:07:55.680	Custom indicator TrendExpert CHFJPY,H1: loaded successfully
+2	08:07:58.186	Custom indicator Triggerlines CHFJPY,H1: removed
+2	08:07:58.188	Custom indicator ZigZag_Pointer CHFJPY,H1: removed
+2	08:07:58.191	Custom indicator TrendExpert CHFJPY,H1: removed
+2	08:10:00.019	Custom indicator Triggerlines CHFJPY,H1: loaded successfully
+2	08:10:00.030	Custom indicator ZigZag_Pointer CHFJPY,H1: loaded successfully
+2	08:10:00.052	Custom indicator TrendExpert CHFJPY,H1: loaded successfully
+2	08:10:03.308	Custom indicator Triggerlines CHFJPY,H1: removed
+2	08:10:03.310	Custom indicator ZigZag_Pointer CHFJPY,H1: removed
+2	08:10:03.312	Custom indicator TrendExpert CHFJPY,H1: removed
+2	08:10:40.487	Expert TradeExpert USDJPY,H1: removed
+2	08:10:40.524	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:10:50.525	Custom indicator Triggerlines AUDJPY,H1: loaded successfully
+2	08:10:50.534	Custom indicator ZigZag_Pointer AUDJPY,H1: loaded successfully
+2	08:10:50.553	Custom indicator TrendExpert AUDJPY,H1: loaded successfully
+2	08:10:53.499	Custom indicator Triggerlines AUDJPY,H1: removed
+2	08:10:53.501	Custom indicator ZigZag_Pointer AUDJPY,H1: removed
+2	08:10:53.504	Custom indicator TrendExpert AUDJPY,H1: removed
+2	08:11:09.973	Expert TradeExpert USDJPY,H1: removed
+2	08:11:10.036	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:11:20.083	Custom indicator Triggerlines GBPCAD,H1: loaded successfully
+2	08:11:20.093	Custom indicator ZigZag_Pointer GBPCAD,H1: loaded successfully
+2	08:11:20.110	Custom indicator TrendExpert GBPCAD,H1: loaded successfully
+2	08:11:22.235	Custom indicator Triggerlines GBPCAD,H1: removed
+2	08:11:22.236	Custom indicator ZigZag_Pointer GBPCAD,H1: removed
+2	08:11:22.239	Custom indicator TrendExpert GBPCAD,H1: removed
+2	08:12:48.030	Expert TradeExpert USDJPY,H1: removed
+2	08:12:48.066	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:12:57.867	Custom indicator Triggerlines NZDJPY,H1: loaded successfully
+2	08:12:57.877	Custom indicator ZigZag_Pointer NZDJPY,H1: loaded successfully
+2	08:12:57.896	Custom indicator TrendExpert NZDJPY,H1: loaded successfully
+2	08:13:00.329	Custom indicator Triggerlines NZDJPY,H1: removed
+2	08:13:00.335	Custom indicator ZigZag_Pointer NZDJPY,H1: removed
+2	08:13:00.343	Custom indicator TrendExpert NZDJPY,H1: removed
+2	08:15:01.136	Custom indicator Triggerlines NZDJPY,H1: loaded successfully
+2	08:15:01.148	Custom indicator ZigZag_Pointer NZDJPY,H1: loaded successfully
+2	08:15:01.169	Custom indicator TrendExpert NZDJPY,H1: loaded successfully
+2	08:15:03.585	Custom indicator Triggerlines NZDJPY,H1: removed
+2	08:15:03.590	Custom indicator ZigZag_Pointer NZDJPY,H1: removed
+2	08:15:03.599	Custom indicator TrendExpert NZDJPY,H1: removed
+2	08:15:29.653	Expert TradeExpert USDJPY,H1: removed
+2	08:15:29.692	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:15:39.430	Custom indicator Triggerlines EURNZD,H1: loaded successfully
+2	08:15:39.445	Custom indicator ZigZag_Pointer EURNZD,H1: loaded successfully
+2	08:15:39.464	Custom indicator TrendExpert EURNZD,H1: loaded successfully
+2	08:15:41.883	Custom indicator Triggerlines EURNZD,H1: removed
+2	08:15:41.884	Custom indicator ZigZag_Pointer EURNZD,H1: removed
+2	08:15:41.887	Custom indicator TrendExpert EURNZD,H1: removed
+2	08:16:22.640	Expert TradeExpert USDJPY,H1: removed
+2	08:16:22.679	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:16:32.230	Custom indicator Triggerlines USDCZK,H1: loaded successfully
+2	08:16:32.239	Custom indicator ZigZag_Pointer USDCZK,H1: loaded successfully
+2	08:16:32.256	Custom indicator TrendExpert USDCZK,H1: loaded successfully
+2	08:16:34.501	Custom indicator Triggerlines USDCZK,H1: removed
+2	08:16:34.503	Custom indicator ZigZag_Pointer USDCZK,H1: removed
+2	08:16:34.508	Custom indicator TrendExpert USDCZK,H1: removed
+2	08:17:58.809	Expert TradeExpert USDJPY,H1: removed
+2	08:17:58.855	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:19:35.014	Expert TradeExpert USDJPY,H1: removed
+2	08:19:35.047	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:19:44.591	Custom indicator Triggerlines GBPAUD,H1: loaded successfully
+2	08:19:44.600	Custom indicator ZigZag_Pointer GBPAUD,H1: loaded successfully
+2	08:19:44.618	Custom indicator TrendExpert GBPAUD,H1: loaded successfully
+2	08:19:47.169	Custom indicator Triggerlines GBPAUD,H1: removed
+2	08:19:47.174	Custom indicator ZigZag_Pointer GBPAUD,H1: removed
+2	08:19:47.185	Custom indicator TrendExpert GBPAUD,H1: removed
+2	08:21:29.193	Expert TradeExpert USDJPY,H1: removed
+2	08:21:29.223	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:22:20.159	Expert TradeExpert USDJPY,H1: removed
+0	08:22:41.904	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	08:22:41.905	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1651 / 8013 Mb, Disk: 73 / 217 Gb, GMT-5
+0	08:22:41.905	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	08:22:42.975	Expert TradeExpert USDJPY,H1: loaded successfully
+0	08:22:43.350	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 11.75 ms)
+0	08:22:43.611	'8848155': previous successful authorization performed from 108.2.119.245
+0	08:22:47.953	'8848155': auto connecting to a better access point Main 1 (ping is 11.44 ms)
+0	08:22:48.126	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 11.44 ms)
+0	08:22:48.325	'8848155': previous successful authorization performed from 108.2.119.245
+2	08:22:59.256	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:22:59.266	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:22:59.284	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:23:01.495	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:23:01.496	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:23:01.499	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:25:05.956	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:25:05.967	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:25:05.987	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:25:08.847	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:25:08.849	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:25:08.851	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:27:09.988	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:27:09.997	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:27:10.014	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:27:12.983	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:27:12.985	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:27:12.987	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:29:17.020	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:29:17.029	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:29:17.047	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:29:20.123	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:29:20.124	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:29:20.126	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:30:49.414	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:30:49.422	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:30:49.440	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:30:52.433	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:30:52.434	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:30:52.436	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:32:52.951	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	08:32:52.965	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	08:32:52.984	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	08:32:55.950	Custom indicator Triggerlines EURAUD,H1: removed
+2	08:32:55.955	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	08:32:55.962	Custom indicator TrendExpert EURAUD,H1: removed
+2	08:33:49.236	Expert TradeExpert USDJPY,H1: removed
+2	08:33:49.267	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:41:54.299	Expert TradeExpert USDJPY,H1: removed
+0	08:42:10.556	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	08:42:10.557	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1676 / 8013 Mb, Disk: 72 / 217 Gb, GMT-5
+0	08:42:10.557	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	08:42:11.580	Expert TradeExpert USDJPY,H1: loaded successfully
+0	08:42:12.109	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 11.44 ms)
+0	08:42:12.324	'8848155': previous successful authorization performed from 108.2.119.245
+2	08:49:35.493	Expert TradeExpert USDJPY,H1: removed
+2	08:49:35.524	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:52:48.579	Expert TradeExpert USDJPY,H1: removed
+2	08:52:48.606	Expert TradeExpert USDJPY,H1: loaded successfully
+2	08:53:04.471	Expert TradeExpert USDJPY,H1: removed
+2	08:53:04.503	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:02:23.184	Expert TradeExpert USDJPY,H1: removed
+2	09:02:23.213	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:33:35.416	Expert TradeExpert USDJPY,H1: removed
+2	09:33:35.447	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:44:28.250	Expert TradeExpert USDJPY,H1: removed
+2	09:44:28.278	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:44:34.845	Expert TradeExpert USDJPY,H1: removed
+2	09:44:34.873	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:44:39.980	Expert TradeExpert USDJPY,H1: removed
+2	09:44:40.010	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:45:33.487	Expert TradeExpert USDJPY,H1: removed
+2	09:45:33.518	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:50:06.400	Expert TradeExpert USDJPY,H1: removed
+2	09:50:06.430	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:50:54.525	Expert TradeExpert USDJPY,H1: removed
+2	09:50:54.555	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:51:37.035	Expert TradeExpert USDJPY,H1: removed
+2	09:51:37.064	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:51:59.642	Expert TradeExpert USDJPY,H1: removed
+2	09:51:59.671	Expert TradeExpert USDJPY,H1: loaded successfully
+2	09:58:10.992	Expert TradeExpert USDJPY,H1: removed
+2	09:58:11.022	Expert TradeExpert USDJPY,H1: loaded successfully
+2	10:09:03.598	Expert TradeExpert USDJPY,H1: removed
+2	10:09:03.627	Expert TradeExpert USDJPY,H1: loaded successfully
+2	10:13:03.280	Expert TradeExpert USDJPY,H1: removed
+2	10:13:03.308	Expert TradeExpert USDJPY,H1: loaded successfully
+2	10:17:00.242	Expert TradeExpert USDJPY,H1: removed
+2	10:17:00.270	Expert TradeExpert USDJPY,H1: loaded successfully
+2	10:17:48.131	Expert TradeExpert USDJPY,H1: removed
+0	10:18:16.365	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	10:18:16.365	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1804 / 8013 Mb, Disk: 71 / 217 Gb, GMT-5
+0	10:18:16.365	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	10:18:17.414	Expert TradeExpert USDJPY,H1: loaded successfully
+0	10:18:17.859	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 11.44 ms)
+0	10:18:18.047	'8848155': previous successful authorization performed from 108.2.119.245
+0	10:18:20.508	'8848155': auto connecting to a better access point Main 2 (ping is 9.92 ms)
+0	10:18:20.638	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 9.92 ms)
+0	10:18:20.791	'8848155': previous successful authorization performed from 108.2.119.245
+2	10:30:35.001	Expert TradeExpert USDJPY,H1: removed
+2	10:30:35.028	Expert TradeExpert USDJPY,H1: loaded successfully
+2	10:30:51.151	Expert TradeExpert USDJPY,H1: removed
+2	10:31:03.702	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:29:11.340	Expert TradeExpert USDJPY,H1: removed
+2	12:29:11.373	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:29:11.577	Expert TradeExpert USDJPY,H1: removed
+2	12:29:17.682	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:29:24.697	Expert TradeExpert USDJPY,H1: removed
+2	12:30:12.393	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:49:22.897	Expert TradeExpert USDJPY,H1: removed
+2	12:49:22.932	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:50:03.003	Expert TradeExpert USDJPY,H1: removed
+2	12:50:03.034	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:50:05.712	Expert TradeExpert USDJPY,H1: removed
+2	12:50:05.748	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:50:05.831	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:50:08.575	Expert TradeExpert EURUSD,H1: removed
+2	12:50:13.778	Expert TradeExpert USDJPY,H1: removed
+2	12:50:13.814	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:50:13.898	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:50:17.234	Expert TradeExpert EURUSD,H1: removed
+2	12:50:27.093	Expert TradeExpert USDJPY,H1: removed
+2	12:50:27.129	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:50:27.215	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:50:30.542	Expert TradeExpert EURUSD,H1: removed
+0	12:51:33.466	Automated trading disabled
+2	12:51:43.190	Expert TradeExpert USDJPY,H1: removed
+2	12:51:43.222	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:51:46.626	Expert TradeExpert USDJPY,H1: removed
+2	12:51:46.659	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:51:46.777	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:51:49.615	Expert TradeExpert EURUSD,H1: removed
+2	12:51:59.448	Expert TradeExpert USDJPY,H1: removed
+2	12:52:09.026	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:52:13.274	Expert TradeExpert EURUSD,H1: removed
+2	12:53:15.158	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:53:17.268	Expert TradeExpert EURUSD,H1: removed
+2	12:53:26.551	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:53:29.383	Expert TradeExpert EURUSD,H1: removed
+2	12:53:44.091	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:53:55.273	Expert TradeExpert EURUSD,H1: removed
+2	12:54:35.419	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:54:37.248	Expert TradeExpert EURUSD,H1: removed
+2	12:57:47.494	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:57:49.461	Expert TradeExpert USDJPY,H1: removed
+2	12:57:53.236	Expert TradeExpert USDJPY,H1: loaded successfully
+0	12:58:09.687	Automated trading enabled
+2	12:58:52.118	Expert TradeExpert USDJPY,H1: removed
+2	12:58:52.154	Expert TradeExpert USDJPY,H1: loaded successfully
+2	12:58:52.239	Expert TradeExpert EURUSD,H1: loaded successfully
+2	12:58:54.398	Expert TradeExpert EURUSD,H1: removed
+2	12:59:52.533	Expert TradeExpert USDJPY,H1: removed
+2	12:59:52.563	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:00:17.793	Expert TradeExpert USDJPY,H1: removed
+2	13:00:17.832	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:00:17.919	Expert TradeExpert EURUSD,H1: loaded successfully
+2	13:00:20.056	Expert TradeExpert EURUSD,H1: removed
+2	13:01:37.204	Expert TradeExpert USDJPY,H1: removed
+2	13:01:37.239	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:10:55.789	Expert TradeExpert USDJPY,H1: removed
+2	13:10:55.823	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:10:58.151	Expert TradeExpert USDJPY,H1: removed
+2	13:13:21.611	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:13:32.731	Expert TradeExpert USDJPY,H1: removed
+2	13:15:14.330	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:16:33.397	Expert TradeExpert USDJPY,H1: removed
+2	13:16:33.427	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:19:17.650	Expert TradeExpert USDJPY,H1: removed
+2	13:19:17.678	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:32:37.985	Expert TradeExpert USDJPY,H1: removed
+2	13:32:38.012	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:32:53.283	Expert TradeExpert USDJPY,H1: removed
+2	13:32:53.312	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:44:10.084	Expert TradeExpert USDJPY,H1: removed
+2	13:44:10.114	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:49:06.091	Expert TradeExpert USDJPY,H1: removed
+2	13:49:06.120	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:55:14.727	Expert TradeExpert USDJPY,H1: removed
+2	13:55:14.756	Expert TradeExpert USDJPY,H1: loaded successfully
+2	13:55:26.300	Expert TradeExpert USDJPY,H1: removed
+2	13:55:26.331	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:13:18.737	Expert TradeExpert USDJPY,H1: removed
+2	14:13:18.765	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:15:54.396	Expert TradeExpert USDJPY,H1: removed
+2	14:15:54.423	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:17:40.759	Expert TradeExpert USDJPY,H1: removed
+2	14:17:40.785	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:25:58.675	Expert TradeExpert USDJPY,H1: removed
+2	14:25:58.705	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:33:49.198	Expert TradeExpert USDJPY,H1: removed
+2	14:33:49.228	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:37:14.071	Expert TradeExpert USDJPY,H1: removed
+2	14:37:14.101	Expert TradeExpert USDJPY,H1: loaded successfully
+2	14:38:08.208	Expert TradeExpert USDJPY,H1: removed
+0	14:44:12.766	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	14:44:12.766	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1729 / 8013 Mb, Disk: 71 / 217 Gb, GMT-5
+0	14:44:12.766	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	14:44:13.805	Expert TradeExpert USDJPY,H1: loaded successfully
+0	14:44:16.173	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 9.92 ms)
+0	14:44:16.399	'8848155': previous successful authorization performed from 108.2.119.245
+0	14:44:19.556	'8848155': auto connecting to a better access point Main 1 (ping is 12.01 ms)
+0	14:44:19.744	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.01 ms)
+0	14:44:19.979	'8848155': previous successful authorization performed from 108.2.119.245
+2	14:56:46.538	Expert TradeExpert USDJPY,H1: removed
+2	14:56:46.569	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:03:17.057	Expert TradeExpert USDJPY,H1: removed
+2	15:03:17.086	Expert TradeExpert USDJPY,H1: loaded successfully
+2	15:04:50.262	Expert TradeExpert USDJPY,H1: removed
+2	15:04:50.290	Expert TradeExpert USDJPY,H1: loaded successfully
+1	15:11:15.544	'8848155': ping failed
+1	15:11:15.604	'8848155': connect failed [No connection]
+0	15:11:51.882	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.01 ms)
+0	15:11:52.697	'8848155': previous successful authorization performed from 108.2.119.245
+1	15:14:12.457	'8848155': connect failed [No connection]
+0	15:15:50.814	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.01 ms)
+0	15:15:51.547	'8848155': previous successful authorization performed from 166.216.159.126
+1	15:16:31.676	'8848155': ping failed
+0	15:16:32.098	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.01 ms)
+0	15:16:32.812	'8848155': previous successful authorization performed from 166.216.159.102
+1	15:30:10.870	'8848155': connect failed [No connection]
+2	19:24:58.049	Expert TradeExpert USDJPY,H1: removed
+0	21:32:43.657	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	21:32:43.657	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1338 / 8013 Mb, Disk: 71 / 217 Gb, GMT-5
+0	21:32:43.657	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	21:32:44.745	Expert TradeExpert USDJPY,H1: loaded successfully
+0	21:32:45.231	'8848155': login on OANDA-v20 Live-1 through Main 1 (ping: 12.01 ms)
+0	21:32:45.425	'8848155': previous successful authorization performed from 166.216.159.102
+0	21:32:47.824	'8848155': auto connecting to a better access point Main 2 (ping is 11.98 ms)
+0	21:32:47.984	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 11.98 ms)
+0	21:32:48.191	'8848155': previous successful authorization performed from 108.2.119.245
+2	22:18:31.492	Expert TradeExpert USDJPY,H1: removed
+2	22:18:31.528	Expert TradeExpert USDJPY,H1: loaded successfully
+2	22:27:14.008	Expert TradeExpert USDJPY,H1: removed
+2	22:27:14.035	Expert TradeExpert USDJPY,H1: loaded successfully
+2	22:30:14.543	Expert TradeExpert USDJPY,H1: removed
+2	22:30:14.582	Expert TradeExpert USDJPY,H1: loaded successfully
+2	22:35:53.401	Expert TradeExpert USDJPY,H1: removed
+2	22:35:53.429	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:25:57.233	Expert TradeExpert USDJPY,H1: removed
+0	23:26:06.912	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	23:26:06.912	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1858 / 8013 Mb, Disk: 70 / 217 Gb, GMT-5
+0	23:26:06.912	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	23:26:07.951	Expert TradeExpert USDJPY,H1: loaded successfully
+0	23:26:08.367	'8848155': login on OANDA-v20 Live-1 through Main 2 (ping: 11.98 ms)
+0	23:26:08.628	'8848155': previous successful authorization performed from 108.2.119.245
+0	23:26:39.163	'8848155': ping to current access point Main 2 is 29.28 ms
+2	23:30:09.965	Expert TradeExpert USDJPY,H1: removed
+2	23:30:09.998	Expert TradeExpert USDJPY,H1: loaded successfully
+2	23:32:13.660	Expert TradeExpert USDJPY,H1: removed
+2	23:32:13.688	Expert TradeExpert USDJPY,H1: loaded successfully

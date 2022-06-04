@@ -1,0 +1,176 @@
+2	05:00:12.614	Custom indicator Triggerlines GBPUSD,H1: loaded successfully
+2	05:00:12.629	Custom indicator ZigZag_Pointer GBPUSD,H1: loaded successfully
+2	05:00:12.645	Custom indicator TrendExpert GBPUSD,H1: loaded successfully
+2	05:00:12.661	Custom indicator forex__news_market_clock_2 GBPUSD,H1: loaded successfully
+2	05:00:12.661	Custom indicator Forex_News_Filter GBPUSD,H1: loaded successfully
+2	05:00:15.411	Custom indicator Triggerlines GBPUSD,H1: removed
+2	05:00:15.411	Custom indicator ZigZag_Pointer GBPUSD,H1: removed
+2	05:00:15.411	Custom indicator TrendExpert GBPUSD,H1: removed
+2	05:00:15.411	Custom indicator forex__news_market_clock_2 GBPUSD,H1: removed
+2	05:00:15.411	Custom indicator Forex_News_Filter GBPUSD,H1: removed
+0	05:00:15.661	'3462709': pending order sell stop 50.00 GBPUSD at 1.30569 sl: 1.30569 tp: 1.30569
+0	05:00:15.786	'3462709': order was opened : #294305680 sell stop 50.00 GBPUSD at 1.30569 sl: 1.30569 tp: 1.30569
+2	07:00:12.473	Custom indicator Triggerlines GBPCAD,H1: loaded successfully
+2	07:00:12.489	Custom indicator ZigZag_Pointer GBPCAD,H1: loaded successfully
+2	07:00:12.505	Custom indicator TrendExpert GBPCAD,H1: loaded successfully
+2	07:00:12.520	Custom indicator forex__news_market_clock_2 GBPCAD,H1: loaded successfully
+2	07:00:12.536	Custom indicator Forex_News_Filter GBPCAD,H1: loaded successfully
+2	07:00:15.176	Custom indicator Triggerlines GBPCAD,H1: removed
+2	07:00:15.176	Custom indicator ZigZag_Pointer GBPCAD,H1: removed
+2	07:00:15.176	Custom indicator TrendExpert GBPCAD,H1: removed
+2	07:00:15.176	Custom indicator forex__news_market_clock_2 GBPCAD,H1: removed
+2	07:00:15.176	Custom indicator Forex_News_Filter GBPCAD,H1: removed
+0	07:00:15.426	'3462709': pending order sell stop 100.00 GBPCAD at 1.63133 sl: 1.63133 tp: 1.63133
+0	07:00:15.567	'3462709': order was opened : #294311415 sell stop 100.00 GBPCAD at 1.63133 sl: 1.63133 tp: 1.63133
+2	12:53:07.790	Expert TradeExpert USDCHF,H1: removed
+2	12:53:07.821	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:00:12.674	Custom indicator Triggerlines GBPNZD,H1: loaded successfully
+2	13:00:12.690	Custom indicator ZigZag_Pointer GBPNZD,H1: loaded successfully
+2	13:00:12.705	Custom indicator TrendExpert GBPNZD,H1: loaded successfully
+2	13:00:12.721	Custom indicator forex__news_market_clock_2 GBPNZD,H1: loaded successfully
+2	13:00:12.721	Custom indicator Forex_News_Filter GBPNZD,H1: loaded successfully
+2	13:00:15.393	Custom indicator Triggerlines GBPNZD,H1: removed
+2	13:00:15.393	Custom indicator ZigZag_Pointer GBPNZD,H1: removed
+2	13:00:15.393	Custom indicator TrendExpert GBPNZD,H1: removed
+2	13:00:15.393	Custom indicator forex__news_market_clock_2 GBPNZD,H1: removed
+2	13:00:15.393	Custom indicator Forex_News_Filter GBPNZD,H1: removed
+0	13:00:15.690	'3462709': pending order sell stop 100.00 GBPNZD at 1.93636 sl: 1.93636 tp: 1.93636
+0	13:00:25.643	'3462709': order was opened : #294333499 sell stop 100.00 GBPNZD at 1.93636 sl: 1.93636 tp: 1.93636
+2	13:42:57.186	Expert TradeExpert USDCHF,H1: removed
+2	13:42:57.201	Expert TradeExpert USDCHF,H1: loaded successfully
+2	13:43:19.500	Custom indicator Triggerlines GBPAUD,H1: loaded successfully
+2	13:43:19.516	Custom indicator ZigZag_Pointer GBPAUD,H1: loaded successfully
+2	13:43:19.531	Custom indicator TrendExpert GBPAUD,H1: loaded successfully
+2	13:43:19.547	Custom indicator forex__news_market_clock_2 GBPAUD,H1: loaded successfully
+2	13:43:19.547	Custom indicator Forex_News_Filter GBPAUD,H1: loaded successfully
+2	13:43:22.500	Custom indicator Triggerlines GBPAUD,H1: removed
+2	13:43:22.500	Custom indicator ZigZag_Pointer GBPAUD,H1: removed
+2	13:43:22.516	Custom indicator TrendExpert GBPAUD,H1: removed
+2	13:43:22.516	Custom indicator forex__news_market_clock_2 GBPAUD,H1: removed
+2	13:43:22.516	Custom indicator Forex_News_Filter GBPAUD,H1: removed
+0	13:43:22.844	'3462709': pending order sell stop 0.02 GBPAUD at 1.76883 sl: 1.76883 tp: 1.76883
+1	13:43:22.938	'3462709': order sell stop 0.02 GBPAUD opening at 1.76883 sl: 1.76883 tp: 1.76883 failed [Invalid S/L or T/P]
+2	13:43:29.595	Expert TradeExpert USDCHF,H1: removed
+2	13:43:29.626	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:18:13.150	Expert TradeExpert USDCHF,H1: removed
+2	14:18:13.181	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:20:28.664	Expert TradeExpert USDCHF,H1: removed
+2	14:20:28.679	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:24:25.875	Expert TradeExpert USDCHF,H1: removed
+0	14:25:23.278	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	14:25:23.278	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1545 / 8013 Mb, Disk: 98 / 217 Gb, GMT-5
+0	14:25:23.278	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	14:25:25.678	Expert TradeExpert USDCHF,H1: loaded successfully
+0	14:25:26.172	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 28.48 ms)
+0	14:25:26.588	'3462709': previous successful authorization performed from 108.2.119.245
+0	14:25:39.118	'3462709': auto connecting to a better access point Main 2 (ping is 32.14 ms)
+0	14:25:39.376	'3462709': login on OANDA-Demo-1 through Main 2 (ping: 32.14 ms)
+0	14:25:39.817	'3462709': previous successful authorization performed from 108.2.119.245
+2	14:25:47.457	Custom indicator Triggerlines GBPCHF,H1: loaded successfully
+2	14:25:47.465	Custom indicator ZigZag_Pointer GBPCHF,H1: loaded successfully
+2	14:25:47.483	Custom indicator TrendExpert GBPCHF,H1: loaded successfully
+2	14:25:47.492	Custom indicator forex__news_market_clock_2 GBPCHF,H1: loaded successfully
+2	14:25:47.503	Custom indicator Forex_News_Filter GBPCHF,H1: loaded successfully
+2	14:25:50.517	Custom indicator Triggerlines GBPCHF,H1: removed
+2	14:25:50.518	Custom indicator ZigZag_Pointer GBPCHF,H1: removed
+2	14:25:50.520	Custom indicator TrendExpert GBPCHF,H1: removed
+2	14:25:50.521	Custom indicator forex__news_market_clock_2 GBPCHF,H1: removed
+2	14:25:50.523	Custom indicator Forex_News_Filter GBPCHF,H1: removed
+0	14:25:50.784	'3462709': pending order sell stop 0.03 GBPCHF at 1.24190 sl: 1.24190 tp: 1.24190
+0	14:25:50.901	'3462709': order was opened : #294339251 sell stop 0.03 GBPCHF at 1.24190 sl: 1.24190 tp: 1.24190
+2	14:34:38.854	Expert TradeExpert USDCHF,H1: removed
+2	14:34:38.878	Expert TradeExpert USDCHF,H1: loaded successfully
+2	14:46:24.415	Expert TradeExpert USDCHF,H1: removed
+2	14:46:24.432	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:11:47.859	Expert TradeExpert USDCHF,H1: removed
+2	15:11:47.874	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:12:05.711	Custom indicator Triggerlines EURAUD,H1: loaded successfully
+2	15:12:05.727	Custom indicator ZigZag_Pointer EURAUD,H1: loaded successfully
+2	15:12:05.742	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+2	15:12:05.758	Custom indicator forex__news_market_clock_2 EURAUD,H1: loaded successfully
+2	15:12:05.758	Custom indicator Forex_News_Filter EURAUD,H1: loaded successfully
+2	15:12:16.043	Custom indicator Triggerlines EURAUD,H1: removed
+2	15:12:16.043	Custom indicator ZigZag_Pointer EURAUD,H1: removed
+2	15:12:16.058	Custom indicator TrendExpert EURAUD,H1: removed
+2	15:12:16.058	Custom indicator forex__news_market_clock_2 EURAUD,H1: removed
+2	15:12:16.058	Custom indicator Forex_News_Filter EURAUD,H1: removed
+0	15:12:16.293	'3462709': order sell market 0.23 EURAUD sl: 1.47108 tp: 1.46908
+0	15:12:16.451	'3462709': order was opened : #294341284 sell 0.23 EURAUD at 1.47028 sl: 1.47108 tp: 1.46908
+0	15:14:35.412	'3462709': order #294341284 sell 0.23 EURAUD at 1.47028 closed due stop-loss at price 1.47108
+2	15:22:15.182	Expert TradeExpert USDCHF,H1: removed
+2	15:22:15.198	Expert TradeExpert USDCHF,H1: loaded successfully
+2	15:22:40.345	Custom indicator Triggerlines EURUSD,H1: loaded successfully
+2	15:22:40.362	Custom indicator ZigZag_Pointer EURUSD,H1: loaded successfully
+2	15:22:40.377	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+2	15:22:40.392	Custom indicator forex__news_market_clock_2 EURUSD,H1: loaded successfully
+2	15:22:40.408	Custom indicator Forex_News_Filter EURUSD,H1: loaded successfully
+2	15:22:43.682	Custom indicator Triggerlines EURUSD,H1: removed
+2	15:22:43.698	Custom indicator ZigZag_Pointer EURUSD,H1: removed
+2	15:22:43.698	Custom indicator TrendExpert EURUSD,H1: removed
+2	15:22:43.698	Custom indicator forex__news_market_clock_2 EURUSD,H1: removed
+2	15:22:43.698	Custom indicator Forex_News_Filter EURUSD,H1: removed
+0	15:22:43.917	'3462709': order sell market 0.09 EURUSD sl: 1.08418 tp: 1.08284
+0	15:22:44.074	'3462709': order was opened : #294341608 sell 0.09 EURUSD at 1.08340 sl: 1.08418 tp: 1.08284
+0	16:32:22.078	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:32:22.078	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1733 / 8013 Mb, Disk: 98 / 217 Gb, GMT-5
+0	16:32:22.078	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:32:24.123	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:42:03.465	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:42:03.465	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1777 / 8013 Mb, Disk: 98 / 217 Gb, GMT-5
+0	16:42:03.465	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:42:04.784	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:42:05.261	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.92 ms)
+0	16:42:05.679	'3462709': previous successful authorization performed from 108.2.119.245
+2	16:43:40.571	Custom indicator Triggerlines GBPCAD,H1: loaded successfully
+2	16:43:40.580	Custom indicator ZigZag_Pointer GBPCAD,H1: loaded successfully
+2	16:43:40.596	Custom indicator TrendExpert GBPCAD,H1: loaded successfully
+2	16:43:40.606	Custom indicator forex__news_market_clock_2 GBPCAD,H1: loaded successfully
+2	16:43:40.615	Custom indicator Forex_News_Filter GBPCAD,H1: loaded successfully
+2	16:43:43.106	Custom indicator Triggerlines GBPCAD,H1: removed
+2	16:43:43.109	Custom indicator ZigZag_Pointer GBPCAD,H1: removed
+2	16:43:43.114	Custom indicator TrendExpert GBPCAD,H1: removed
+2	16:43:43.116	Custom indicator forex__news_market_clock_2 GBPCAD,H1: removed
+2	16:43:43.118	Custom indicator Forex_News_Filter GBPCAD,H1: removed
+0	16:43:43.385	'3462709': order sell market 0.13 GBPCAD sl: 1.63973 tp: 1.63824
+0	16:43:43.531	'3462709': order was opened : #294344389 sell 0.13 GBPCAD at 1.63907 sl: 1.63973 tp: 1.63824
+0	16:53:55.139	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	16:53:55.140	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 1736 / 8013 Mb, Disk: 98 / 217 Gb, GMT-5
+0	16:53:55.140	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	16:53:56.474	Expert TradeExpert USDCHF,H1: loaded successfully
+0	16:53:56.953	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.92 ms)
+0	16:53:57.412	'3462709': previous successful authorization performed from 108.2.119.245
+2	17:05:56.865	Expert TradeExpert USDCHF,H1: removed
+2	17:05:56.881	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:26:56.646	Expert TradeExpert USDCHF,H1: removed
+2	17:26:56.662	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:41:09.198	Expert TradeExpert USDCHF,H1: removed
+2	17:41:09.229	Expert TradeExpert USDCHF,H1: loaded successfully
+2	17:42:23.451	Expert TradeExpert USDCHF,H1: removed
+0	17:53:02.776	OANDA - MT4 build 1355 started (OANDA Corporation)
+0	17:53:02.776	Windows 10 Home x64, IE 11, UAC, 12 x Intel Core i5-10500H  @ 2.50GHz, Memory: 895 / 8013 Mb, Disk: 98 / 217 Gb, GMT-5
+0	17:53:02.776	Data Folder: C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4
+2	17:53:04.794	Expert TradeExpert USDCHF,H1: loaded successfully
+0	17:53:05.247	'3462709': login on OANDA-Demo-1 through Main 0 (ping: 31.92 ms)
+0	17:53:05.653	'3462709': previous successful authorization performed from 108.2.119.245
+0	17:53:19.369	'3462709': ping to current access point Main 0 is 32.48 ms
+2	17:53:35.824	Custom indicator TradeReport_compact_-_v.1.04_01y USDCHF,H1: loaded successfully
+2	18:45:28.344	Expert TradeExpert USDCHF,H1: removed
+2	18:45:28.369	Expert TradeExpert USDCHF,H1: loaded successfully
+2	18:46:22.006	Custom indicator TradeReport_compact_-_v.1.04_01y USDCHF,H1: removed
+2	19:38:19.269	Expert TradeExpert USDCHF,H1: removed
+2	19:38:19.293	Expert TradeExpert USDCHF,H1: loaded successfully
+2	19:39:50.748	Expert TradeExpert USDCHF,H1: removed
+2	19:39:50.779	Expert TradeExpert USDCHF,H1: loaded successfully
+2	19:46:21.680	Expert TradeExpert USDCHF,H1: removed
+2	19:46:21.695	Expert TradeExpert USDCHF,H1: loaded successfully
+2	22:00:19.365	Custom indicator Triggerlines EURCHF,H1: loaded successfully
+2	22:00:19.379	Custom indicator ZigZag_Pointer EURCHF,H1: loaded successfully
+2	22:00:19.399	Custom indicator TrendExpert EURCHF,H1: loaded successfully
+2	22:00:19.411	Custom indicator forex__news_market_clock_2 EURCHF,H1: loaded successfully
+2	22:00:19.422	Custom indicator Forex_News_Filter EURCHF,H1: loaded successfully
+2	22:00:22.199	Custom indicator Triggerlines EURCHF,H1: removed
+2	22:00:22.201	Custom indicator ZigZag_Pointer EURCHF,H1: removed
+2	22:00:22.204	Custom indicator TrendExpert EURCHF,H1: removed
+2	22:00:22.205	Custom indicator forex__news_market_clock_2 EURCHF,H1: removed
+2	22:00:22.206	Custom indicator Forex_News_Filter EURCHF,H1: removed
+1	22:00:22.521	'3462709': order sell 50.00 EURCHF opening at market sl: 1.03425 tp: 1.03371 failed [Not enough money]
