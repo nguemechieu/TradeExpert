@@ -1,0 +1,22 @@
+0	00:31:30.436	TradeExpert AUDUSD,H1: uninit reason 9
+3	00:31:30.555	TradeExpert AUDUSD,H1: 1111 undeleted objects left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 11 objects of type CEngine left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 44 objects of type CArrayInt left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CHistoryCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 110 objects of type CListObj left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 99 objects of type COrder left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CMarketCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 396 objects of type CArrayObj left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CEventsCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CEvent left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CAccountsCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CSymbolsCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CArrayString left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CResourceCollection left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 22 objects of type CTrading left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 88 objects of type CAccount left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 88 objects of type CTimerCounter left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 33 objects of type CPosition left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 33 objects of type CMarketPosition left
+3	00:31:30.556	TradeExpert AUDUSD,H1: 11 objects of type CHistoryPosition left
+0	00:31:30.659	Expert TradeExpert AUDUSD,H1: removed

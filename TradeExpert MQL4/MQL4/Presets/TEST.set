@@ -35,7 +35,6 @@ InpTimFrame=0
 UseMaxspread=true
 menu2========== Trading Time Configuration  ============
 UseTime=0
-offsets=-4
 NextOpenTradeAfterBars=12
 TOD_From_Hour=9
 TOD_From_Min=45
@@ -260,7 +259,7 @@ menu6========== Files Configurations ============
 Report=true
 InpTradeReport=0
 menu7========== Indicators Configurations ============
-Indicators_list=ATR,Momentum, RSI, ZigZag_Pointer
+Indicators_list=ATR;Momentum;RSI;ZigZag_Pointer;CCI;
 inpCloseTradeStrategy=1
 inpTradeCloseMode=0
 __EA_OPEN_STRATEGY_INDICATOR_1__=________________

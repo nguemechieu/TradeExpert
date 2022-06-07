@@ -12,19 +12,9 @@
 class CTradeSignal : public CObject
   {
 private:
- string indicatorName;ENUMS_TIMEFRAMES timeframe; string commentx;int shift;int shiftx; string symbol;
+ string indicatorName;ENUMS_TIMEFRAMES timeframe0; string commentx;int shift;int shiftx0; string symbol;
 public:
-                     CTradeSignal( string indicatorName,ENUMS_TIMEFRAMES timeframe,  string commentx, int shift,int shiftx, string symbol){
-                     
-                     this.indicatorName=indicatorName;
-                     this.timeframe=timeframe;
-                     this.commentx=commentx;
-                     this.shiftx=shiftx;
-                     this.symbol=symbol;
-                     this.shift=shift;
-                     
-                     };
-                     
+                   
                    
               
                     CTradeSignal(){};
@@ -36,53 +26,53 @@ public:
         return indicatorName;
     }
 
-    void setIndicatorName(string indicatorName) {
-        this.indicatorName = indicatorName;
+    void setIndicatorName(string indicatorName1) {
+        this.indicatorName = indicatorName1;
     }
 
    ENUMS_TIMEFRAMES getTimeframe() {
-        return timeframe;
+        return timeframe0;
     }
 
-   void setTimeframe(ENUMS_TIMEFRAMES timeframe) {
-        this.timeframe = timeframe;
+   void setTimeframe(ENUMS_TIMEFRAMES timeframe1) {
+        this.timeframe0 = timeframe1;
     }
 
     string getCommentx() {
         return commentx;
     }
 
-  void setCommentx(string commentx) {
-        this.commentx = commentx;
+  void setCommentx(string comment1c) {
+        this.commentx = comment1c;
     }
 
   int getShift() {
         return shift;
     }
 
-    void setShift(int shift) {
-        this.shift = shift;
+    void setShift(int shift1) {
+        this.shift = shift1;
     }
 
-     int getShiftx() {
-        return shiftx;
+     int getShiftx0() {
+        return shiftx0;
     }
 
-   void setShiftx(int shiftx) {
-        this.shiftx = shiftx;
+   void setShiftx0(int shiftx1) {
+        this.shiftx0 = shiftx1;
     }
 
     string getSymbol() {
         return symbol;
     }
 
-   void setSymbol(string symbol) {
-        this.symbol = symbol;
+   void setSymbol(string symbol1) {
+        this.symbol = symbol1;
     }
                     
                     
        
-  int TradeSignal( string indicatorName,ENUMS_TIMEFRAMES timeframe,  string commentx, int shift,int shiftx, string symbol){
+  int TradeSignal( const string indicatorNames,ENUMS_TIMEFRAMES timeframe,  string commentx1, int shiftn,int shiftx1, string symbol1){
  
  
  
@@ -90,9 +80,9 @@ public:
   bool alignx=InpAlign;
   ;int signalx=0;
   
-   int buyx=(int)iCustom(symbol,timeframe,indicatorName,0,shift);
+   int buyx=(int)iCustom(symbol1,timeframe,indicatorNames,0,shiftn);
   
-  int sellx=(int)iCustom(symbol,timeframe,indicatorName,1,shiftx);
+  int sellx=(int)iCustom(symbol1,timeframe,indicatorNames,1,shiftx1);
   
    if(alignx)
      {
@@ -103,7 +93,7 @@ public:
         else
       if(buyx == -1 && sellx==1)
         {
-       signalx= -1;commentx="SELL SIGNAL";
+       signalx= -1;commentx1="SELL SIGNAL";
         }
 
         
@@ -115,7 +105,7 @@ public:
      
       if(buyx == 1)
         {
-         signalx= 1;commentx="BUY SIGNAL";
+         signalx= 1;commentx1="BUY SIGNAL";
         }
       if(sellx == -1)
         {

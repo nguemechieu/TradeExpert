@@ -41654,3 +41654,63 @@ order | breakout @ EURJPY,60 |
 order | breakout @ EURJPY,60 | 
 order | breakout @ EURJPY,60 | 
 order | breakout @ EURJPY,60 | 
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell NZDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell GBPUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell NZDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURAUD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell NZDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURGBP Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURAUD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell GBPUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell AUDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURGBP Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURGBP Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell NZDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell NZDUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURAUD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURGBP Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell USDJPY Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURCAD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURAUD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURGBP Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell GBPUSD Magic #3123456
+0 | breakout @ EURUSD,60 | Order sent(MARKET SELL ORDER OPEN): Sell EURUSD Magic #3123456
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET SELL ORDER OPEN): Sell  Magic #0
+0 | breakout @ ,60 | Order sent(MARKET BUY ORDER OPEN): Buy  Magic #0

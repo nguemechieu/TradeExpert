@@ -1,4 +1,6 @@
+InpAlign=true
 menu0========== User  Configuration  ============
+InpLanguage=0
 LicenseMode=1
 License=none
 conctact====== For enquiries Contact 3022764379 on WhatApps=====
@@ -47,7 +49,6 @@ TradeSaturday=true
 TradeSunday=true
 MaxTradeDurationBars=12
 menu3========== Trade Size Configuration  ============
-InpMoneyManagement=5
 sdf==== SCHEDULED TRADE SYMBOLS ===
 UseAllsymbol=1
 InpSelectPairs_By_Basket_Schedule=0
@@ -63,6 +64,7 @@ stop3=1642518000
 ShowDashboard=true
 SelectedMode=1
 minbalance=10
+InpMoneyManagement=5
 M1===== FIX SIZE ========
 Fixed_size=0.01
 M2======== LOT OPTIMIZE =========
@@ -94,7 +96,6 @@ showoverbought=true
 commen====================
 AvoidNews=false
 CloseBeforNews=false
-GMTplus=-4
 AfterNewsStop=60
 BeforeNewsStop=60
 NewsLight=true
@@ -110,15 +111,32 @@ DrawLines=true
 Next=false
 Signal=false
 noterf=-----< Other >-----
-offsets=-4
 menu5========== Trade Configuration ============
 InpMarket_Type=0
 inpTradeMode=0
 Order_Type=0
 inpTradeStyle=2
-mysymboles=USDCHF,EURUSD,USDCAD,EURJPY,EURGBP,GBPUSD,GBPCAD,GBPJPY,GBPNZD,GBPAUD,EURCAD,EURNZD,EURCHF,CADJPY,CADCHF,CHFJPY,NZDUSD,NZDCAD,NZDCHF,XAUUSD
 inpOpenTradeStrategy=1
 inpMaxSpread=20.0
+InpMagic=123
+InpLots=0.1
+InpStopLoss=50
+InpTakeProfit=50
+InpDistance=50
+InpDistanceSL=50
+InpSlippage=0
+InpWithdrawal=10.0
+InpButtShiftX=40
+InpButtShiftY=10
+InpTrailingStop=50
+InpTrailingStep=20
+InpTrailingStart=0
+InpStopLossModify=20
+InpTakeProfitModify=60
+InpModeUsedSymbols=1
+InpUsedSymbols=EURUSD,AUDUSD,EURAUD,EURCAD,EURGBP,EURJPY,EURUSD,GBPUSD,NZDUSD,USDCAD,USDJPY
+Prefix=
+Suffix=
 UsePartialClose=true
 PartialCloseUnit=0
 PartialCloseTrigger=40.0
@@ -127,9 +145,9 @@ MaxNoPartialClose=1
 ___TRADE_MONITORING_TRAILING___=
 UseTrailingStop=true
 TrailingUnit=0
-TrailingStart=20
-TrailingStep=1
-TrailingStop=9
+TrailingStart=20.0
+TrailingStep=1.0
+TrailingStop=9.0
 ___TRADE_MONITORING_BE_________=
 UseBreakEven=true
 BreakEvenUnit=0
@@ -146,6 +164,7 @@ DebugUnit=true
 DebugPartialClose=true
 UseFibo_TP=1
 showfibo=true
+Show_Support_Resistance=true
 snrperiod=1440
 sendTradesignal=1
 MagicNumber=1287171
@@ -240,7 +259,7 @@ menu6========== Files Configurations ============
 Report=true
 InpTradeReport=0
 menu7========== Indicators Configurations ============
-Indicators_list=ATR; Momentum; RSI; ZigZag_Pointer
+Indicators_list=ATR;Momentum;RSI;ZigZag_Pointer;CCI
 inpCloseTradeStrategy=1
 inpTradeCloseMode=0
 __EA_OPEN_STRATEGY_INDICATOR_1__=________________
@@ -317,5 +336,5 @@ FIBO_LEVEL_9=2.618
 ALERT_ACTIVE_FIBO_LEVEL_9=true
 FIBO_LEVEL_10=4.236
 ALERT_ACTIVE_FIBO_LEVEL_10=true
-InpLanguage=0
+InpSubDirectory=Oscillators
 Comment_ea=

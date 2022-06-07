@@ -13,7 +13,25 @@
 #include <DiscordTelegram/TradeEXpert_Library.mqh>
 
  
+ enum indicatorss{
  
+ POSITION1=1,//POSITION 1
+  POSITION2=2,//POSITION 2
+ 
+  POSITION3=3,//POSITION 3
+   POSITION4=4,//POSITION 4
+ 
+  POSITION5=5,//POSITION 5
+   POSITION6=6,//POSITION 6
+    POSITION7=7,//POSITION 7
+     POSITION8=8,//POSITION 8 
+     POSITION9=9,//POSITION 9 
+     POSITION10=10,//POSITION 10
+     OFF=0//off
+
+ };
+ 
+
 //+------------------------------------------------------------------+
 //| defines                                                          |
 //+------------------------------------------------------------------+
@@ -105,8 +123,7 @@ input bool UseMaxspread=false;
 input const string  menu2="========= Trading Time Configuration  ============";
 
 input Answer UseTime=No;
-input int offsets=-4;//GMT SHIFT (ex: Newyork -4, Nigeria +1)
-int offset2=offsets;
+int offset=(int)(TimeCurrent()-TimeLocal());//Auto GMT Shift
 extern int NextOpenTradeAfterBars = 12; //Next open trade after time
 extern int TOD_From_Hour = 09; //Time of the day (from hour)
 extern int TOD_From_Min = 45; //Time of the day (from min)
@@ -122,7 +139,7 @@ extern bool TradeSunday = true;
 extern int MaxTradeDurationBars = 12; //Maximum trade duration
 input const string  menu3="========= Trade Size Configuration  ============";
 
-input string sdf="=== SCHEDULED TRADE SYMBOLS ===";
+input string sdf="=== Schedule Trade Symbols ===";
 input Answer UseAllsymbol=Yes;//Use All symbols  ?(true/false)
 input Answer InpSelectPairs_By_Basket_Schedule =No;//Select Pairs By Schedule Time
 input  string  symbolList1="USDCAD,EURUSD,AUDUSD";//BASKET LIST 1;
@@ -144,9 +161,9 @@ double inpReqEquity                       = minbalance;                   // Min
 input MONEYMANAGEMENT InpMoneyManagement;
 
 
-input string M1="==== FIX SIZE ========";
+input string M1="==== Fix Size ========";
 input double Fixed_size=0.01; //Fix Lot
-input string  M2="======= LOT OPTIMIZE =========";
+input string  M2="======= Lot Optimize =========";
 
 input double InpLot=0.01;//Lot
 extern double     SubLots           = 0.02;        //Sub Lots
@@ -168,7 +185,7 @@ extern bool MM_Martingale_RestartLoss = false;
 extern int MM_Martingale_RestartLosses = 2;
 extern int MM_Martingale_RestartProfits = 3;
 
-input const string  menu4="========= News Configuration ============";
+input const string  menu4="========= Advance News trade Setting ============";
 
 
 
@@ -216,7 +233,7 @@ input  bool    Signal               = false;                // Signals on the up
 extern string noterf          = "-----< Other >-----";//=========================================
 
 
-input  string  menu5="========= Trade Configuration ============";
+input  string  menu5="========= Trade Setting ============";
 
 input MARKET_TYPES InpMarket_Type= FOREX;//MARKET TYPE;
 
@@ -422,7 +439,7 @@ input int                             inpShift0 = 1;                  // Shift o
 input const  string ;//===================== EXIT 1 ====================================
 
 input string __EA_CLOSE_STRATEGY_INDICATOR_1__  = SEPARATOR;             // Close Strategy Indicator 1
-input indicatorss inpInd0Ex                     = POSITION4;                 // Exit Indicator 1
+input  indicatorss inpInd0Ex                     = POSITION4;                 // Exit Indicator 1
 input ENUMS_TIMEFRAMES inpTF0Ex                  = PERIOD_30_MIN;        // Exit Indicator 1 TF
 input ENUM_TYPE_OF_ENTRY inpType0Ex             = When_Trend_Change;     // Type of exit 1
 input int inpShift0Ex                           = 1;

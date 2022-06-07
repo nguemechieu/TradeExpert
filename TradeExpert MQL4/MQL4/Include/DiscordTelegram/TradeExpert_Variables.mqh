@@ -147,7 +147,7 @@ int ProfitMode = 0;
           ENUM_ORDER_TYPE tradesignals[100]={};  
 
 int timer_ms=0;
-Bot smartBot;
+
 
  int fibo_levels=11;
 double current_high;
@@ -169,12 +169,20 @@ int init_status;
 //--- GUI debug
 int y_offset;
 int IndicatorSubWindow = 0;
-int offset=0;
-  
+ int retries=1;
            
 bool previous_trend=false;
 const ENUM_TIMEFRAMES _periods[] = {PERIOD_M1,PERIOD_M5,PERIOD_M15,PERIOD_M30,PERIOD_H1,PERIOD_H4,PERIOD_D1,PERIOD_W1,PERIOD_MN1};
-
+   string _split1=Indicators_list;
+ 
+  string indicatorsArrayList[];
+     
+   int IndicatorListArraySize=4;
+ 
+         ENUMS_TIMEFRAMES indicatorTimeFrame[];
+     int shiftR[100]={2};
+      int NumOfIndicators=StringSplit(Indicators_list,';',indicatorsArrayList);
+      
 
 double Tsa =0; bool exitSell[1],exitBuy[1];
 
@@ -182,8 +190,7 @@ ENUM_RUN_MODE  run_mode;
 datetime       time_check;
 int            web_error;
 int            init_error;
-CComment comments;
-CNews mynews[100];
+
 double lastSupport[];
 //---- Get new daily prices & calculate pivots
 double cur_day  = 0;
@@ -224,6 +231,7 @@ string jamberita;
 string judulberita;
 string infoberita=" >>>> checking news <<<";
 int tradesignal[100]; 
+ indicatorss indikator1,indikator2,indikator3,indikator4, indikator1x,indikator2x,indikator3x,indikator4x;
 
 double P1=0,Wp1=0,MNp1=0,P2=0,P3=0,Persentase1=0,Persentase2=0,Persentase3=0;
 
