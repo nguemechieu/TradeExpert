@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="TradeExpert:war exploded" />
+      <artifact name="TtradeExpert:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,102 +10,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="426a45fa-e47b-4c56-adb0-e0c57dcfbf8a" name="Changes" comment="news design">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jakarta_xmlbind_annotations_2_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_el_jakarta_el_api_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_interceptor_jakarta_interceptor_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jdeparser_jdeparser_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_2_2_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_processor_2_2_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_lite_extension_translator_5_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/LoginResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/Help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/Main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/Support.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TradeExpert/src/test/java/org/tradeexperts/tradeexpert/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TtradeExpert/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TradeExpert_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TradeExpert_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_12_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_12_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_12_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_12_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_enterprise_jakarta_enterprise_cdi_api_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_2_1_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_ws_rs_jakarta_ws_rs_api_3_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_jakarta_inject_2_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_inject_jersey_cdi2_se_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_3_0_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_3_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_3_spec_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_2_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_2_0_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_3_1_8_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_environment_weld_environment_common_5_0_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_3_1_8_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_probe_weld_probe_core_5_0_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_3_1_8_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_se_weld_se_core_5_0_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_3_1_SP4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_api_5_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_3_1_8_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_core_impl_5_0_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_3_1_SP4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_weld_weld_spi_5_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/tomcat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TradeExpert/src/docker.Dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TradeExpert/src/tradeexpert.Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/Help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/Support.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/TradeExpert.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/TradeExpert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/LoginResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/TradeExpertApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/TradeResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/TradeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TtradeExpert/target/TtradeExpert-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TradeExpert/TradeExpert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/TradeExpert.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/TradeExpertApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/TradeExpertApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/TradeResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/src/main/java/org/tradeexperts/tradeexpert/TradeResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/src/main/webapp/TradeExpert.css" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/TradeExpert.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TradeExpert/src/main/webapp/TradeExpert.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/src/main/webapp/TradeExpert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/TradeExpert.css" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/TradeExpert.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/TradeExpert.html" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/TradeExpert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/TradeExpertApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/classes/org/tradeexperts/tradeexpert/TradeExpertApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-jaxb-annotations-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.activation-api-1.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.annotation-api-1.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.enterprise.cdi-api-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.inject-2.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.inject-api-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.ws.rs-api-2.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jboss-annotations-api_1.3_spec-2.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jboss-el-api_3.0_spec-2.0.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jboss-interceptors-api_1.2_spec-2.0.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.4.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-cdi2-se-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-client-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-common-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-container-servlet-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-container-servlet-core-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-entity-filtering-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-media-json-jackson-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/jersey-server-2.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-api-3.1.SP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-core-impl-3.1.8.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-environment-common-3.1.8.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-probe-core-3.1.8.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-se-core-3.1.8.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/TradeExpert-1.0-SNAPSHOT/WEB-INF/lib/weld-spi-3.1.SP4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TradeExpert/target/classes/org/tradeexperts/tradeexpert/TradeExpertApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/TradeExpert/target/classes/org/tradeexperts/tradeexpert/TradeExpertApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,10 +54,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -146,40 +85,44 @@
     </option>
   </component>
   <component name="ProjectId" id="29rLTcTIDTs3W5M8UL0W8BzFMB8" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DatabaseDriversLRU" value="mongo" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TradeExpert" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nguem/IdeaProjects/TradeExpert/TradeExpert/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.tradeexperts.tradeexpert" />
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguem\IdeaProjects\TradeExpert\TradeExpert\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nguem\IdeaProjects\TradeExpert\TradeExpert\src\main\webapp" />
@@ -192,31 +135,30 @@
       <recent name="org.tradeexperts.tradeexpert" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.Docker Image">
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Docker.Unnamed">
     <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" server-name="Docker">
       <deployment type="docker-image">
         <settings>
           <option name="imageTag" value="tradeexpert" />
-          <option name="containerName" value="TradeExpertContainer" />
+          <option name="containerName" value="tradeexpert" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="tradeexpert" />
+          <option name="containerName" value="tradeexpert" />
+          <option name="sourceFilePath" value="tradeexpert.Dockerfile" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Docker.Docker Image" />
-      <item itemvalue="Tomcat Server.Tomcat 10.0.21" />
+      <item itemvalue="Docker.Unnamed" />
+      <item itemvalue="Tomcat Server.tomcat" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -228,6 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653866267816</updated>
       <workItem from="1653866269931" duration="7794000" />
+      <workItem from="1658269047608" duration="4410000" />
     </task>
     <task id="LOCAL-00001" summary="news design">
       <created>1653870825500</created>
@@ -254,6 +197,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="news design" />
     <option name="LAST_COMMIT_MESSAGE" value="news design" />
   </component>
