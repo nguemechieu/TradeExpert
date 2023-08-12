@@ -1,6 +1,6 @@
 
 
-#TradeExpert: Empowering Your Trading Success
+# TradeExpert: Empowering Your Trading Success
 ## Introduction:
 • Welcome to TradeExpert, your ultimate trading companion.
 • Elevate your investment strategies with real-time insights and powerful features.
