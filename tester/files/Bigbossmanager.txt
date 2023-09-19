@@ -1,0 +1,10 @@
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=1 SL=1.20427000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=1 SL=1.20427000 TP=1.16427000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=2 SL=1.16424000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=2 SL=1.16424000 TP=1.20424000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=3 SL=1.20382000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=3 SL=1.20382000 TP=1.16382000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=4 SL=1.16728000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=4 SL=1.16728000 TP=1.20728000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=5 SL=1.20447000
+modify | Bigbossmanager @ EURUSD,60 | Order modified: ticket=5 SL=1.20447000 TP=1.16447000

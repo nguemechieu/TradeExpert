@@ -1,0 +1,1605 @@
+0	00:04:42.525	ZigZagPointer USDJPY,H1: uninit reason 4
+0	00:04:42.525	TrendsFollowers USDJPY,H1: uninit reason 4
+0	00:04:42.525	TrendExpert USDJPY,H1: uninit reason 4
+0	00:04:42.541	Custom indicator ZigZagPointer USDJPY,H1: removed
+0	00:04:42.549	Custom indicator TrendsFollowers USDJPY,H1: removed
+0	00:04:42.557	Custom indicator TrendExpert USDJPY,H1: removed
+3	00:04:51.948	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\Experts\TradeExpert\TradeExpert.ex4' [2]
+0	00:05:04.013	Expert TradeExpert\TradeExpert EURUSD,H1: loaded successfully
+0	00:05:11.336	TradeExpert EURUSD,H1 inputs: user_account=8848155; user_password=Bigboss307#; servers=OANDA-v20 Live-1; _username=bigbossmanager; _password=Bigboss307#; _message=WELCOME TO TRADE_EXPERT; InpAlign=true; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact 3022764379 on WhatApps=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade Size Configuration  ============; InpUsedSymbols=EURUSD,AUDUSD,EURAUD,EURCAD,EURGBP,EURJPY,EURUSD,GBPUSD,NZDUSD,USDCAD,USDJPY; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; Lots=0.05; 
+0	00:05:18.062	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	00:05:18.062	TradeExpert EURUSD,H1: initialized
+0	00:05:21.154	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: num symbols11
+0	00:05:21.154	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	00:05:21.154	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	00:05:21.154	TradeExpert EURUSD,H1: Connecting...
+0	00:05:21.186	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	00:05:21.186	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	00:05:21.186	TradeExpert EURUSD,H1: Connecting...
+0	00:05:21.186	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	00:05:21.186	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	00:05:21.186	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	00:05:21.186	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	00:05:21.186	TradeExpert EURUSD,H1: symbolEURCAD index 3
+0	00:05:21.186	TradeExpert EURUSD,H1: lot 0.4
+0	00:05:21.194	TradeExpert EURUSD,H1: lot 0.4
+0	00:05:21.194	TradeExpert EURUSD,H1: Number of symbol11
+0	00:06:48.239	TradeExpert EURUSD,H1: Trade status: true
+0	00:06:48.239	TradeExpert EURUSD,H1: News Loading...
+0	00:06:49.205	TradeExpert EURUSD,H1: json array size12284
+0	00:07:33.436	TradeExpert EURUSD,H1: lot 0.4
+0	00:07:33.796	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=Symbol+%3AEURCAD%0AVolume%3A+0.0022+%0ALotToRisk+for+this+pair+0.0022%0AYesterday+high+0.0000%0ADay+High+0.0000+%0ADiff++0.0000+%0AYesterday+close+0.0000%0ADay+Open+0.0000%0ADiff+0.6944%0A%2CYesterday+low+0.0000%0A%2CDay+low+0.0000%0A%2C0.0005%0ADiff+1.4401%0ACurrent+Price+0.0000%0ASupport+0.0000%0A+Resistance+0.0000++2.+%0A
+0	00:07:34.100	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=Symbol+%3AEURCAD%0AVolume%3A+0.0022+%0ALotToRisk+for+this+pair+0%0AYesterday+high+1.4429%0ADay+High+1.4429+%0ADiff++2.1373+%0AYesterday+close+1.4399%0ADay+Open+1.4406%0ADiff+0.6944%0A%2CYesterday+low+1.4368%0A%2CDay+low+1.4368%0A%2C1.6927%0ADiff+1.4401%0ACurrent+Price+1.4375%0ASupport+1.4437%0A+Resistance+1.4460++2.+%0A
+0	00:07:34.948	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:34.948	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:34.948	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:34.948	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.604	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:35.612	TradeExpert EURUSD,H1: Symbol :EURCAD
+Volume: 0.0022 
+LotToRisk for this pair 0
+Yesterday high 1.4429
+Day High 1.4429 
+Diff  2.1373 
+Yesterday close 1.4399
+Day Open 1.4406
+Diff 0.6944
+,Yesterday low 1.4368
+,Day low 1.4368
+,1.6927
+Diff 1.4401
+Current Price 1.4375
+Support 1.4437
+ Resistance 1.4460  2. 
+Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 Current bar for :EURCAD,Open 16951.0000 ,High 1.4401,Low 1.4402 Close 1.4396 Volume 1.4397 
+0	00:07:36.164	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=(null)
+0	00:07:36.676	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: num symbols11
+0	00:07:36.676	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	00:07:36.676	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	00:07:36.676	TradeExpert EURUSD,H1: Connecting...
+0	00:07:36.716	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	00:07:36.716	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	00:07:36.716	TradeExpert EURUSD,H1: Connecting...
+0	00:07:36.716	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	00:07:36.716	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	00:07:36.716	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	00:07:36.716	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	00:07:36.716	TradeExpert EURUSD,H1: symbolEURJPY index 5
+0	00:07:36.716	TradeExpert EURUSD,H1: lot 0.4
+0	00:07:36.716	TradeExpert EURUSD,H1: lot 0.4
+0	00:07:36.716	TradeExpert EURUSD,H1: Number of symbol11
+0	00:07:44.806	TradeExpert EURUSD,H1: Trade status: true
+0	00:07:44.853	TradeExpert EURUSD,H1: json array size12284
+3	00:08:24.530	TradeExpert EURUSD,H1: shutdown by timeout
+0	00:08:26.082	TradeExpert EURUSD,H1: lot 0.4
+0	00:08:26.082	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=Symbol+%3AEURJPY%0AVolume%3A+0.0031+%0ALotToRisk+for+this+pair+0.0031%0AYesterday+high+1.4402%0ADay+High+0.0000+%0ADiff++1.4402+%0AYesterday+close+0.0000%0ADay+Open+0.0000%0ADiff+0.0063%0A%2CYesterday+low+0.0000%0A%2CDay+low+0.0000%0A%2C0.0004%0ADiff+157.8710%0ACurrent+Price+0.0000%0ASupport+0.0000%0A+Resistance+0.0000++2.+%0A
+0	00:08:26.436	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=Symbol+%3AEURJPY%0AVolume%3A+0.0031+%0ALotToRisk+for+this+pair+0%0AYesterday+high+157.9310%0ADay+High+157.9310+%0ADiff++157.9373+%0AYesterday+close+157.8690%0ADay+Open+157.4710%0ADiff+0.0063%0A%2CYesterday+low+157.3390%0A%2CDay+low+157.3390%0A%2C1.0032%0ADiff+157.8710%0ACurrent+Price+157.4869%0ASupport+158.0789%0A+Resistance+158.3050++2.+%0A
+0	00:08:26.718	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.718	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.718	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.718	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.982	TradeExpert EURUSD,H1: screen shot error 4211
+0	00:08:26.982	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.982	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.982	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.982	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:26.982	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:27.287	TradeExpert EURUSD,H1: screen shot error 4211
+0	00:08:27.287	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:27.287	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:27.303	TradeExpert EURUSD,H1: Symbol :EURJPY
+Volume: 0.0031 
+LotToRisk for this pair 0
+Yesterday high 157.9310
+Day High 157.9310 
+Diff  157.9373 
+Yesterday close 157.8690
+Day Open 157.4710
+Diff 0.0063
+,Yesterday low 157.3390
+,Day low 157.3390
+,1.0032
+Diff 157.8710
+Current Price 157.4869
+Support 158.0789
+ Resistance 158.3050  2. 
+Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 Current bar for :EURJPY,Open 16951.0000 ,High 157.8520,Low 157.8880 Close 157.8330 Volume 157.8400 
+0	00:08:27.575	TradeExpert EURUSD,H1: chat_id=@tradeexpert_infos&text=(null)
+0	00:08:27.828	TradeExpert EURUSD,H1: screen shot error 4211
+0	00:08:27.844	TradeExpert EURUSD,H1: uninit reason 4
+0	00:08:28.029	Expert TradeExpert EURUSD,H1: removed
+0	12:02:59.647	Compiling 'Zones'
+0	12:03:04.543	Compiling 'TrendExpert'
+0	12:07:25.167	Expert TradeExpert\TradeExpert EURUSD,H1: loaded successfully
+0	12:07:34.428	TradeExpert EURUSD,H1 inputs: InpAlign=true; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact 3022764379 on WhatApps=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade Size Configuration  ============; InpUsedSymbols=EURUSD,AUDUSD,EURAUD,EURCAD,EURGBP,EURJPY,EURUSD,GBPUSD,NZDUSD,USDCAD,USDJPY; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== SCHEDULED TRADE SYMBOLS ===; InpSelectPairs_By_Basket_Schedule=0; symbolList1=USDCAD,EURUSD,AUDUSD; start1=1611028800; stop1=1642572000; start2=1642582800; sss=; 
+0	12:07:39.856	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:07:39.856	TradeExpert EURUSD,H1: initialized
+0	12:07:42.963	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: num symbols11
+0	12:07:42.963	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:07:42.963	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:07:42.963	TradeExpert EURUSD,H1: Connecting...
+0	12:07:43.013	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:07:43.013	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:07:43.013	TradeExpert EURUSD,H1: Connecting...
+0	12:07:43.013	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:07:43.013	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:07:43.013	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:07:43.013	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:07:43.013	TradeExpert EURUSD,H1: symbolEURJPY index 5
+0	12:07:43.029	TradeExpert EURUSD,H1: lot 0.4
+0	12:07:43.029	TradeExpert EURUSD,H1: lot 0.4
+0	12:07:43.029	TradeExpert EURUSD,H1: Number of symbol11
+3	12:07:43.573	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:43.573	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:43.670	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:43.678	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:43.678	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:43.678	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.455	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.455	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.519	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.527	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.527	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.527	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.680	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.680	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.680	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.680	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.760	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.760	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.856	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.856	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.856	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.856	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.944	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:44.944	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.024	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.032	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.032	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.040	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.129	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.129	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.201	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.201	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.201	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.201	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.209	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.305	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.313	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.388	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.393	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.393	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.393	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.529	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.529	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.626	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.626	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.626	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.626	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.714	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.714	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.794	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.802	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.802	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:07:45.802	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:07:45.802	TradeExpert EURUSD,H1: Trade status: true
+0	12:07:45.802	TradeExpert EURUSD,H1: News Loading...
+0	12:07:46.194	TradeExpert EURUSD,H1: json array size12144
+3	12:08:15.093	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:08:30.312	TradeExpert EURUSD,H1: lot 0.4
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+0	12:08:31.234	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8940 
+3	12:08:31.234	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:31.234	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:31.242	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:31.242	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:08:31.242	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.8980 Close 157.8730 Volume 157.8910 
+0	12:08:32.534	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:08:32.566	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+3	12:08:32.566	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:08:32.622	ZigZagPointer EURUSD,H1: initialized
+0	12:08:32.670	TrendsFollowers EURUSD,H1: initialized
+0	12:08:32.678	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:08:32.678	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+3	12:08:35.072	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.080	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:08:35.168	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:08:35.168	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:08:35.176	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:08:35.176	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: num symbols11
+0	12:08:35.176	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:08:35.176	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:08:35.176	TradeExpert EURUSD,H1: Connecting...
+0	12:08:35.176	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:08:35.200	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:08:35.200	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:08:35.200	TradeExpert EURUSD,H1: Connecting...
+0	12:08:35.200	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:08:35.200	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:08:35.200	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:08:35.200	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:08:35.200	TradeExpert EURUSD,H1: symbolUSDCAD index 9
+0	12:08:35.200	TradeExpert EURUSD,H1: lot 0.4
+0	12:08:35.200	TradeExpert EURUSD,H1: lot 0.4
+0	12:08:35.200	TradeExpert EURUSD,H1: Number of symbol11
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.584	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.592	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.592	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.600	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.600	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.600	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.600	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.608	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.616	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.624	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.632	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.640	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.648	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.656	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.656	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.664	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+3	12:08:35.672	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\indicators\TrendExpert.ex4' [2]
+0	12:08:35.672	TradeExpert EURUSD,H1: Trade status: true
+0	12:08:35.712	TradeExpert EURUSD,H1: json array size12144
+0	12:09:20.351	TradeExpert EURUSD,H1: lot 0.4
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:21.393	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:23.194	Custom indicator ZigZagPointer USDCAD,H1: loaded successfully
+0	12:09:23.210	Custom indicator TrendsFollowers USDCAD,H1: loaded successfully
+0	12:09:23.259	Custom indicator TrendExpert USDCAD,H1: loaded successfully
+0	12:09:23.307	ZigZagPointer USDCAD,H1: initialized
+0	12:09:23.347	TrendsFollowers USDCAD,H1: initialized
+0	12:09:23.467	TrendExpert USDCAD,H1: initialized
+0	12:09:32.812	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:32.812	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:32.812	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:32.812	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:33.325	ZigZagPointer USDCAD,H1: uninit reason 4
+0	12:09:33.325	TrendsFollowers USDCAD,H1: uninit reason 4
+0	12:09:33.325	TrendExpert USDCAD,H1: uninit reason 4
+0	12:09:33.333	Custom indicator ZigZagPointer USDCAD,H1: removed
+0	12:09:33.341	Custom indicator TrendsFollowers USDCAD,H1: removed
+0	12:09:33.349	Custom indicator TrendExpert USDCAD,H1: removed
+0	12:09:41.562	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3442 Close 1.3432 Volume 1.3441 
+0	12:09:42.779	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:09:42.803	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:09:42.851	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:09:42.892	ZigZagPointer EURUSD,H1: initialized
+0	12:09:42.940	TrendsFollowers EURUSD,H1: initialized
+0	12:09:43.052	TrendExpert EURUSD,H1: initialized
+0	12:09:43.060	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:09:43.060	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:09:52.639	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:09:52.639	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:09:52.639	TrendExpert EURUSD,H1: uninit reason 4
+0	12:09:52.639	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:09:52.650	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:09:52.656	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:10:01.339	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: num symbols11
+0	12:10:01.339	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:10:01.339	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:10:01.339	TradeExpert EURUSD,H1: Connecting...
+0	12:10:01.355	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:10:01.355	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:10:01.355	TradeExpert EURUSD,H1: Connecting...
+0	12:10:01.355	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:10:01.355	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:10:01.355	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:10:01.355	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:10:01.355	TradeExpert EURUSD,H1: symbolEURUSD index 0
+0	12:10:01.355	TradeExpert EURUSD,H1: lot 0.4
+0	12:10:01.355	TradeExpert EURUSD,H1: lot 0.4
+0	12:10:01.355	TradeExpert EURUSD,H1: Number of symbol11
+0	12:10:10.570	TrendExpert AUDUSD,H1: Alert: Exit from buy AUDUSD
+0	12:11:04.354	TradeExpert EURUSD,H1: Trade status: true
+0	12:11:04.581	TradeExpert EURUSD,H1: json array size12144
+0	12:12:31.415	TradeExpert EURUSD,H1: lot 0.4
+0	12:12:32.717	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:32.717	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:34.856	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:12:34.888	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:12:34.937	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:12:34.984	ZigZagPointer EURUSD,H1: initialized
+0	12:12:35.042	TrendsFollowers EURUSD,H1: initialized
+0	12:12:35.170	TrendExpert EURUSD,H1: initialized
+0	12:12:35.178	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:12:35.178	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:12:45.210	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:45.210	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:45.210	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:45.210	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:45.210	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:45.226	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:12:45.226	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:12:45.226	TrendExpert EURUSD,H1: uninit reason 4
+0	12:12:45.235	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:12:45.240	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:12:45.245	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:12:46.823	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:12:46.856	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:12:46.904	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:12:47.121	ZigZagPointer EURUSD,H1: initialized
+0	12:12:47.169	TrendsFollowers EURUSD,H1: initialized
+0	12:12:47.298	TrendExpert EURUSD,H1: initialized
+0	12:12:47.305	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:12:47.305	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:12:57.683	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:57.683	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:57.683	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:57.683	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:57.683	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0681 
+0	12:12:57.685	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:12:57.693	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:12:57.693	TrendExpert EURUSD,H1: uninit reason 4
+0	12:12:57.703	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:12:57.708	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:12:57.714	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:12:58.846	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:12:58.873	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:12:58.913	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:12:58.953	ZigZagPointer EURUSD,H1: initialized
+0	12:12:58.985	TrendsFollowers EURUSD,H1: initialized
+0	12:12:59.081	TrendExpert EURUSD,H1: initialized
+0	12:12:59.081	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:12:59.081	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:13:09.315	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:13:09.315	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:13:09.315	TrendExpert EURUSD,H1: uninit reason 4
+0	12:13:09.320	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:13:09.330	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:13:09.337	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.453	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: num symbols11
+0	12:13:16.574	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:13:16.574	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:13:16.574	TradeExpert EURUSD,H1: Connecting...
+0	12:13:16.606	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:13:16.606	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:13:16.606	TradeExpert EURUSD,H1: Connecting...
+0	12:13:16.606	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:13:16.606	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:13:16.606	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:13:16.606	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:13:16.606	TradeExpert EURUSD,H1: symbolEURUSD index 0
+0	12:13:16.606	TradeExpert EURUSD,H1: lot 0.4
+0	12:13:16.606	TradeExpert EURUSD,H1: lot 0.4
+0	12:13:16.606	TradeExpert EURUSD,H1: Number of symbol11
+0	12:13:55.224	TradeExpert EURUSD,H1: Trade status: true
+0	12:13:55.580	TradeExpert EURUSD,H1: json array size12144
+0	12:14:37.001	TradeExpert EURUSD,H1: lot 0.4
+0	12:14:37.902	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:37.902	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:39.701	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:14:39.717	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:14:39.765	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:14:39.813	ZigZagPointer EURUSD,H1: initialized
+0	12:14:39.862	TrendsFollowers EURUSD,H1: initialized
+0	12:14:39.974	TrendExpert EURUSD,H1: initialized
+0	12:14:39.974	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:14:39.974	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.525	TradeExpert EURUSD,H1: Current bar for :EURUSD,Open 16951.0000 ,High 1.0689,Low 1.0683 Close 1.0680 Volume 1.0682 
+0	12:14:49.534	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:14:49.539	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:14:49.539	TrendExpert EURUSD,H1: uninit reason 4
+0	12:14:49.542	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:14:49.549	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:14:49.554	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:14:50.686	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:14:50.713	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:14:50.754	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:14:50.817	ZigZagPointer EURUSD,H1: initialized
+0	12:14:50.872	TrendsFollowers EURUSD,H1: initialized
+0	12:14:50.984	TrendExpert EURUSD,H1: initialized
+0	12:14:50.984	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:14:50.984	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:14:59.687	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: num symbols11
+0	12:14:59.687	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:14:59.687	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:14:59.687	TradeExpert EURUSD,H1: Connecting...
+0	12:14:59.718	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:14:59.718	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:14:59.718	TradeExpert EURUSD,H1: Connecting...
+0	12:14:59.718	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:14:59.718	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:14:59.718	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:14:59.718	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:14:59.718	TradeExpert EURUSD,H1: symbolGBPUSD index 7
+0	12:14:59.718	TradeExpert EURUSD,H1: lot 0.4
+0	12:14:59.718	TradeExpert EURUSD,H1: lot 0.4
+0	12:14:59.718	TradeExpert EURUSD,H1: Number of symbol11
+0	12:15:00.039	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:15:00.039	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:15:00.039	TrendExpert EURUSD,H1: uninit reason 4
+0	12:15:00.048	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:15:00.051	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:15:00.059	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:15:21.400	TradeExpert EURUSD,H1: Trade status: true
+0	12:15:21.717	TradeExpert EURUSD,H1: json array size12144
+0	12:16:02.561	TradeExpert EURUSD,H1: lot 0.4
+0	12:16:03.503	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:03.503	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:05.355	Custom indicator ZigZagPointer GBPUSD,H1: loaded successfully
+0	12:16:05.379	Custom indicator TrendsFollowers GBPUSD,H1: loaded successfully
+0	12:16:05.427	Custom indicator TrendExpert GBPUSD,H1: loaded successfully
+0	12:16:05.467	ZigZagPointer GBPUSD,H1: initialized
+0	12:16:05.515	TrendsFollowers GBPUSD,H1: initialized
+0	12:16:05.636	TrendExpert GBPUSD,H1: initialized
+0	12:16:05.636	ZigZagPointer GBPUSD,H1: ZigZagPointer--- GBPUSD H1: ZigZag Lower Limit Found at bars: 10
+--- at: 2023.09.19 19:00 - Wait to Open BUY Order
+0	12:16:05.636	ZigZagPointer GBPUSD,H1: Alert: ZigZagPointer--- GBPUSD H1: ZigZag Lower Limit Found at bars: 10--- at: 2023.09.19 19:00 - Wait to Open BUY Order
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.238	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2389 
+0	12:16:15.246	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2389 Close 1.2384 Volume 1.2388 
+0	12:16:15.259	ZigZagPointer GBPUSD,H1: uninit reason 4
+0	12:16:15.259	TrendsFollowers GBPUSD,H1: uninit reason 4
+0	12:16:15.259	TrendExpert GBPUSD,H1: uninit reason 4
+0	12:16:15.263	Custom indicator ZigZagPointer GBPUSD,H1: removed
+0	12:16:15.270	Custom indicator TrendsFollowers GBPUSD,H1: removed
+0	12:16:15.279	Custom indicator TrendExpert GBPUSD,H1: removed
+0	12:16:16.460	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:16:16.484	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:16:16.532	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:16:16.580	ZigZagPointer EURUSD,H1: initialized
+0	12:16:16.628	TrendsFollowers EURUSD,H1: initialized
+0	12:16:16.741	TrendExpert EURUSD,H1: initialized
+0	12:16:16.741	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:16:16.741	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:16:26.129	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:16:26.129	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:16:26.129	TrendExpert EURUSD,H1: uninit reason 4
+0	12:16:26.137	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:16:26.137	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:16:26.147	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:16:26.196	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: num symbols11
+0	12:16:26.196	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:16:26.196	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:16:26.196	TradeExpert EURUSD,H1: Connecting...
+0	12:16:26.219	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:16:26.219	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:16:26.219	TradeExpert EURUSD,H1: Connecting...
+0	12:16:26.219	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:16:26.219	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:16:26.219	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:16:26.219	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:16:26.219	TradeExpert EURUSD,H1: symbolEURJPY index 5
+0	12:16:26.219	TradeExpert EURUSD,H1: lot 0.4
+0	12:16:26.219	TradeExpert EURUSD,H1: lot 0.4
+0	12:16:26.219	TradeExpert EURUSD,H1: Number of symbol11
+0	12:16:26.556	TradeExpert EURUSD,H1: Trade status: true
+0	12:16:26.916	TradeExpert EURUSD,H1: json array size12144
+0	12:17:07.927	TradeExpert EURUSD,H1: lot 0.4
+0	12:17:08.846	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:08.846	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:10.312	Custom indicator ZigZagPointer EURJPY,H1: loaded successfully
+0	12:17:10.336	Custom indicator TrendsFollowers EURJPY,H1: loaded successfully
+0	12:17:10.384	Custom indicator TrendExpert EURJPY,H1: loaded successfully
+0	12:17:10.424	ZigZagPointer EURJPY,H1: initialized
+0	12:17:10.472	TrendsFollowers EURJPY,H1: initialized
+0	12:17:10.584	TrendExpert EURJPY,H1: initialized
+0	12:17:10.584	ZigZagPointer EURJPY,H1: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:10.584	ZigZagPointer EURJPY,H1: Alert: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:19.487	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:19.487	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:19.487	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:19.487	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:19.487	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:19.504	ZigZagPointer EURJPY,H1: uninit reason 4
+0	12:17:19.509	TrendsFollowers EURJPY,H1: uninit reason 4
+0	12:17:19.509	TrendExpert EURJPY,H1: uninit reason 4
+0	12:17:19.514	Custom indicator ZigZagPointer EURJPY,H1: removed
+0	12:17:19.514	Custom indicator TrendsFollowers EURJPY,H1: removed
+0	12:17:19.524	Custom indicator TrendExpert EURJPY,H1: removed
+0	12:17:21.024	Custom indicator ZigZagPointer EURJPY,H1: loaded successfully
+0	12:17:21.056	Custom indicator TrendsFollowers EURJPY,H1: loaded successfully
+0	12:17:21.096	Custom indicator TrendExpert EURJPY,H1: loaded successfully
+0	12:17:21.144	ZigZagPointer EURJPY,H1: initialized
+0	12:17:21.192	TrendsFollowers EURJPY,H1: initialized
+0	12:17:21.304	TrendExpert EURJPY,H1: initialized
+0	12:17:21.312	ZigZagPointer EURJPY,H1: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:21.312	ZigZagPointer EURJPY,H1: Alert: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:30.723	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:30.723	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:30.723	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:30.723	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9340 
+0	12:17:30.735	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9450 Close 157.8730 Volume 157.9330 
+0	12:17:30.975	ZigZagPointer EURJPY,H1: uninit reason 4
+0	12:17:30.975	TrendsFollowers EURJPY,H1: uninit reason 4
+0	12:17:30.975	TrendExpert EURJPY,H1: uninit reason 4
+0	12:17:30.980	Custom indicator ZigZagPointer EURJPY,H1: removed
+0	12:17:30.980	Custom indicator TrendsFollowers EURJPY,H1: removed
+0	12:17:30.990	Custom indicator TrendExpert EURJPY,H1: removed
+0	12:17:31.951	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:17:31.983	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:17:32.031	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:17:32.079	ZigZagPointer EURUSD,H1: initialized
+0	12:17:32.128	TrendsFollowers EURUSD,H1: initialized
+0	12:17:32.256	TrendExpert EURUSD,H1: initialized
+0	12:17:32.256	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:32.256	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:17:41.582	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:17:41.582	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:17:41.582	TrendExpert EURUSD,H1: uninit reason 4
+0	12:17:41.587	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:17:41.595	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:17:41.603	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:17:41.671	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: num symbols11
+0	12:17:41.671	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:17:41.671	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:17:41.671	TradeExpert EURUSD,H1: Connecting...
+0	12:17:41.717	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:17:41.717	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:17:41.717	TradeExpert EURUSD,H1: Connecting...
+0	12:17:41.720	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:17:41.720	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:17:41.720	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:17:41.720	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:17:41.720	TradeExpert EURUSD,H1: symbolUSDJPY index 10
+0	12:17:41.736	TradeExpert EURUSD,H1: lot 0.4
+0	12:17:41.742	TradeExpert EURUSD,H1: lot 0.4
+0	12:17:41.742	TradeExpert EURUSD,H1: Number of symbol11
+0	12:17:49.155	TradeExpert EURUSD,H1: Trade status: true
+0	12:17:49.484	TradeExpert EURUSD,H1: json array size12144
+0	12:18:34.782	TradeExpert EURUSD,H1: lot 0.4
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:35.920	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8170 
+0	12:18:45.933	TradeExpert EURUSD,H1: Current bar for :USDJPY,Open 16951.0000 ,High 147.6900,Low 147.8400 Close 147.7970 Volume 147.8070 
+0	12:18:47.112	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:18:47.144	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:18:47.200	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:18:47.241	ZigZagPointer EURUSD,H1: initialized
+0	12:18:47.289	TrendsFollowers EURUSD,H1: initialized
+0	12:18:47.412	TrendExpert EURUSD,H1: initialized
+0	12:18:47.417	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:18:47.417	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:18:57.279	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:18:57.279	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:18:57.279	TrendExpert EURUSD,H1: uninit reason 4
+0	12:18:57.283	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:18:57.287	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:18:57.295	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:18:57.394	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: num symbols11
+0	12:18:57.394	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:18:57.394	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:18:57.394	TradeExpert EURUSD,H1: Connecting...
+0	12:18:57.460	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:18:57.460	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:18:57.460	TradeExpert EURUSD,H1: Connecting...
+0	12:18:57.460	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:18:57.460	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:18:57.460	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:18:57.460	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:18:57.460	TradeExpert EURUSD,H1: symbolUSDCAD index 9
+0	12:18:57.460	TradeExpert EURUSD,H1: lot 0.4
+0	12:18:57.460	TradeExpert EURUSD,H1: lot 0.4
+0	12:18:57.460	TradeExpert EURUSD,H1: Number of symbol11
+0	12:19:05.371	TradeExpert EURUSD,H1: Trade status: true
+0	12:19:05.500	TradeExpert EURUSD,H1: json array size12144
+0	12:19:48.195	TradeExpert EURUSD,H1: lot 0.4
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.170	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3439 
+0	12:19:49.178	TradeExpert EURUSD,H1: Current bar for :USDCAD,Open 16951.0000 ,High 1.3413,Low 1.3444 Close 1.3432 Volume 1.3438 
+0	12:19:50.344	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:19:50.369	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:19:50.417	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:19:50.465	ZigZagPointer EURUSD,H1: initialized
+0	12:19:50.505	TrendsFollowers EURUSD,H1: initialized
+0	12:19:50.625	TrendExpert EURUSD,H1: initialized
+0	12:19:50.633	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:19:50.633	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:19:59.723	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: num symbols11
+0	12:19:59.723	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:19:59.723	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:19:59.723	TradeExpert EURUSD,H1: Connecting...
+0	12:19:59.723	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:19:59.725	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:19:59.725	TrendExpert EURUSD,H1: uninit reason 4
+0	12:19:59.732	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:19:59.735	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:19:59.740	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:19:59.756	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:19:59.756	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:19:59.756	TradeExpert EURUSD,H1: Connecting...
+0	12:19:59.764	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:19:59.764	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:19:59.764	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:19:59.764	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:19:59.764	TradeExpert EURUSD,H1: symbolEURGBP index 4
+0	12:19:59.764	TradeExpert EURUSD,H1: lot 0.4
+0	12:19:59.765	TradeExpert EURUSD,H1: lot 0.4
+0	12:19:59.765	TradeExpert EURUSD,H1: Number of symbol11
+0	12:20:00.296	TradeExpert EURUSD,H1: Trade status: true
+0	12:20:00.395	TradeExpert EURUSD,H1: json array size12144
+0	12:20:45.841	TradeExpert EURUSD,H1: lot 0.4
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.800	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:46.808	TradeExpert EURUSD,H1: Current bar for :EURGBP,Open 16951.0000 ,High 0.8619,Low 0.8624 Close 0.8621 Volume 0.8624 
+0	12:20:47.921	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:20:47.945	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:20:47.993	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:20:48.041	ZigZagPointer EURUSD,H1: initialized
+0	12:20:48.089	TrendsFollowers EURUSD,H1: initialized
+0	12:20:48.201	TrendExpert EURUSD,H1: initialized
+0	12:20:48.209	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:20:48.209	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:20:57.727	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:20:57.727	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:20:57.727	TrendExpert EURUSD,H1: uninit reason 4
+0	12:20:57.737	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:20:57.737	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:20:57.743	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:20:57.819	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: num symbols11
+0	12:20:57.819	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:20:57.819	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:20:57.819	TradeExpert EURUSD,H1: Connecting...
+0	12:20:57.827	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:20:57.827	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:20:57.827	TradeExpert EURUSD,H1: Connecting...
+0	12:20:57.827	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:20:57.827	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:20:57.827	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:20:57.827	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:20:57.827	TradeExpert EURUSD,H1: symbolEURAUD index 2
+0	12:20:57.827	TradeExpert EURUSD,H1: lot 0.4
+0	12:20:57.827	TradeExpert EURUSD,H1: lot 0.4
+0	12:20:57.827	TradeExpert EURUSD,H1: Number of symbol11
+0	12:21:05.424	TradeExpert EURUSD,H1: Trade status: true
+0	12:21:05.520	TradeExpert EURUSD,H1: json array size12144
+0	12:21:49.316	TradeExpert EURUSD,H1: lot 0.4
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.227	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:21:50.235	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6548 
+0	12:21:51.423	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:21:51.447	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:21:51.496	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:21:51.544	ZigZagPointer EURUSD,H1: initialized
+0	12:21:51.592	TrendsFollowers EURUSD,H1: initialized
+0	12:21:51.744	TrendExpert EURUSD,H1: initialized
+0	12:21:51.744	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:21:51.744	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:22:01.083	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: num symbols11
+0	12:22:01.083	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:22:01.083	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:22:01.083	TradeExpert EURUSD,H1: Connecting...
+0	12:22:01.118	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:22:01.118	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:22:01.118	TradeExpert EURUSD,H1: Connecting...
+0	12:22:01.118	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:22:01.118	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:22:01.118	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:22:01.118	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:22:01.118	TradeExpert EURUSD,H1: symbolGBPUSD index 7
+0	12:22:01.118	TradeExpert EURUSD,H1: lot 0.4
+0	12:22:01.118	TradeExpert EURUSD,H1: lot 0.4
+0	12:22:01.118	TradeExpert EURUSD,H1: Number of symbol11
+0	12:22:01.424	TradeExpert EURUSD,H1: Trade status: true
+0	12:22:01.538	TradeExpert EURUSD,H1: json array size12144
+0	12:22:01.645	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:22:01.645	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:22:01.645	TrendExpert EURUSD,H1: uninit reason 4
+0	12:22:01.653	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:22:01.653	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:22:01.664	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:22:44.574	TradeExpert EURUSD,H1: lot 0.4
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.505	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2387 
+0	12:22:45.513	TradeExpert EURUSD,H1: Current bar for :GBPUSD,Open 16951.0000 ,High 1.2401,Low 1.2390 Close 1.2384 Volume 1.2388 
+0	12:22:46.718	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:22:46.742	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:22:46.790	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:22:46.838	ZigZagPointer EURUSD,H1: initialized
+0	12:22:46.894	TrendsFollowers EURUSD,H1: initialized
+0	12:22:47.022	TrendExpert EURUSD,H1: initialized
+0	12:22:47.022	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:22:47.022	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:22:57.171	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: num symbols11
+0	12:22:57.171	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:22:57.171	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:22:57.171	TradeExpert EURUSD,H1: Connecting...
+0	12:22:57.181	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:22:57.181	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:22:57.181	TrendExpert EURUSD,H1: uninit reason 4
+0	12:22:57.186	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:22:57.186	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:22:57.186	TradeExpert EURUSD,H1: Connecting...
+0	12:22:57.195	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:22:57.195	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:22:57.195	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:22:57.195	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:22:57.195	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:22:57.195	TradeExpert EURUSD,H1: symbolNZDUSD index 8
+0	12:22:57.195	TradeExpert EURUSD,H1: lot 0.4
+0	12:22:57.195	TradeExpert EURUSD,H1: lot 0.4
+0	12:22:57.195	TradeExpert EURUSD,H1: Number of symbol11
+0	12:22:57.195	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:22:57.203	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:22:57.611	TradeExpert EURUSD,H1: Trade status: true
+0	12:22:57.724	TradeExpert EURUSD,H1: json array size12144
+0	12:23:41.710	TradeExpert EURUSD,H1: lot 0.4
+0	12:23:42.712	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:42.712	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:44.240	Custom indicator ZigZagPointer NZDUSD,H1: loaded successfully
+0	12:23:44.264	Custom indicator TrendsFollowers NZDUSD,H1: loaded successfully
+0	12:23:44.313	Custom indicator TrendExpert NZDUSD,H1: loaded successfully
+0	12:23:44.353	ZigZagPointer NZDUSD,H1: initialized
+0	12:23:44.401	TrendsFollowers NZDUSD,H1: initialized
+0	12:23:44.522	TrendExpert NZDUSD,H1: initialized
+0	12:23:44.522	ZigZagPointer NZDUSD,H1: ZigZagPointer--- NZDUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:23:44.522	ZigZagPointer NZDUSD,H1: Alert: ZigZagPointer--- NZDUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.741	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:53.749	TradeExpert EURUSD,H1: Current bar for :NZDUSD,Open 16951.0000 ,High 0.5935,Low 0.5928 Close 0.5923 Volume 0.5927 
+0	12:23:54.814	ZigZagPointer NZDUSD,H1: uninit reason 4
+0	12:23:54.814	TrendsFollowers NZDUSD,H1: uninit reason 4
+0	12:23:54.814	TrendExpert NZDUSD,H1: uninit reason 4
+0	12:23:54.823	Custom indicator ZigZagPointer NZDUSD,H1: removed
+0	12:23:54.823	Custom indicator TrendsFollowers NZDUSD,H1: removed
+0	12:23:54.831	Custom indicator TrendExpert NZDUSD,H1: removed
+0	12:23:55.131	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:23:55.159	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:23:55.213	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:23:55.270	ZigZagPointer EURUSD,H1: initialized
+0	12:23:55.321	TrendsFollowers EURUSD,H1: initialized
+0	12:23:55.436	TrendExpert EURUSD,H1: initialized
+0	12:23:55.436	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:23:55.436	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:24:05.001	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: num symbols11
+0	12:24:05.001	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:24:05.001	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:24:05.001	TradeExpert EURUSD,H1: Connecting...
+0	12:24:05.034	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:24:05.034	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:24:05.034	TradeExpert EURUSD,H1: Connecting...
+0	12:24:05.034	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:24:05.034	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:24:05.034	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:24:05.034	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:24:05.034	TradeExpert EURUSD,H1: symbolEURJPY index 5
+0	12:24:05.034	TradeExpert EURUSD,H1: lot 0.4
+0	12:24:05.034	TradeExpert EURUSD,H1: lot 0.4
+0	12:24:05.034	TradeExpert EURUSD,H1: Number of symbol11
+0	12:24:05.500	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:24:05.502	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:24:05.502	TrendExpert EURUSD,H1: uninit reason 4
+0	12:24:05.509	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:24:05.511	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:24:05.517	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:24:13.030	TradeExpert EURUSD,H1: Trade status: true
+0	12:24:13.342	TradeExpert EURUSD,H1: json array size12144
+0	12:24:55.354	TradeExpert EURUSD,H1: lot 0.4
+0	12:24:55.442	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:55.442	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:56.142	Custom indicator ZigZagPointer EURJPY,H1: loaded successfully
+0	12:24:56.190	Custom indicator TrendsFollowers EURJPY,H1: loaded successfully
+0	12:24:56.278	Custom indicator TrendExpert EURJPY,H1: loaded successfully
+0	12:24:56.358	ZigZagPointer EURJPY,H1: initialized
+0	12:24:56.407	TrendsFollowers EURJPY,H1: initialized
+0	12:24:56.543	TrendExpert EURJPY,H1: initialized
+0	12:24:56.543	ZigZagPointer EURJPY,H1: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:24:56.543	ZigZagPointer EURJPY,H1: Alert: ZigZagPointer--- EURJPY H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:24:57.317	TradeExpert EURUSD,H1: Screenshot file 'EURJPY0.gif' not created.
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.335	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9260 
+0	12:24:58.343	TradeExpert EURUSD,H1: Current bar for :EURJPY,Open 16951.0000 ,High 157.8740,Low 157.9540 Close 157.8730 Volume 157.9210 
+0	12:25:01.354	TradeExpert EURUSD,H1: uninit reason 1
+2	12:25:01.354	TradeExpert EURUSD,H1: ExpertRemove function called
+0	12:25:01.525	Expert TradeExpert EURUSD,H1: removed
+0	12:25:11.278	ZigZagPointer EURJPY,H1: uninit reason 4
+0	12:25:11.278	TrendsFollowers EURJPY,H1: uninit reason 4
+0	12:25:11.278	TrendExpert EURJPY,H1: uninit reason 4
+0	12:25:11.286	Custom indicator ZigZagPointer EURJPY,H1: removed
+0	12:25:11.294	Custom indicator TrendsFollowers EURJPY,H1: removed
+0	12:25:11.302	Custom indicator TrendExpert EURJPY,H1: removed
+0	12:30:07.400	Expert TradeExpert\TradeExpert EURUSD,H1: loaded successfully
+0	12:30:15.282	TradeExpert EURUSD,H1 inputs: InpAlign=true; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact 3022764379 on WhatApps=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade Size Configuration  ============; InpUsedSymbols=EURUSD,AUDUSD,EURAUD,EURCAD,EURGBP,EURJPY,EURUSD,GBPUSD,NZDUSD,USDCAD,USDJPY; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== SCHEDULED TRADE SYMBOLS ===; InpSelectPairs_By_Basket_Schedule=0; symbolList1=USDCAD,EURUSD,AUDUSD; start1=1611028800; stop1=1642572000; start2=1642582800; sss=; 
+0	12:30:23.272	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:30:23.280	TradeExpert EURUSD,H1: initialized
+0	12:30:26.395	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: num symbols11
+0	12:30:26.395	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:30:26.395	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:30:26.395	TradeExpert EURUSD,H1: Connecting...
+0	12:30:26.436	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:30:26.436	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:30:26.436	TradeExpert EURUSD,H1: Connecting...
+0	12:30:26.436	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:30:26.436	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:30:26.436	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:30:26.436	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:30:26.436	TradeExpert EURUSD,H1: symbolEURAUD index 2
+0	12:30:26.436	TradeExpert EURUSD,H1: lot 0.4
+0	12:30:26.436	TradeExpert EURUSD,H1: lot 0.4
+0	12:30:26.436	TradeExpert EURUSD,H1: Number of symbol11
+0	12:30:47.056	TrendExpert AUDUSD,H1: Alert: Exit from buy AUDUSD
+0	12:31:47.784	TradeExpert EURUSD,H1: Trade status: true
+0	12:31:47.784	TradeExpert EURUSD,H1: News Loading...
+0	12:31:48.120	TradeExpert EURUSD,H1: json array size12144
+0	12:32:25.883	TradeExpert EURUSD,H1: lot 0.4
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.854	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6552 
+0	12:32:26.862	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6550 
+0	12:32:28.183	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:32:28.215	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:32:28.255	Custom indicator TrendExpert EURUSD,H1: loaded successfully
+0	12:32:28.287	ZigZagPointer EURUSD,H1: initialized
+0	12:32:28.311	TrendsFollowers EURUSD,H1: initialized
+0	12:32:28.396	TrendExpert EURUSD,H1: initialized
+0	12:32:28.399	ZigZagPointer EURUSD,H1: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:32:28.399	ZigZagPointer EURUSD,H1: Alert: ZigZagPointer--- EURUSD H1: ZigZag Upper Limit Found at bars: 4--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:32:35.949	ZigZagPointer EURUSD,H1: uninit reason 4
+0	12:32:35.949	TrendsFollowers EURUSD,H1: uninit reason 4
+0	12:32:35.949	TrendExpert EURUSD,H1: uninit reason 4
+0	12:32:35.957	Custom indicator ZigZagPointer EURUSD,H1: removed
+0	12:32:35.963	Custom indicator TrendsFollowers EURUSD,H1: removed
+0	12:32:35.968	Custom indicator TrendExpert EURUSD,H1: removed
+0	12:32:36.058	TradeExpert EURUSD,H1: {"ok":false,"error_code":409,"description":"Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first"}
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: num symbols11
+0	12:32:36.058	TradeExpert EURUSD,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	12:32:36.058	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:32:36.058	TradeExpert EURUSD,H1: Connecting...
+0	12:32:36.114	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:32:36.114	TradeExpert EURUSD,H1: Host: db-servers.mysql.database.azure.com, User: bigbossmanager, Database: trades
+0	12:32:36.114	TradeExpert EURUSD,H1: Connecting...
+0	12:32:36.114	TradeExpert EURUSD,H1: Connection failed! Error: Unknown MySQL server host 'db-servers.mysql.database.azure.com' (0)
+0	12:32:36.114	TradeExpert EURUSD,H1: Table `test_table` cannot be created. Error: No connection to the database.
+0	12:32:36.114	TradeExpert EURUSD,H1: Disconnected. Script done!
+0	12:32:36.114	TradeExpert EURUSD,H1: All connections closed. Script done!
+0	12:32:36.114	TradeExpert EURUSD,H1: symbolEURAUD index 2
+0	12:32:36.114	TradeExpert EURUSD,H1: lot 0.4
+0	12:32:36.114	TradeExpert EURUSD,H1: lot 0.4
+0	12:32:36.114	TradeExpert EURUSD,H1: Number of symbol11
+0	12:32:50.780	TradeExpert EURUSD,H1: Trade status: true
+0	12:32:51.157	TradeExpert EURUSD,H1: json array size12144
+0	12:34:54.678	TradeExpert EURUSD,H1: lot 0.4
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:55.622	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:34:57.706	Custom indicator ZigZagPointer EURAUD,H1: loaded successfully
+0	12:34:57.738	Custom indicator TrendsFollowers EURAUD,H1: loaded successfully
+0	12:34:57.794	Custom indicator TrendExpert EURAUD,H1: loaded successfully
+0	12:34:58.393	ZigZagPointer EURAUD,H1: initialized
+0	12:34:58.497	TrendsFollowers EURAUD,H1: initialized
+0	12:34:58.714	TrendExpert EURAUD,H1: initialized
+0	12:34:58.714	ZigZagPointer EURAUD,H1: ZigZagPointer--- EURAUD H1: ZigZag Upper Limit Found at bars: 14
+--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:34:58.714	ZigZagPointer EURAUD,H1: Alert: ZigZagPointer--- EURAUD H1: ZigZag Upper Limit Found at bars: 14--- at: 2023.09.19 19:00 - Wait to Open SELL Order
+0	12:34:59.743	TrendsFollowers EURAUD,H1: indicator | TrendsFollowers @ EURAUD,60 | Buy
+0	12:34:59.743	TrendsFollowers EURAUD,H1: Alert: indicator | TrendsFollowers @ EURAUD,60 | Buy
+0	12:35:11.907	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:35:11.907	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:35:11.907	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:35:11.907	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6549 
+0	12:35:14.490	ZigZagPointer EURAUD,H1: uninit reason 4
+0	12:35:14.490	TrendsFollowers EURAUD,H1: uninit reason 4
+0	12:35:14.490	TrendExpert EURAUD,H1: uninit reason 4
+0	12:35:14.506	Custom indicator ZigZagPointer EURAUD,H1: removed
+0	12:35:14.514	Custom indicator TrendsFollowers EURAUD,H1: removed
+0	12:35:14.522	Custom indicator TrendExpert EURAUD,H1: removed
+0	12:35:22.111	TradeExpert EURUSD,H1: Current bar for :EURAUD,Open 16951.0000 ,High 1.6529,Low 1.6552 Close 1.6542 Volume 1.6547 
+0	12:35:23.365	Custom indicator ZigZagPointer EURUSD,H1: loaded successfully
+0	12:35:23.397	Custom indicator TrendsFollowers EURUSD,H1: loaded successfully
+0	12:35:23.469	Custom indicator TrendExpert EURUSD,H1: loaded successfully
