@@ -15,7 +15,7 @@ private:
    CObject          *m_next;               // next item of list
 
 public:
-                     CObject(void): m_prev(NULL),m_next(NULL)            {                 ;}
+                     CObject(void): m_prev(NULL),m_next(NULL)            {                 }
                     ~CObject(void)                                       {                 }
    //--- methods to access protected data
    CObject          *Prev(void)                                    const { return(m_prev); }
@@ -26,7 +26,7 @@ public:
    virtual bool      Save(const int file_handle)                         { return(true);   }
    virtual bool      Load(const int file_handle)                         { return(true);   }
    //--- method of identifying the object
-   virtual int       Type()                                     { return(0);      }
+   virtual int       Type(void)                                    const { return(0);      }
    //--- method of comparing the objects
    virtual int       Compare(const CObject *node,const int mode=0) const { return(0);      }
   };

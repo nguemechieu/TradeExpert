@@ -149,7 +149,7 @@ int buttonheight=(panelheight-36)/5;
 int editwidth=(panelwidth-8)/4;
 int init_status;
 //--- GUI debug
-int y_offset;
+long y_offset=0;
 int IndicatorSubWindow = 0;
  int retries=1;
            

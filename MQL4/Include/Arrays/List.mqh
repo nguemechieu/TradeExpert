@@ -3,15 +3,14 @@
 //|                   Copyright 2009-2013, MetaQuotes Software Corp. |
 //|                                              http://www.mql4.com |
 //+------------------------------------------------------------------+
-
+#include <Object.mqh>
 //+------------------------------------------------------------------+
 //| Class CList.                                                     |
 //| Purpose: Provides the possibility of working with the list of    |
 //|          CObject instances and its dervivatives                  |
 //|          Derives from class CObject.                             |
 //+------------------------------------------------------------------+
-#include <Object.mqh>
-class CList:public CObject
+class CList : public CObject
   {
 protected:
    CObject          *m_first_node;       // pointer to the first element of the list
@@ -294,9 +293,7 @@ CObject *CList::GetNodeAtIndex(int index)
             return(NULL);
         }
      }
-     
    m_curr_idx=index;
-  
 //--- result
    return(m_curr_node=result);
   }
@@ -316,14 +313,15 @@ CObject *CList::GetFirstNode(void)
 //+------------------------------------------------------------------+
 //| Get a pointer to the previous itme of the list                   |
 //+------------------------------------------------------------------+
-CObject *CList::GetPrevNode(void) {
+CObject *CList::GetPrevNode(void)
+  {
 //--- check
    if(!CheckPointer(m_curr_node) || m_curr_node.Prev()==NULL)
       return(NULL);
 //--- decrement
-   m_curr_idx --;
+   m_curr_idx--;
 //--- result
-   return (m_curr_node=m_curr_node.Prev());
+   return(m_curr_node=m_curr_node.Prev());
   }
 //+------------------------------------------------------------------+
 //| Get a pointer to the current item of the list                    |
@@ -354,7 +352,7 @@ CObject *CList::GetLastNode(void)
    if(!CheckPointer(m_last_node))
       return(NULL);
 //---
-   m_curr_idx =m_data_total-1;
+   m_curr_idx=m_data_total-1;
 //--- result
    return(m_curr_node=m_last_node);
   }
@@ -368,7 +366,7 @@ CObject *CList::DetachCurrent(void)
    if(!CheckPointer(m_curr_node))
       return(result);
 //--- "explode" list
-   result= m_curr_node;
+   result=m_curr_node;
    m_curr_node=NULL;
 //--- if the deleted item was not the last one, pull up the "tail" of the list
    if((tmp_node=result.Next())!=NULL)
@@ -555,18 +553,18 @@ bool CList::Exchange(CObject *node1,CObject *node2)
 //+------------------------------------------------------------------+
 CObject *CList::QuickSearch(CObject *element)
   {
-
+   int      i,j,m;
    CObject *t_node=NULL;
 //--- check
    if(m_data_total==0)
       return(NULL);
 //--- check the pointer is not needed
-  int i=0;
-   int j=m_data_total;
+   i=0;
+   j=m_data_total;
    while(j>=i)
      {
       //--- ">>1" is quick division by 2
-      int m=(j+i)>>1;
+      m=(j+i)>>1;
       if(m<0 || m>=m_data_total)
          break;
       t_node=GetNodeAtIndex(m);
@@ -655,6 +653,5 @@ bool CList::Load(const int file_handle)
      }
 //--- successful
    return(result);
-  
- }
+  }
 //+------------------------------------------------------------------+

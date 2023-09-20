@@ -37,7 +37,7 @@ string symbol;//order symbol
     
     int SendOrder(){
     printf("Order send ");
- return OrderSend(getSymbol(),getType(),getLot_size(),getPrice(),getSlippage(),getStoploss(),getTakeprofit(),getComment(),getMagic_number(),getExpiration(),getOrder_color());
+ return OrderSend(symbol,type,volume,price,slippage,stoploss,takeprofit,comment,magic_number,expiration,order_color);
     
     
     
