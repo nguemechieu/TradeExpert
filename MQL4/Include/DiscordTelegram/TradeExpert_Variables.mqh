@@ -18,7 +18,6 @@
 
 #define SIGNAL_SELLSTOP  ( -3)
 
-#define  LOSS_COLOR clrGold
 #define  CAPTION_COLOR  clrAliceBlue
 
 
@@ -129,8 +128,6 @@ int ProfitMode = 0;
          string SYMBOL[10]={};
           ENUM_ORDER_TYPE tradesignals[100]={};  
 
-int timer_ms=1000;
-
 
  int fibo_levels=11;
 double current_high;
@@ -151,7 +148,7 @@ int init_status;
 //--- GUI debug
 long y_offset=0;
 int IndicatorSubWindow = 0;
- int retries=1;
+ int retries=-1;
            
 bool previous_trend=false;
 

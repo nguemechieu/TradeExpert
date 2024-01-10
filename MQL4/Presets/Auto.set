@@ -253,13 +253,13 @@ menu1========== SmartBot Configuration  ============
 UseBot=true
 InpTocken=2032573404:AAEfu_tvVukCibiYf8uUdi6NcDpSmbuj3Tg
 InpChannel=tradeexpert_infos
-InpChannelChatID=-1001659738763
+InpChannelChatID=-1001648392740
 InpChatID2=-1001648392740
 InpChatID=805814430
 InpToChannel=true
 InpTochat=true
 UserName=noel
-InpUserNameFilter=noel, Olusegun
+InpUserNameFilter=noel
 SendScreenshot=true
 google_url=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=393359e9932452a2579e1e46e6e3319a
 InpFileName=report.csv
@@ -280,6 +280,7 @@ InpUpdateMode=1
 Comment_ea=
 User=root
 Host=localhost
+ssl=ca:DigiCertGlobalRootCA.crt.pem
 Port=3306
 ClientFlag=0
 Database=trades

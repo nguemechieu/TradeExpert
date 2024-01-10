@@ -103,10 +103,10 @@ double TotalOpenProfit(int direction)
    
    void CloseTrade(TradeData &tradeData2){
 
-      int tickets=OrderClose(OrderTicket(),OrderLots(),tradeData2.price,tradeData2.slippage,tradeData2.clrName);
-    if(tickets>0){
+      int ticket=OrderClose(OrderTicket(),OrderLots(),tradeData2.price,tradeData2.slippage,tradeData2.clrName);
+    if(ticket>0){
     
-    printf("Error order "+(string)tickets+" "+tradeData2.symbol +"not closed!");
+    printf("Error order "+(string)ticket+" "+tradeData2.symbol +"not closed!");
     }else{
     
     printf("Order "+tradeData2.symbol+ "has been  closed at "+(string)tradeData2.price );
@@ -153,16 +153,18 @@ Push_Notifications = true;
       if(Push_Notifications) SendNotification((string)tradeData1.type+" | breakout @ "+(string)tradeData1.symbol+","+IntegerToString(Period())+" | "+message1);
      }
    }               
-                     
+  
+                  
   //----------------open trade--------------------
     int OpenTrade(TradeData &tradeData11)
     {
+   int ticketss=-1;
+double bid =MarketInfo(tradeData11.symbol,MODE_BID);
+double ask =MarketInfo(tradeData11.symbol,MODE_ASK);
 
-    
    string  ordername_, ordername=tradeData11.comment;
    if(!IsTradeAllowed()) return(-1);
-   int tickets = -1;
- 
+  
    int err = 0;
    int long_trades = TradesCount(OP_BUY);
    int short_trades = TradesCount(OP_SELL);
@@ -190,17 +192,17 @@ Push_Notifications = true;
    double MinDistance = tradeData11.bid * myPoint;
    if(type == OP_BUYLIMIT && tradeData11.price- price < MinDistance)
       price = tradeData1.price- MinDistance;
-   else if(type == OP_BUYSTOP && price - Ask < MinDistance)
-      price = Ask + MinDistance;
-   else if(type == OP_SELLLIMIT && price - Bid < MinDistance)
-      price = Bid + MinDistance;
-   else if(type == OP_SELLSTOP && Bid - price < MinDistance)
-      price = Bid - MinDistance;
+   else if(type == OP_BUYSTOP && price - ask < MinDistance)
+      price = ask + MinDistance;
+   else if(type == OP_SELLLIMIT && price - bid < MinDistance)
+      price = bid + MinDistance;
+   else if(type == OP_SELLSTOP && bid - price < MinDistance)
+      price = bid - MinDistance;
       
-   while(tickets < 0 && retries < OrderRetry+1)
+   while(ticketss< 0 && retries < OrderRetry+1)
      {
-      tickets= OrderSend(tradeData11.symbol, tradeData11.type, tradeData11.volume, NormalizeDouble(tradeData11.price, tradeData11.digit),tradeData11.slippage, 0,0, ordername, tradeData11.MagicNumber, 0, clr);
-      if(tickets < 0)
+      tickets= OrderSend(tradeData11.symbol, tradeData11.type, tradeData11.volume, NormalizeDouble(tradeData11.price, tradeData11.digit),tradeData11.slippage, 0,tradeData11.takeProfit, ordername, tradeData11.MagicNumber, 0, clr);
+      if(ticketss < 0)
         {
          err = GetLastError();
          myAlert("print", "OrderSend"+ordername_+" error #"+IntegerToString(err)+" "+ErrorDescription(err));
@@ -221,19 +223,7 @@ Push_Notifications = true;
    
   }
                     
-   CTrade(){
- 
-   }
-   
-   
-   
-   
-   
-   ~CTrade(){  }
-   
-   
-   ;
- 
+ CTrade(){ }~CTrade(){};
   };
      
     

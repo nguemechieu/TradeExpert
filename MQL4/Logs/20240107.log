@@ -1,0 +1,1059 @@
+0	11:40:32.133	Compiling 'TelegramSignalTrader'
+3	11:40:38.468	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\Experts\TelegramSignalTrader.ex4' [2]
+0	11:40:41.009	Expert TradeExpert\TradeExpert EURUSD,H1: loaded successfully
+0	11:40:43.811	Expert TradeExpert EURUSD,H1: removed
+0	11:40:49.776	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	11:40:53.797	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; symbolList1=USDCAD,EURUSD,AUDUSD; InpLot=0.01; 
+0	11:41:03.192	TradeExpert EURJPY,H1: initialized
+0	11:47:08.038	TradeExpert EURJPY,H1: uninit reason 1
+2	11:47:08.038	TradeExpert EURJPY,H1: ExpertRemove function called
+0	11:47:08.051	Expert TradeExpert EURJPY,H1: removed
+0	11:47:12.677	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	11:47:20.967	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	11:47:26.294	TradeExpert EURJPY,H1: initialized
+0	11:50:23.985	TradeExpert EURJPY,H1: uninit reason 1
+2	11:50:23.985	TradeExpert EURJPY,H1: ExpertRemove function called
+0	11:50:23.985	Expert TradeExpert EURJPY,H1: removed
+0	11:50:30.940	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	11:51:21.659	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	11:51:26.935	TradeExpert EURJPY,H1: initialized
+0	11:52:47.241	TradeExpert EURJPY,H1: uninit reason 1
+2	11:52:47.241	TradeExpert EURJPY,H1: ExpertRemove function called
+0	11:52:47.257	Expert TradeExpert EURJPY,H1: removed
+3	11:52:56.708	cannot open file 'C:\Users\nguem\AppData\Roaming\MetaQuotes\Terminal\3212703ED955F10C7534BE8497B221F4\MQL4\Experts\TelegramSignalTrader.ex4' [2]
+0	11:57:34.070	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	11:57:48.436	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	11:57:54.432	TradeExpert EURJPY,H1: initialized
+0	12:01:13.680	TradeExpert EURJPY,H1: uninit reason 2
+2	12:01:13.680	TradeExpert EURJPY,H1: ExpertRemove function called
+0	12:01:13.689	Expert TradeExpert EURJPY,H1: removed
+0	12:01:13.845	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	12:01:22.815	TradeExpert EURJPY,H1: initialized
+0	12:01:31.151	TradeExpert EURJPY,H1: uninit reason 2
+2	12:01:31.151	TradeExpert EURJPY,H1: ExpertRemove function called
+0	12:01:31.151	Expert TradeExpert EURJPY,H1: removed
+0	12:01:31.182	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+1	12:01:38.453	TradeExpert EURJPY,H1: cannot set timer (1000)
+0	12:01:39.757	TradeExpert EURJPY,H1: initialized
+0	12:01:39.757	TradeExpert EURJPY,H1: uninit reason 2
+2	12:01:39.757	TradeExpert EURJPY,H1: ExpertRemove function called
+0	12:01:39.788	Expert TradeExpert EURJPY,H1: removed
+0	12:01:39.946	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	17:11:25.664	Compiling 'TelegramSignalTrader'
+0	17:11:34.917	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	17:11:34.917	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	17:22:43.772	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	17:22:43.772	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	17:34:53.134	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	17:34:53.134	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	17:45:37.127	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	17:45:37.127	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	17:45:38.507	Expert TradeExpert\TradeExpert EURUSD,H1: loaded successfully
+0	17:45:41.208	Expert TradeExpert EURUSD,H1: removed
+0	17:45:45.737	TradeExpert EURJPY,H1: initialized
+0	17:46:44.684	TradeExpert EURJPY,H1: News Loading...
+0	17:46:44.684	TradeExpert EURJPY,H1: Error in WebRequest. Error code  =4060
+0	17:47:37.465	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:47:37.465	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:47:37.465	TradeExpert EURJPY,H1: Connecting...
+0	17:47:41.500	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:47:41.500	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:47:41.500	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:47:41.500	TradeExpert EURJPY,H1: symbolCHFZAR index 13
+0	17:47:41.500	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:47:41.500	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:47:41.500	TradeExpert EURJPY,H1: Number of symbol69
+0	17:47:46.347	TrendExpert AUDCAD,H1: Alert: Exit from buy AUDCAD
+0	17:48:31.579	TrendExpert CADHKD,H1: Alert: Exit from sell CADHKD
+0	17:48:34.169	TrendExpert CADHKD,H1: Alert: Exit from sell CADHKD
+0	17:48:38.772	TradeExpert EURJPY,H1: Trade status: true
+0	17:48:39.579	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:48:39.603	TradeExpert EURJPY,H1: json array size9618
+0	17:48:44.927	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:49:04.120	TradeExpert EURJPY,H1: Current bar for :CHFZAR,Open 17044.0000 ,High 21.9734,Low 21.9531 Close 21.9170 Volume 21.9274 
+0	17:49:04.120	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8968 
+0	17:49:04.136	TradeExpert EURJPY,H1: 2024.01.08 00:03
+0	17:49:04.136	TradeExpert EURJPY,H1: Total Profit for today AUDCAD : 0.0 PIPS
+0	17:49:04.643	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:49:04.643	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:49:04.643	TradeExpert EURJPY,H1: Connecting...
+0	17:49:08.712	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:49:08.712	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:49:08.712	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:49:08.712	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:49:08.712	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:49:08.712	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:49:08.712	TradeExpert EURJPY,H1: Number of symbol69
+0	17:49:09.012	TradeExpert EURJPY,H1: Trade status: true
+0	17:49:09.359	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:49:09.375	TradeExpert EURJPY,H1: json array size9618
+0	17:49:15.336	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:49:31.058	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:49:31.058	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8968 
+0	17:49:31.074	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:49:31.074	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:49:31.074	TradeExpert EURJPY,H1: Connecting...
+0	17:49:35.118	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:49:35.118	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:49:35.118	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:49:35.118	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:49:35.118	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:49:35.118	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:49:35.118	TradeExpert EURJPY,H1: Number of symbol69
+0	17:49:35.543	TradeExpert EURJPY,H1: Trade status: true
+0	17:49:35.748	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:49:35.763	TradeExpert EURJPY,H1: json array size9618
+0	17:49:41.631	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:49:57.177	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:49:57.177	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8969 
+0	17:49:57.192	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:49:57.192	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:49:57.192	TradeExpert EURJPY,H1: Connecting...
+0	17:50:01.232	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:50:01.232	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:50:01.232	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:50:01.232	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:50:01.232	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:01.232	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:01.232	TradeExpert EURJPY,H1: Number of symbol69
+0	17:50:01.674	TradeExpert EURJPY,H1: Trade status: true
+0	17:50:01.972	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:50:02.004	TradeExpert EURJPY,H1: json array size9618
+0	17:50:09.004	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:50:24.921	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:50:24.921	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8969 
+0	17:50:24.921	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:50:24.921	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:50:24.921	TradeExpert EURJPY,H1: Connecting...
+0	17:50:28.982	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:50:28.982	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:50:28.982	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:50:28.982	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:50:28.982	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:28.982	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:28.982	TradeExpert EURJPY,H1: Number of symbol69
+0	17:50:29.297	TradeExpert EURJPY,H1: Trade status: true
+0	17:50:29.469	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:50:29.495	TradeExpert EURJPY,H1: json array size9618
+0	17:50:34.770	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:50:50.278	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:50:50.278	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8969 
+0	17:50:50.278	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:50:50.278	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:50:50.278	TradeExpert EURJPY,H1: Connecting...
+0	17:50:54.331	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:50:54.331	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:50:54.331	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:50:54.331	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:50:54.331	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:54.331	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:50:54.331	TradeExpert EURJPY,H1: Number of symbol69
+0	17:50:54.724	TradeExpert EURJPY,H1: Trade status: true
+0	17:50:54.834	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:50:54.865	TradeExpert EURJPY,H1: json array size9618
+0	17:51:00.887	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:51:16.443	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:51:16.443	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8969 
+0	17:51:16.443	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:51:16.443	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:51:16.443	TradeExpert EURJPY,H1: Connecting...
+0	17:51:20.472	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	17:51:20.472	TradeExpert EURJPY,H1: Disconnected. done!
+0	17:51:20.472	TradeExpert EURJPY,H1: All connections closed.  done!
+0	17:51:20.472	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	17:51:20.472	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:51:20.472	TradeExpert EURJPY,H1: lot 0.8389264000000001
+0	17:51:20.472	TradeExpert EURJPY,H1: Number of symbol69
+0	17:51:20.975	TradeExpert EURJPY,H1: Trade status: true
+0	17:51:21.352	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	17:51:21.383	TradeExpert EURJPY,H1: json array size9618
+0	17:51:26.894	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	17:51:42.450	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17044.0000 ,High 0.5709,Low 0.5702 Close 0.5700 Volume 0.5702 
+0	17:51:42.450	TradeExpert EURJPY,H1: Current bar for :AUDCAD,Open 17044.0000 ,High 0.8974,Low 0.8969 Close 0.8953 Volume 0.8969 
+0	17:51:42.450	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	17:51:42.450	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	17:51:42.450	TradeExpert EURJPY,H1: Connecting...
+0	18:17:39.093	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	18:17:39.093	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	18:32:20.893	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	18:32:20.893	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	19:03:13.610	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	19:03:13.611	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+2	19:03:35.531	TradeExpert EURJPY,H1: ExpertRemove function called
+3	19:03:35.531	TradeExpert EURJPY,H1: initialization failed (32767)
+0	19:03:35.531	TradeExpert EURJPY,H1: uninit reason 8
+2	19:03:35.532	TradeExpert EURJPY,H1: ExpertRemove function called
+0	19:03:35.555	Expert TradeExpert EURJPY,H1: removed
+0	19:12:29.248	Expert TradeExpert\TradeExpert EURJPY,H1: loaded successfully
+0	19:12:49.602	TradeExpert EURJPY,H1 inputs: InpAlign=true; BinanceApiKey=Cq6ObijDDPlyyR18Ddgi4YJJsXzeFa3KM6cqouRwavymglwglOhRsgooGHKO4HfA; BinanceApiSecret=YOUR_API_SECRET_HERE; menu0========== User  Configuration  ============; InpLanguage=0; LicenseMode=1; License=none; conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====; MT4account=1234567; menu2========== Trading Time Configuration  ============; UseTime=0; NextOpenTradeAfterBars=12; TOD_From_Hour=9; TOD_From_Min=45; TOD_To_Hour=16; TOD_To_Min=15; TradeMonday=true; TradeTuesday=true; TradeWednesday=true; TradeThursday=true; TradeFriday=true; TradeSaturday=true; TradeSunday=true; MaxTradeDurationBars=12; menu3========== Trade symbols&& size Configuration  ============; InpUsedSymbols=; InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD; newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30; UseAllsymbol=1; sdf==== Schedule Trade Symbols ===; InpSelectPairs_By_Basket_Schedule=0; start1=1611028800; Lots=0.05; 
+0	19:12:53.325	TradeExpert EURJPY,H1: license 
+0	19:12:54.190	TradeExpert EURJPY,H1: initialized
+0	19:12:55.966	TradeExpert EURJPY,H1: News Loading...
+0	19:12:56.326	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:12:56.326	TradeExpert EURJPY,H1: json array size9618
+0	19:13:04.058	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:13:04.058	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:13:04.058	TradeExpert EURJPY,H1: Connecting...
+0	19:13:08.169	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:13:08.169	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:13:08.169	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:13:08.169	TradeExpert EURJPY,H1: symbolAUDCHF index 1
+0	19:13:08.169	TradeExpert EURJPY,H1: lot 0.8254098359999998
+0	19:13:08.169	TradeExpert EURJPY,H1: lot 0.8254098359999998
+0	19:13:08.169	TradeExpert EURJPY,H1: Number of symbol69
+0	19:14:11.008	TradeExpert EURJPY,H1: Trade status: true
+0	19:14:11.510	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:14:11.542	TradeExpert EURJPY,H1: json array size9618
+0	19:14:18.195	TradeExpert EURJPY,H1: INSUFFISANT  MARGIN FOR ORDER AUDCHF
+0	19:14:34.590	TradeExpert EURJPY,H1: Current bar for :AUDCHF,Open 17046.0000 ,High 0.5700,Low 0.5715 Close 0.5713 Volume 0.5713 
+0	19:14:34.873	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2467 Close 5.2449 Volume 5.2464 
+0	19:14:36.706	TradeExpert EURJPY,H1: 2024.01.08 00:03
+0	19:14:36.706	TradeExpert EURJPY,H1: Total Profit for today AUDHKD : 0.0 PIPS
+0	19:14:37.130	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:14:37.130	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:14:37.130	TradeExpert EURJPY,H1: Connecting...
+0	19:14:41.184	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:14:41.184	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:14:41.184	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:14:41.184	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:14:41.184	TradeExpert EURJPY,H1: lot 0.813422305
+0	19:14:41.184	TradeExpert EURJPY,H1: lot 0.813422305
+0	19:14:41.184	TradeExpert EURJPY,H1: Number of symbol69
+0	19:14:41.766	TradeExpert EURJPY,H1: Trade status: true
+0	19:14:41.907	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:14:41.922	TradeExpert EURJPY,H1: json array size9618
+0	19:14:49.951	TradeExpert EURJPY,H1: lot 0.813415505
+0	19:15:06.376	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2030 
+0	19:15:06.760	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2467 Close 5.2449 Volume 5.2465 
+0	19:15:06.776	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:15:06.776	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:15:06.776	TradeExpert EURJPY,H1: Connecting...
+0	19:15:10.837	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:15:10.837	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:15:10.837	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:15:10.837	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:15:10.837	TradeExpert EURJPY,H1: lot 0.813402905
+0	19:15:10.837	TradeExpert EURJPY,H1: lot 0.813402905
+0	19:15:10.837	TradeExpert EURJPY,H1: Number of symbol69
+0	19:15:11.213	TradeExpert EURJPY,H1: Trade status: true
+0	19:15:11.340	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:15:11.344	TradeExpert EURJPY,H1: json array size9618
+0	19:15:19.104	TradeExpert EURJPY,H1: lot 0.8134041049999999
+0	19:15:34.843	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2060 
+0	19:15:35.208	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2470 Close 5.2449 Volume 5.2470 
+0	19:15:35.208	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:15:35.208	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:15:35.208	TradeExpert EURJPY,H1: Connecting...
+0	19:15:39.273	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:15:39.273	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:15:39.273	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:15:39.273	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:15:39.273	TradeExpert EURJPY,H1: lot 0.813390905
+0	19:15:39.273	TradeExpert EURJPY,H1: lot 0.813390905
+0	19:15:39.273	TradeExpert EURJPY,H1: Number of symbol69
+0	19:15:39.704	TradeExpert EURJPY,H1: Trade status: true
+0	19:15:40.019	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:15:40.023	TradeExpert EURJPY,H1: json array size9618
+0	19:15:45.886	TradeExpert EURJPY,H1: lot 0.813390905
+0	19:16:02.230	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1980 
+0	19:16:02.518	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2480 Close 5.2449 Volume 5.2475 
+0	19:16:02.518	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:16:02.518	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:16:02.518	TradeExpert EURJPY,H1: Connecting...
+0	19:16:06.594	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:16:06.594	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:16:06.594	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:16:06.594	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:16:06.594	TradeExpert EURJPY,H1: lot 0.813395105
+0	19:16:06.594	TradeExpert EURJPY,H1: lot 0.813395105
+0	19:16:06.594	TradeExpert EURJPY,H1: Number of symbol69
+0	19:16:07.056	TradeExpert EURJPY,H1: Trade status: true
+0	19:16:07.212	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:16:07.242	TradeExpert EURJPY,H1: json array size9618
+0	19:16:17.974	TradeExpert EURJPY,H1: lot 0.813395905
+0	19:16:33.338	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2010 
+0	19:16:33.611	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2480 Close 5.2449 Volume 5.2477 
+0	19:16:33.613	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:16:33.613	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:16:33.613	TradeExpert EURJPY,H1: Connecting...
+0	19:16:37.682	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:16:37.682	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:16:37.682	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:16:37.682	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:16:37.682	TradeExpert EURJPY,H1: lot 0.813391605
+0	19:16:37.682	TradeExpert EURJPY,H1: lot 0.813391605
+0	19:16:37.682	TradeExpert EURJPY,H1: Number of symbol69
+0	19:16:38.131	TradeExpert EURJPY,H1: Trade status: true
+0	19:16:38.266	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:16:38.292	TradeExpert EURJPY,H1: json array size9618
+0	19:16:44.553	TradeExpert EURJPY,H1: lot 0.8133836050000001
+0	19:17:00.969	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2170 
+0	19:17:01.365	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2481 Close 5.2449 Volume 5.2480 
+0	19:17:01.367	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:17:01.367	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:17:01.367	TradeExpert EURJPY,H1: Connecting...
+0	19:17:05.438	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:17:05.438	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:17:05.438	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:17:05.438	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:17:05.438	TradeExpert EURJPY,H1: lot 0.813394905
+0	19:17:05.438	TradeExpert EURJPY,H1: lot 0.813394905
+0	19:17:05.438	TradeExpert EURJPY,H1: Number of symbol69
+0	19:17:05.835	TradeExpert EURJPY,H1: Trade status: true
+0	19:17:05.960	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:17:05.966	TradeExpert EURJPY,H1: json array size9618
+0	19:17:12.433	TradeExpert EURJPY,H1: lot 0.813395505
+0	19:17:28.229	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2160 
+0	19:17:28.503	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2489 Close 5.2449 Volume 5.2487 
+0	19:17:28.511	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:17:28.511	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:17:28.511	TradeExpert EURJPY,H1: Connecting...
+0	19:17:32.604	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:17:32.604	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:17:32.604	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:17:32.604	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:17:32.604	TradeExpert EURJPY,H1: lot 0.8133907050000001
+0	19:17:32.604	TradeExpert EURJPY,H1: lot 0.8133907050000001
+0	19:17:32.604	TradeExpert EURJPY,H1: Number of symbol69
+0	19:17:32.880	TradeExpert EURJPY,H1: Trade status: true
+0	19:17:33.020	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:17:33.023	TradeExpert EURJPY,H1: json array size9618
+0	19:17:40.889	TradeExpert EURJPY,H1: lot 0.813394705
+0	19:17:57.457	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2130 
+0	19:17:57.866	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2493 
+0	19:17:57.873	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:17:57.873	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:17:57.873	TradeExpert EURJPY,H1: Connecting...
+0	19:18:01.939	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:18:01.939	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:18:01.939	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:18:01.939	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:18:01.939	TradeExpert EURJPY,H1: lot 0.813387305
+0	19:18:01.939	TradeExpert EURJPY,H1: lot 0.813387305
+0	19:18:01.939	TradeExpert EURJPY,H1: Number of symbol69
+0	19:18:02.419	TradeExpert EURJPY,H1: Trade status: true
+0	19:18:02.548	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:18:02.576	TradeExpert EURJPY,H1: json array size9618
+0	19:18:07.645	TradeExpert EURJPY,H1: lot 0.8133877049999999
+0	19:18:23.903	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2230 
+0	19:18:24.287	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2487 
+0	19:18:24.295	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:18:24.295	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:18:24.295	TradeExpert EURJPY,H1: Connecting...
+0	19:18:28.330	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:18:28.330	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:18:28.330	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:18:28.330	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:18:28.330	TradeExpert EURJPY,H1: lot 0.8133877049999999
+0	19:18:28.330	TradeExpert EURJPY,H1: lot 0.8133877049999999
+0	19:18:28.330	TradeExpert EURJPY,H1: Number of symbol69
+0	19:18:28.922	TradeExpert EURJPY,H1: Trade status: true
+0	19:18:29.054	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:18:29.058	TradeExpert EURJPY,H1: json array size9618
+0	19:18:36.061	TradeExpert EURJPY,H1: lot 0.813397805
+0	19:18:52.268	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2350 
+0	19:18:52.641	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2489 
+0	19:18:52.649	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:18:52.649	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:18:52.649	TradeExpert EURJPY,H1: Connecting...
+0	19:18:56.734	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:18:56.734	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:18:56.734	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:18:56.734	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:18:56.734	TradeExpert EURJPY,H1: lot 0.8134011050000001
+0	19:18:56.734	TradeExpert EURJPY,H1: lot 0.8134011050000001
+0	19:18:56.734	TradeExpert EURJPY,H1: Number of symbol69
+0	19:18:57.087	TradeExpert EURJPY,H1: Trade status: true
+0	19:18:57.280	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:18:57.296	TradeExpert EURJPY,H1: json array size9618
+0	19:19:04.924	TradeExpert EURJPY,H1: lot 0.8134707050000001
+0	19:19:20.646	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2280 
+0	19:19:20.943	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2488 
+0	19:19:20.955	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:19:20.955	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:19:20.955	TradeExpert EURJPY,H1: Connecting...
+0	19:19:25.043	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:19:25.043	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:19:25.043	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:19:25.043	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:19:25.043	TradeExpert EURJPY,H1: lot 0.8134742050000001
+0	19:19:25.043	TradeExpert EURJPY,H1: lot 0.8134742050000001
+0	19:19:25.043	TradeExpert EURJPY,H1: Number of symbol69
+0	19:19:25.332	TradeExpert EURJPY,H1: Trade status: true
+0	19:19:25.757	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:19:25.781	TradeExpert EURJPY,H1: json array size9618
+0	19:19:33.460	TradeExpert EURJPY,H1: lot 0.813474005
+0	19:19:49.135	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2290 
+0	19:19:49.505	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2489 
+0	19:19:49.513	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:19:49.513	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:19:49.513	TradeExpert EURJPY,H1: Connecting...
+0	19:19:53.590	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:19:53.590	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:19:53.590	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:19:53.590	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:19:53.590	TradeExpert EURJPY,H1: lot 0.813484605
+0	19:19:53.590	TradeExpert EURJPY,H1: lot 0.813484605
+0	19:19:53.590	TradeExpert EURJPY,H1: Number of symbol69
+0	19:19:53.927	TradeExpert EURJPY,H1: Trade status: true
+0	19:19:54.008	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:19:54.016	TradeExpert EURJPY,H1: json array size9618
+0	19:20:01.935	TradeExpert EURJPY,H1: lot 0.813482405
+0	19:20:17.582	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2160 
+0	19:20:17.943	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2493 Close 5.2449 Volume 5.2487 
+0	19:20:17.951	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:20:17.951	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:20:17.951	TradeExpert EURJPY,H1: Connecting...
+0	19:20:22.040	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:20:22.040	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:20:22.040	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:20:22.040	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:20:22.040	TradeExpert EURJPY,H1: lot 0.813481405
+0	19:20:22.040	TradeExpert EURJPY,H1: lot 0.813481405
+0	19:20:22.040	TradeExpert EURJPY,H1: Number of symbol69
+0	19:20:22.549	TradeExpert EURJPY,H1: Trade status: true
+0	19:20:22.677	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:20:22.693	TradeExpert EURJPY,H1: json array size9618
+0	19:20:30.608	TradeExpert EURJPY,H1: lot 0.813480705
+0	19:20:46.876	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2300 
+0	19:20:47.698	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2497 Close 5.2449 Volume 5.2497 
+0	19:20:47.706	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:20:47.706	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:20:47.706	TradeExpert EURJPY,H1: Connecting...
+0	19:20:51.772	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:20:51.772	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:20:51.772	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:20:51.772	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:20:51.772	TradeExpert EURJPY,H1: lot 0.8134717050000001
+0	19:20:51.772	TradeExpert EURJPY,H1: lot 0.8134717050000001
+0	19:20:51.772	TradeExpert EURJPY,H1: Number of symbol69
+0	19:20:52.165	TradeExpert EURJPY,H1: Trade status: true
+0	19:20:52.269	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:20:52.273	TradeExpert EURJPY,H1: json array size9618
+0	19:20:59.482	TradeExpert EURJPY,H1: lot 0.8134697049999999
+0	19:21:14.956	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2290 
+0	19:21:15.549	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2499 Close 5.2449 Volume 5.2499 
+0	19:21:15.557	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:21:15.557	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:21:15.557	TradeExpert EURJPY,H1: Connecting...
+0	19:21:19.629	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:21:19.629	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:21:19.629	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:21:19.629	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:21:19.629	TradeExpert EURJPY,H1: lot 0.813471805
+0	19:21:19.629	TradeExpert EURJPY,H1: lot 0.813471805
+0	19:21:19.629	TradeExpert EURJPY,H1: Number of symbol69
+0	19:21:20.207	TradeExpert EURJPY,H1: Trade status: true
+0	19:21:20.359	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:21:20.375	TradeExpert EURJPY,H1: json array size9618
+0	19:21:27.129	TradeExpert EURJPY,H1: lot 0.8134728050000001
+0	19:21:43.192	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2300 
+0	19:21:43.586	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2493 
+0	19:21:43.586	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:21:43.586	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:21:43.586	TradeExpert EURJPY,H1: Connecting...
+0	19:21:47.657	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:21:47.657	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:21:47.657	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:21:47.657	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:21:47.657	TradeExpert EURJPY,H1: lot 0.8134782050000001
+0	19:21:47.657	TradeExpert EURJPY,H1: lot 0.8134782050000001
+0	19:21:47.657	TradeExpert EURJPY,H1: Number of symbol69
+0	19:21:48.048	TradeExpert EURJPY,H1: Trade status: true
+0	19:21:48.284	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:21:48.308	TradeExpert EURJPY,H1: json array size9618
+0	19:21:54.716	TradeExpert EURJPY,H1: lot 0.8134749050000001
+0	19:22:10.508	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2210 
+0	19:22:10.823	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2491 
+0	19:22:10.823	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:22:10.823	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:22:10.823	TradeExpert EURJPY,H1: Connecting...
+0	19:22:14.876	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:22:14.876	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:22:14.876	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:22:14.876	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:22:14.876	TradeExpert EURJPY,H1: lot 0.8134795050000001
+0	19:22:14.876	TradeExpert EURJPY,H1: lot 0.8134795050000001
+0	19:22:14.876	TradeExpert EURJPY,H1: Number of symbol69
+0	19:22:15.284	TradeExpert EURJPY,H1: Trade status: true
+0	19:22:15.379	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:22:15.379	TradeExpert EURJPY,H1: json array size9618
+0	19:22:22.670	TradeExpert EURJPY,H1: lot 0.813480905
+0	19:22:38.966	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2130 
+0	19:22:39.325	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2485 
+0	19:22:39.325	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:22:39.325	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:22:39.325	TradeExpert EURJPY,H1: Connecting...
+0	19:22:43.372	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:22:43.372	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:22:43.372	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:22:43.372	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:22:43.372	TradeExpert EURJPY,H1: lot 0.813489405
+0	19:22:43.372	TradeExpert EURJPY,H1: lot 0.813489405
+0	19:22:43.372	TradeExpert EURJPY,H1: Number of symbol69
+0	19:22:43.781	TradeExpert EURJPY,H1: Trade status: true
+0	19:22:43.859	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:22:43.877	TradeExpert EURJPY,H1: json array size9618
+0	19:22:49.139	TradeExpert EURJPY,H1: lot 0.813489405
+0	19:23:05.338	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2240 
+0	19:23:05.738	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2481 
+0	19:23:05.743	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:23:05.743	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:23:05.743	TradeExpert EURJPY,H1: Connecting...
+0	19:23:09.821	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:23:09.821	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:23:09.821	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:23:09.821	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:23:09.821	TradeExpert EURJPY,H1: lot 0.813489605
+0	19:23:09.821	TradeExpert EURJPY,H1: lot 0.813489605
+0	19:23:09.821	TradeExpert EURJPY,H1: Number of symbol69
+0	19:23:10.588	TradeExpert EURJPY,H1: Trade status: true
+0	19:23:10.780	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:23:10.791	TradeExpert EURJPY,H1: json array size9618
+0	19:23:19.838	TradeExpert EURJPY,H1: lot 0.813492105
+0	19:23:35.876	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2260 
+0	19:23:36.367	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2486 
+0	19:23:36.370	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:23:36.370	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:23:36.370	TradeExpert EURJPY,H1: Connecting...
+0	19:23:40.428	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:23:40.428	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:23:40.428	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:23:40.428	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:23:40.428	TradeExpert EURJPY,H1: lot 0.813539805
+0	19:23:40.428	TradeExpert EURJPY,H1: lot 0.813539805
+0	19:23:40.428	TradeExpert EURJPY,H1: Number of symbol69
+0	19:23:40.785	TradeExpert EURJPY,H1: Trade status: true
+0	19:23:40.908	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:23:40.916	TradeExpert EURJPY,H1: json array size9618
+0	19:23:49.824	TradeExpert EURJPY,H1: lot 0.813528005
+0	19:24:05.572	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2250 
+0	19:24:06.031	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2479 
+0	19:24:06.039	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:24:06.039	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:24:06.039	TradeExpert EURJPY,H1: Connecting...
+0	19:24:10.095	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:24:10.095	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:24:10.095	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:24:10.095	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:24:10.095	TradeExpert EURJPY,H1: lot 0.8135277049999999
+0	19:24:10.095	TradeExpert EURJPY,H1: lot 0.8135277049999999
+0	19:24:10.095	TradeExpert EURJPY,H1: Number of symbol69
+0	19:24:10.530	TradeExpert EURJPY,H1: Trade status: true
+0	19:24:10.805	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:24:10.884	TradeExpert EURJPY,H1: json array size9618
+0	19:24:20.110	TradeExpert EURJPY,H1: lot 0.8135252049999999
+0	19:24:36.731	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2160 
+0	19:24:37.095	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2478 
+0	19:24:37.103	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:24:37.103	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:24:37.103	TradeExpert EURJPY,H1: Connecting...
+0	19:24:41.163	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:24:41.163	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:24:41.163	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:24:41.163	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:24:41.163	TradeExpert EURJPY,H1: lot 0.8135264050000001
+0	19:24:41.163	TradeExpert EURJPY,H1: lot 0.8135264050000001
+0	19:24:41.163	TradeExpert EURJPY,H1: Number of symbol69
+0	19:24:41.629	TradeExpert EURJPY,H1: Trade status: true
+0	19:24:41.718	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:24:41.736	TradeExpert EURJPY,H1: json array size9618
+0	19:24:49.003	TradeExpert EURJPY,H1: lot 0.8135264050000001
+0	19:25:04.699	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2220 
+0	19:25:05.085	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2472 
+0	19:25:05.096	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:25:05.096	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:25:05.096	TradeExpert EURJPY,H1: Connecting...
+0	19:25:09.169	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:25:09.169	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:25:09.169	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:25:09.169	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:25:09.169	TradeExpert EURJPY,H1: lot 0.813527205
+0	19:25:09.169	TradeExpert EURJPY,H1: lot 0.813527205
+0	19:25:09.169	TradeExpert EURJPY,H1: Number of symbol69
+0	19:25:09.619	TradeExpert EURJPY,H1: Trade status: true
+0	19:25:09.776	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:25:09.809	TradeExpert EURJPY,H1: json array size9618
+0	19:25:31.911	TradeExpert EURJPY,H1: lot 0.813521305
+0	19:25:48.390	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2020 
+0	19:25:48.750	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2470 
+0	19:25:48.766	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:25:48.766	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:25:48.766	TradeExpert EURJPY,H1: Connecting...
+0	19:25:52.832	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:25:52.832	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:25:52.832	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:25:52.832	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:25:52.832	TradeExpert EURJPY,H1: lot 0.8134987050000001
+0	19:25:52.832	TradeExpert EURJPY,H1: lot 0.8134987050000001
+0	19:25:52.832	TradeExpert EURJPY,H1: Number of symbol69
+0	19:25:53.599	TradeExpert EURJPY,H1: Trade status: true
+0	19:25:53.982	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:25:53.982	TradeExpert EURJPY,H1: json array size9618
+0	19:25:59.835	TradeExpert EURJPY,H1: lot 0.813507905
+0	19:26:15.739	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2050 
+0	19:26:16.130	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2470 
+0	19:26:16.146	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:26:16.146	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:26:16.146	TradeExpert EURJPY,H1: Connecting...
+0	19:26:20.470	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:26:20.470	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:26:20.470	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:26:20.470	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:26:20.470	TradeExpert EURJPY,H1: lot 0.8135102049999999
+0	19:26:20.471	TradeExpert EURJPY,H1: lot 0.8135102049999999
+0	19:26:20.471	TradeExpert EURJPY,H1: Number of symbol69
+0	19:26:20.778	TradeExpert EURJPY,H1: Trade status: true
+0	19:26:20.872	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:26:20.893	TradeExpert EURJPY,H1: json array size9618
+0	19:26:48.477	TradeExpert EURJPY,H1: lot 0.8135089050000001
+0	19:27:06.337	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2150 
+0	19:27:06.685	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2469 
+0	19:27:06.695	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:27:06.695	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:27:06.695	TradeExpert EURJPY,H1: Connecting...
+0	19:27:10.743	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:27:10.743	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:27:10.743	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:27:10.743	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:27:10.743	TradeExpert EURJPY,H1: lot 0.813514105
+0	19:27:10.743	TradeExpert EURJPY,H1: lot 0.813514105
+0	19:27:10.743	TradeExpert EURJPY,H1: Number of symbol69
+0	19:27:11.278	TradeExpert EURJPY,H1: Trade status: true
+0	19:27:11.595	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:27:11.596	TradeExpert EURJPY,H1: json array size9618
+0	19:27:23.070	TradeExpert EURJPY,H1: lot 0.8135138049999999
+0	19:27:38.972	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2110 
+0	19:27:39.233	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2472 
+0	19:27:39.254	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:27:39.254	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:27:39.254	TradeExpert EURJPY,H1: Connecting...
+0	19:27:43.336	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:27:43.336	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:27:43.336	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:27:43.336	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:27:43.336	TradeExpert EURJPY,H1: lot 0.813515105
+0	19:27:43.336	TradeExpert EURJPY,H1: lot 0.813515105
+0	19:27:43.336	TradeExpert EURJPY,H1: Number of symbol69
+0	19:27:43.772	TradeExpert EURJPY,H1: Trade status: true
+0	19:27:43.879	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:27:43.905	TradeExpert EURJPY,H1: json array size9618
+0	19:27:53.808	TradeExpert EURJPY,H1: lot 0.8135172049999999
+0	19:28:10.004	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2140 
+0	19:28:10.397	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2471 
+0	19:28:10.405	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:28:10.405	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:28:10.405	TradeExpert EURJPY,H1: Connecting...
+0	19:28:14.493	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:28:14.493	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:28:14.493	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:28:14.493	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:28:14.493	TradeExpert EURJPY,H1: lot 0.8135118050000001
+0	19:28:14.493	TradeExpert EURJPY,H1: lot 0.8135118050000001
+0	19:28:14.493	TradeExpert EURJPY,H1: Number of symbol69
+0	19:28:14.991	TradeExpert EURJPY,H1: Trade status: true
+0	19:28:15.114	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:28:15.136	TradeExpert EURJPY,H1: json array size9618
+0	19:28:25.244	TradeExpert EURJPY,H1: lot 0.8135118050000001
+0	19:28:40.996	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2190 
+0	19:28:41.267	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2473 
+0	19:28:41.290	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:28:41.290	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:28:41.290	TradeExpert EURJPY,H1: Connecting...
+0	19:28:45.341	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:28:45.341	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:28:45.341	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:28:45.341	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:28:45.341	TradeExpert EURJPY,H1: lot 0.813495505
+0	19:28:45.341	TradeExpert EURJPY,H1: lot 0.813495505
+0	19:28:45.341	TradeExpert EURJPY,H1: Number of symbol69
+0	19:28:45.747	TradeExpert EURJPY,H1: Trade status: true
+0	19:28:45.876	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:28:45.879	TradeExpert EURJPY,H1: json array size9618
+0	19:28:51.596	TradeExpert EURJPY,H1: lot 0.813494705
+0	19:29:07.884	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2220 
+0	19:29:08.244	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2483 
+0	19:29:08.244	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:29:08.244	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:29:08.244	TradeExpert EURJPY,H1: Connecting...
+0	19:29:12.335	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:29:12.335	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:29:12.335	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:29:12.335	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:29:12.335	TradeExpert EURJPY,H1: lot 0.8134962050000001
+0	19:29:12.335	TradeExpert EURJPY,H1: lot 0.8134962050000001
+0	19:29:12.335	TradeExpert EURJPY,H1: Number of symbol69
+0	19:29:12.841	TradeExpert EURJPY,H1: Trade status: true
+0	19:29:12.906	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:29:12.938	TradeExpert EURJPY,H1: json array size9618
+0	19:29:19.357	TradeExpert EURJPY,H1: lot 0.813495905
+0	19:29:35.111	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2190 
+0	19:29:35.462	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2481 
+0	19:29:35.470	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:29:35.470	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:29:35.470	TradeExpert EURJPY,H1: Connecting...
+0	19:29:39.575	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:29:39.575	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:29:39.575	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:29:39.575	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:29:39.575	TradeExpert EURJPY,H1: lot 0.813498005
+0	19:29:39.575	TradeExpert EURJPY,H1: lot 0.813498005
+0	19:29:39.575	TradeExpert EURJPY,H1: Number of symbol69
+0	19:29:40.096	TradeExpert EURJPY,H1: Trade status: true
+0	19:29:40.514	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:29:40.547	TradeExpert EURJPY,H1: json array size9618
+0	19:29:52.640	TradeExpert EURJPY,H1: lot 0.8134787050000001
+0	19:30:08.856	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2130 
+0	19:30:09.227	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2480 
+0	19:30:09.231	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:30:09.231	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:30:09.231	TradeExpert EURJPY,H1: Connecting...
+0	19:30:13.297	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:30:13.297	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:30:13.297	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:30:13.297	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:30:13.297	TradeExpert EURJPY,H1: lot 0.8134899050000001
+0	19:30:13.297	TradeExpert EURJPY,H1: lot 0.8134899050000001
+0	19:30:13.297	TradeExpert EURJPY,H1: Number of symbol69
+0	19:30:13.653	TradeExpert EURJPY,H1: Trade status: true
+0	19:30:13.757	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:30:13.760	TradeExpert EURJPY,H1: json array size9618
+0	19:30:19.562	TradeExpert EURJPY,H1: lot 0.8134878050000001
+0	19:30:35.494	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1960 
+0	19:30:35.895	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2482 
+0	19:30:35.909	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:30:35.909	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:30:35.909	TradeExpert EURJPY,H1: Connecting...
+0	19:30:39.968	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:30:39.968	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:30:39.968	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:30:39.968	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:30:39.968	TradeExpert EURJPY,H1: lot 0.813492905
+0	19:30:39.968	TradeExpert EURJPY,H1: lot 0.813492905
+0	19:30:39.968	TradeExpert EURJPY,H1: Number of symbol69
+0	19:30:40.317	TradeExpert EURJPY,H1: Trade status: true
+0	19:30:40.383	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:30:40.389	TradeExpert EURJPY,H1: json array size9618
+0	19:30:47.256	TradeExpert EURJPY,H1: lot 0.8134970050000001
+0	19:31:03.360	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2020 
+0	19:31:03.757	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2474 
+0	19:31:03.757	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:31:03.757	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:31:03.757	TradeExpert EURJPY,H1: Connecting...
+0	19:31:07.824	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:31:07.824	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:31:07.824	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:31:07.824	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:31:07.824	TradeExpert EURJPY,H1: lot 0.8134938049999999
+0	19:31:07.824	TradeExpert EURJPY,H1: lot 0.8134938049999999
+0	19:31:07.824	TradeExpert EURJPY,H1: Number of symbol69
+0	19:31:08.174	TradeExpert EURJPY,H1: Trade status: true
+0	19:31:08.330	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:31:08.353	TradeExpert EURJPY,H1: json array size9618
+0	19:31:25.087	TradeExpert EURJPY,H1: lot 0.813487905
+0	19:31:40.931	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2030 
+0	19:31:41.343	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2474 
+0	19:31:41.344	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:31:41.344	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:31:41.344	TradeExpert EURJPY,H1: Connecting...
+0	19:31:45.397	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:31:45.397	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:31:45.397	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:31:45.397	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:31:45.397	TradeExpert EURJPY,H1: lot 0.813489605
+0	19:31:45.397	TradeExpert EURJPY,H1: lot 0.813489605
+0	19:31:45.397	TradeExpert EURJPY,H1: Number of symbol69
+0	19:31:45.753	TradeExpert EURJPY,H1: Trade status: true
+0	19:31:45.827	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:31:45.871	TradeExpert EURJPY,H1: json array size9618
+0	19:31:55.855	TradeExpert EURJPY,H1: lot 0.8134875050000001
+0	19:32:12.270	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1960 
+0	19:32:12.665	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2475 
+0	19:32:12.676	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:32:12.676	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:32:12.676	TradeExpert EURJPY,H1: Connecting...
+0	19:32:16.752	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:32:16.752	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:32:16.752	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:32:16.752	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:32:16.752	TradeExpert EURJPY,H1: lot 0.8135150050000001
+0	19:32:16.752	TradeExpert EURJPY,H1: lot 0.8135150050000001
+0	19:32:16.752	TradeExpert EURJPY,H1: Number of symbol69
+0	19:32:17.188	TradeExpert EURJPY,H1: Trade status: true
+0	19:32:17.563	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:32:17.563	TradeExpert EURJPY,H1: json array size9618
+0	19:32:23.942	TradeExpert EURJPY,H1: lot 0.813499305
+0	19:32:39.600	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2070 
+0	19:32:39.935	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2475 
+0	19:32:39.935	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:32:39.935	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:32:39.935	TradeExpert EURJPY,H1: Connecting...
+0	19:32:43.985	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:32:43.985	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:32:43.985	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:32:43.985	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:32:43.985	TradeExpert EURJPY,H1: lot 0.813499605
+0	19:32:43.985	TradeExpert EURJPY,H1: lot 0.813499605
+0	19:32:43.985	TradeExpert EURJPY,H1: Number of symbol69
+0	19:32:44.429	TradeExpert EURJPY,H1: Trade status: true
+0	19:32:44.517	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:32:44.553	TradeExpert EURJPY,H1: json array size9618
+0	19:32:56.186	TradeExpert EURJPY,H1: lot 0.813497605
+0	19:33:12.505	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2030 
+0	19:33:12.873	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2475 
+0	19:33:12.873	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:33:12.873	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:33:12.873	TradeExpert EURJPY,H1: Connecting...
+0	19:33:16.951	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:33:16.951	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:33:16.951	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:33:16.951	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:33:16.951	TradeExpert EURJPY,H1: lot 0.813498505
+0	19:33:16.951	TradeExpert EURJPY,H1: lot 0.813498505
+0	19:33:16.951	TradeExpert EURJPY,H1: Number of symbol69
+0	19:33:17.406	TradeExpert EURJPY,H1: Trade status: true
+0	19:33:17.531	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:33:17.558	TradeExpert EURJPY,H1: json array size9618
+0	19:33:22.456	TradeExpert EURJPY,H1: lot 0.813500305
+0	19:33:38.400	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2180 
+0	19:33:38.773	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2483 
+0	19:33:38.783	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:33:38.783	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:33:38.783	TradeExpert EURJPY,H1: Connecting...
+0	19:33:42.833	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:33:42.833	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:33:42.833	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:33:42.833	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:33:42.833	TradeExpert EURJPY,H1: lot 0.813499305
+0	19:33:42.833	TradeExpert EURJPY,H1: lot 0.813499305
+0	19:33:42.833	TradeExpert EURJPY,H1: Number of symbol69
+0	19:33:43.302	TradeExpert EURJPY,H1: Trade status: true
+0	19:33:43.563	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:33:43.591	TradeExpert EURJPY,H1: json array size9618
+0	19:33:54.156	TradeExpert EURJPY,H1: lot 0.8135012050000001
+0	19:34:11.449	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.2040 
+0	19:34:11.798	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2483 
+0	19:34:11.817	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:34:11.817	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:34:11.817	TradeExpert EURJPY,H1: Connecting...
+0	19:34:15.881	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:34:15.881	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:34:15.881	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:34:15.881	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:34:15.881	TradeExpert EURJPY,H1: lot 0.813504605
+0	19:34:15.881	TradeExpert EURJPY,H1: lot 0.813504605
+0	19:34:15.881	TradeExpert EURJPY,H1: Number of symbol69
+0	19:34:16.367	TradeExpert EURJPY,H1: Trade status: true
+0	19:34:16.494	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:34:16.527	TradeExpert EURJPY,H1: json array size9618
+0	19:34:23.735	TradeExpert EURJPY,H1: lot 0.813504305
+0	19:34:39.399	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1960 
+0	19:34:39.833	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2482 
+0	19:34:39.849	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:34:39.849	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:34:39.849	TradeExpert EURJPY,H1: Connecting...
+0	19:34:43.927	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:34:43.927	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:34:43.927	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:34:43.927	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:34:43.927	TradeExpert EURJPY,H1: lot 0.813504105
+0	19:34:43.927	TradeExpert EURJPY,H1: lot 0.813504105
+0	19:34:43.927	TradeExpert EURJPY,H1: Number of symbol69
+0	19:34:44.260	TradeExpert EURJPY,H1: Trade status: true
+0	19:34:44.397	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:34:44.413	TradeExpert EURJPY,H1: json array size9618
+0	19:34:49.635	TradeExpert EURJPY,H1: lot 0.813503905
+0	19:35:05.904	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1910 
+0	19:35:06.327	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2477 
+0	19:35:06.340	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:35:06.340	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:35:06.340	TradeExpert EURJPY,H1: Connecting...
+0	19:35:10.407	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:35:10.407	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:35:10.407	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:35:10.407	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:35:10.408	TradeExpert EURJPY,H1: lot 0.8135022049999999
+0	19:35:10.408	TradeExpert EURJPY,H1: lot 0.8135022049999999
+0	19:35:10.408	TradeExpert EURJPY,H1: Number of symbol69
+0	19:35:10.796	TradeExpert EURJPY,H1: Trade status: true
+0	19:35:10.930	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:35:10.951	TradeExpert EURJPY,H1: json array size9618
+0	19:35:23.570	TradeExpert EURJPY,H1: lot 0.8134997049999999
+0	19:35:39.595	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1840 
+0	19:35:39.881	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2481 
+0	19:35:39.897	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:35:39.897	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:35:39.897	TradeExpert EURJPY,H1: Connecting...
+0	19:35:43.953	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:35:43.953	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:35:43.953	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:35:43.953	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:35:43.953	TradeExpert EURJPY,H1: lot 0.813508005
+0	19:35:43.953	TradeExpert EURJPY,H1: lot 0.813508005
+0	19:35:43.953	TradeExpert EURJPY,H1: Number of symbol69
+0	19:35:44.338	TradeExpert EURJPY,H1: Trade status: true
+0	19:35:44.464	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:35:44.464	TradeExpert EURJPY,H1: json array size9618
+0	19:35:52.964	TradeExpert EURJPY,H1: lot 0.813504605
+0	19:36:09.638	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1690 Volume 97.1690 
+0	19:36:10.085	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2474 
+0	19:36:10.089	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:36:10.089	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:36:10.089	TradeExpert EURJPY,H1: Connecting...
+0	19:36:14.153	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:36:14.153	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:36:14.153	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:36:14.153	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:36:14.153	TradeExpert EURJPY,H1: lot 0.813507305
+0	19:36:14.153	TradeExpert EURJPY,H1: lot 0.813507305
+0	19:36:14.153	TradeExpert EURJPY,H1: Number of symbol69
+0	19:36:14.596	TradeExpert EURJPY,H1: Trade status: true
+0	19:36:14.965	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:36:15.012	TradeExpert EURJPY,H1: json array size9618
+0	19:36:26.917	TradeExpert EURJPY,H1: lot 0.813505105
+0	19:36:42.840	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1650 
+0	19:36:43.217	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2471 
+0	19:36:43.225	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:36:43.225	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:36:43.225	TradeExpert EURJPY,H1: Connecting...
+0	19:36:47.290	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:36:47.290	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:36:47.290	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:36:47.290	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:36:47.290	TradeExpert EURJPY,H1: lot 0.8135075050000001
+0	19:36:47.290	TradeExpert EURJPY,H1: lot 0.8135075050000001
+0	19:36:47.290	TradeExpert EURJPY,H1: Number of symbol69
+0	19:36:47.721	TradeExpert EURJPY,H1: Trade status: true
+0	19:36:47.862	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:36:47.878	TradeExpert EURJPY,H1: json array size9618
+0	19:36:54.312	TradeExpert EURJPY,H1: lot 0.8135061050000001
+0	19:37:11.268	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1710 
+0	19:37:11.636	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2465 
+0	19:37:11.648	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:37:11.648	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:37:11.648	TradeExpert EURJPY,H1: Connecting...
+0	19:37:15.707	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:37:15.707	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:37:15.707	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:37:15.707	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:37:15.707	TradeExpert EURJPY,H1: lot 0.813506305
+0	19:37:15.707	TradeExpert EURJPY,H1: lot 0.813506305
+0	19:37:15.707	TradeExpert EURJPY,H1: Number of symbol69
+0	19:37:16.109	TradeExpert EURJPY,H1: Trade status: true
+0	19:37:16.265	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:37:16.296	TradeExpert EURJPY,H1: json array size9618
+0	19:37:25.509	TradeExpert EURJPY,H1: lot 0.8135075050000001
+0	19:37:41.313	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1700 
+0	19:37:41.669	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2462 
+0	19:37:41.671	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:37:41.671	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:37:41.671	TradeExpert EURJPY,H1: Connecting...
+0	19:37:45.749	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:37:45.749	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:37:45.749	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:37:45.749	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:37:45.749	TradeExpert EURJPY,H1: lot 0.813503805
+0	19:37:45.749	TradeExpert EURJPY,H1: lot 0.813503805
+0	19:37:45.749	TradeExpert EURJPY,H1: Number of symbol69
+0	19:37:46.145	TradeExpert EURJPY,H1: Trade status: true
+0	19:37:46.242	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:37:46.262	TradeExpert EURJPY,H1: json array size9618
+0	19:37:52.193	TradeExpert EURJPY,H1: lot 0.8135045050000002
+0	19:38:08.657	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1700 
+0	19:38:09.093	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2464 
+0	19:38:09.093	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:38:09.093	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:38:09.093	TradeExpert EURJPY,H1: Connecting...
+0	19:38:13.167	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:38:13.167	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:38:13.167	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:38:13.167	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:38:13.169	TradeExpert EURJPY,H1: lot 0.813503905
+0	19:38:13.169	TradeExpert EURJPY,H1: lot 0.813503905
+0	19:38:13.169	TradeExpert EURJPY,H1: Number of symbol69
+0	19:38:13.613	TradeExpert EURJPY,H1: Trade status: true
+0	19:38:13.789	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:38:13.816	TradeExpert EURJPY,H1: json array size9618
+0	19:38:21.735	TradeExpert EURJPY,H1: lot 0.813504405
+0	19:38:37.514	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1870 
+0	19:38:37.784	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2466 
+0	19:38:37.784	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:38:37.784	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:38:37.784	TradeExpert EURJPY,H1: Connecting...
+0	19:38:41.854	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:38:41.854	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:38:41.854	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:38:41.854	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:38:41.854	TradeExpert EURJPY,H1: lot 0.813506505
+0	19:38:41.854	TradeExpert EURJPY,H1: lot 0.813506505
+0	19:38:41.854	TradeExpert EURJPY,H1: Number of symbol69
+0	19:38:42.197	TradeExpert EURJPY,H1: Trade status: true
+0	19:38:42.526	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:38:42.544	TradeExpert EURJPY,H1: json array size9618
+0	19:38:48.836	TradeExpert EURJPY,H1: lot 0.813522905
+0	19:39:04.763	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1760 
+0	19:39:05.122	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2473 
+0	19:39:05.125	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:39:05.125	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:39:05.125	TradeExpert EURJPY,H1: Connecting...
+0	19:39:09.187	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:39:09.187	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:39:09.187	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:39:09.187	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:39:09.187	TradeExpert EURJPY,H1: lot 0.8135261050000001
+0	19:39:09.187	TradeExpert EURJPY,H1: lot 0.8135261050000001
+0	19:39:09.187	TradeExpert EURJPY,H1: Number of symbol69
+0	19:39:09.662	TradeExpert EURJPY,H1: Trade status: true
+0	19:39:09.740	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:39:09.770	TradeExpert EURJPY,H1: json array size9618
+0	19:39:18.714	TradeExpert EURJPY,H1: lot 0.813525905
+0	19:39:34.670	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1810 
+0	19:39:34.951	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2468 
+0	19:39:34.959	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:39:34.959	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:39:34.959	TradeExpert EURJPY,H1: Connecting...
+0	19:39:39.020	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:39:39.020	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:39:39.020	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:39:39.020	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:39:39.020	TradeExpert EURJPY,H1: lot 0.8135450050000002
+0	19:39:39.020	TradeExpert EURJPY,H1: lot 0.8135450050000002
+0	19:39:39.020	TradeExpert EURJPY,H1: Number of symbol69
+0	19:39:39.364	TradeExpert EURJPY,H1: Trade status: true
+0	19:39:39.723	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:39:39.747	TradeExpert EURJPY,H1: json array size9618
+0	19:39:48.907	TradeExpert EURJPY,H1: lot 0.813544605
+0	19:40:04.950	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1800 
+0	19:40:05.256	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2467 
+0	19:40:05.256	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:40:05.256	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:40:05.256	TradeExpert EURJPY,H1: Connecting...
+0	19:40:09.317	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:40:09.317	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:40:09.317	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:40:09.317	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:40:09.318	TradeExpert EURJPY,H1: lot 0.813545305
+0	19:40:09.318	TradeExpert EURJPY,H1: lot 0.813545305
+0	19:40:09.318	TradeExpert EURJPY,H1: Number of symbol69
+0	19:40:09.618	TradeExpert EURJPY,H1: Trade status: true
+0	19:40:09.706	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:40:09.730	TradeExpert EURJPY,H1: json array size9618
+0	19:40:21.148	TradeExpert EURJPY,H1: lot 0.8135470050000001
+0	19:40:25.147	TradeExpert EURJPY,H1: Current bar for :AUDJPY,Open 17046.0000 ,High 97.0220,Low 97.2440 Close 97.1630 Volume 97.1810 
+0	19:40:25.405	TradeExpert EURJPY,H1: Current bar for :AUDHKD,Open 17046.0000 ,High 5.2412,Low 5.2502 Close 5.2449 Volume 5.2467 
+0	19:40:25.405	TradeExpert EURJPY,H1: MQLMySQL v2.0 Demo Copyright © 2014, FxCodex Laboratory
+0	19:40:25.405	TradeExpert EURJPY,H1: Host: localhost, User: root, Database: sakila
+0	19:40:25.405	TradeExpert EURJPY,H1: Connecting...
+0	19:40:29.508	TradeExpert EURJPY,H1: Connection failed! Error: Can't connect to MySQL server on 'localhost' (10061)
+0	19:40:29.508	TradeExpert EURJPY,H1: Disconnected. done!
+0	19:40:29.508	TradeExpert EURJPY,H1: All connections closed.  done!
+0	19:40:29.508	TradeExpert EURJPY,H1: symbolAUDJPY index 3
+0	19:40:29.508	TradeExpert EURJPY,H1: lot 0.8135471049999999
+0	19:40:29.508	TradeExpert EURJPY,H1: lot 0.8135471049999999
+0	19:40:29.508	TradeExpert EURJPY,H1: Number of symbol69
+0	19:40:29.855	TradeExpert EURJPY,H1: Trade status: true
+0	19:40:30.073	TradeExpert EURJPY,H1: The file has been successfully loaded, File size =9618 bytes.
+0	19:40:30.090	TradeExpert EURJPY,H1: json array size9618
+0	19:40:37.415	TradeExpert EURJPY,H1: lot 0.813544005
+3	19:40:40.516	TradeExpert EURJPY,H1: shutdown by timeout
+0	19:40:49.046	Expert TradeExpert EURJPY,H1: removed

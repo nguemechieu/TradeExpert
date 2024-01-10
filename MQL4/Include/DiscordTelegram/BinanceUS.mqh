@@ -245,43 +245,7 @@
       
       
       
-        string GetServerTime(){
-      
-      const string urlNetworkh=BinanceApiEndpoint+"/api/v3/time";
-        string requestResponses="";
-        
-        
-      string messageNetwork="SERVER TIME ERROR!";
-      
-       string method="GET";string paramsx="";string urlx="";
-            
-        int res =WebRequest(method,urlx,"",paramsx,5000,data,0,resultx,header);
-            
-            
-          requestResponses= CharArrayToString(resultx,0,WHOLE_ARRAY);     
-            
-            
-            
-         printf( CharArrayToString(resultx,0,WHOLE_ARRAY));
-          
-        
-        CJAVal js(NULL,requestResponses),item;
-        
-        js.Deserialize(resultx,0);
-        long ans=0;
-        for(int jk=0;jk<ArraySize(js.m_e);jk++){
-        
-       item=js.m_e[jk];
-       
-           ans=(datetime)item["serverTime"].ToStr();
-            
-        }
-      return (string)ans;
-        
-      }
-      
-      
-       
+   
       
       
       
@@ -298,9 +262,9 @@
       
                 
          
-      double GetLivePrice(string xsymbol){//return live Market  prices
+      double GetLivePrice(string xxsymbol){//return live Market  prices
        
-      string apiBinance=BinanceApiEndpoint+"/api/v3/trades?symbol="+xsymbol;
+      string apiBinance=BinanceApiEndpoint+"/api/v3/trades?symbol="+xxsymbol;
       
        string outx;
        
@@ -316,26 +280,30 @@
         CJAVal js(NULL,outx),item;
         
         js.Deserialize(resultx);
-        
-        for(int jk=0;jk<ArraySize(js.m_e);jk++){
+        int jk=0;
+        while(jk<ArraySize(js.m_e)){
         
         item=js.m_e[jk];
         string symbolf=item["symbol"].ToStr();
         price=item["price"].ToDbl();
-        if(xsymbol==symbolf)return price;
+        printf(symbolf+"--"+(string)price);
+   
+        jk++
+        ;
+        
         }
          return price;
        
         }
                  
    bool CloseBinanceOrder(
-    string xsymbol,     // Trading pair symbol (e.g., "BTCUSD")
+    string xsymbols,     // Trading pair symbol (e.g., "BTCUSD")
     double orderId    // Order ID to be canceled
 ) {
     string endpoint = "https://api.binance.us/api/v3/order";
     
     // Construct the DELETE data as a JSON string
-    string deleteData = StringFormat("{\"symbol\":\"%s\",\"orderId\":%.0f}", xsymbol, orderId);
+    string deleteData = StringFormat("{\"symbol\":\"%s\",\"orderId\":%.0f}", xsymbols, orderId);
     
     string headers = "X-MBX-APIKEY: YOUR_API_KEY_HERE"; // Replace with your Binance US API key
    char result[];
@@ -354,9 +322,9 @@
         
         
       bool OpenBinanceOrder(
-    string xsymbol,           // Trading pair symbol (e.g., "BTCUSD")
+    string xsymbols,           // Trading pair symbol (e.g., "BTCUSD")
     ENUM_ORDER_TYPE orderType, // Order type (e.g., OP_BUY or OP_SELL)
-    double quantity,         // Order quantity
+    double xquantity,         // Order quantity
     double xprice,            // Order price
     datetime  validity, // Order validity (e.g., ORDER_GTC for "Good 'Til Cancelled")
     int orderId          // Variable to store the order ID
@@ -367,7 +335,7 @@
     // Construct the POST data as a JSON string
     string postData = StringFormat(
         "{\"symbol\":\"%s\",\"side\":\"%s\",\"type\":\"%s\",\"quantity\":%.6f,\"price\":%.6f,\"timeInForce\":\"%s\"}",
-        xsymbol, (orderType == OP_BUY) ? "BUY" : "SELL", "LIMIT", quantity, xprice, validity
+        xsymbols, (orderType == OP_BUY) ? "BUY" : "SELL", "LIMIT", xquantity, xprice, validity
     );
     
     string headers = "X-MBX-APIKEY: YOUR_API_KEY_HERE"; // Replace with your Binance US API key
@@ -380,7 +348,7 @@
         // Parse the response to get the order ID
         string orderIdStr = StringSubstr(CharArrayToString(results,0,WHOLE_ARRAY), StringFind(CharArrayToString(results,0,WHOLE_ARRAY), "\"orderId\":") + StringLen("\"orderId\":"), -1);
         orderIdStr = StringSubstr(orderIdStr, 0, StringFind(orderIdStr, ",") - 1);
-        orderId = StringToDouble(orderIdStr);
+        orderId = (int)StringToDouble(orderIdStr);
         return true;
     }
     
@@ -640,7 +608,7 @@ public:int getTradingPairs (){
                    
     // Define a custom function to fetch candlestick data from Binance US
 bool FetchBinanceCandleData(
-    string xsymbol,        // Trading pair symbol (e.g., "BTCUSD")
+       // Trading pair symbol (e.g., "BTCUSD")
     ENUM_TIMEFRAMES timeframe,  // Timeframe (e.g., PERIOD_M1 for 1-minute candles)
     datetime startTime,   // Start time of the data range
     datetime endTime,     // End time of the data range
@@ -671,13 +639,13 @@ bool FetchBinanceCandleData(
 
 // Example usage:
 void OnCandle() {
-  xsymbol = "BTCUSD";              // Trading pair symbol
+  string xsymbols = "BTCUSD";              // Trading pair symbol
     ENUM_TIMEFRAMES timeframe = PERIOD_M1; // 1-minute candles
     datetime startTime = D'2023.01.01';   // Start date and time
     datetime endTime = D'2023.01.02';     // End date and time
     int limit = 100;                      // Maximum number of candles
     MqlRates candles[];
-    if (FetchBinanceCandleData(xsymbol, timeframe, startTime, endTime, limit,candles)) {
+    if (FetchBinanceCandleData(timeframe, startTime, endTime, limit,candles)) {
         // Candles fetched successfully, you can process the data here
         for (int i = 0; i < ArraySize(candles); i++) {
             Print("Time: ", TimeToString(candles[i].time, TIME_DATE|TIME_MINUTES), 

@@ -5,7 +5,7 @@ menu0========== User  Configuration  ============
 InpLanguage=0
 LicenseMode=1
 License=none
-conctact====== For enquiries Contact +13023176610  on WhatApps=====
+conctact====== For enquiries Contact +13023176610 on WhatApps or telegram=====
 MT4account=1234567
 menu2========== Trading Time Configuration  ============
 UseTime=0
@@ -22,8 +22,8 @@ TradeFriday=true
 TradeSaturday=true
 TradeSunday=true
 MaxTradeDurationBars=12
-menu3========== Trade Size Configuration  ============
-InpUsedSymbols=EURUSD,AUDUSD,EURAUD,EURCAD,EURGBP,EURJPY,EURUSD,GBPUSD,NZDUSD,USDCAD,USDJPY
+menu3========== Trade symbols&& size Configuration  ============
+InpUsedSymbols=
 InpCryptoSymbol=BTCUSD,ETHUSD,XLMUSD,RLCUSD,XRPUSD,LRCUSD,LTCUSD
 newsUrl=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=42067daf92ce0d4cd7ccc0c9e3015d30
 UseAllsymbol=1
@@ -31,17 +31,17 @@ sdf==== Schedule Trade Symbols ===
 InpSelectPairs_By_Basket_Schedule=0
 symbolList1=USDCAD,EURUSD,AUDUSD
 start1=1611028800
-stop1=1642572000
+stop1=1737266400
 symbolList2=EURGBP,AUDCAD
 start2=1642582800
-stop2=1642676400
+stop2=1737370800
 symbolList3=USDJPY,AUDJPY
 start3=1642514400
-stop3=1642518000
+stop3=1737212400
 ShowDashboard=true
 SelectedMode=1
 minbalance=10
-InpMoneyManagement=0
+InpMoneyManagement=1
 M1===== Fix Size ========
 Fixed_size=0.01
 M2======== Lot Optimize =========
@@ -70,10 +70,10 @@ InpTradeNews=1
 sendcontroltrade=true
 showoverbought=true
 commen====================
-AvoidNews=false
-CloseBeforNews=false
-AfterNewsStop=60
-BeforeNewsStop=60
+AvoidNews=true
+CloseBeforNews=true
+AfterNewsStop=59
+BeforeNewsStop=59
 NewsLight=true
 NewsMedium=true
 NewsHard=true
@@ -84,22 +84,22 @@ Upd=86400
 NewsSymb=USD,EUR,GBP,CHF,CAD,AUD,NZD,JPY
 CurrencyOnly=false
 DrawLines=true
-Next=true
-Signal=true
+Next=false
+Signal=false
 noterf=-----< Other >-----
 menu5========== Trade Setting ============
 InpMarket_Type=3
 exchange=0
-api_key=
+api_key=2032573404:AAGnxJpNMJBKqLzvE5q4kGt1cCGF632bP7A
 secret_key=
 pUsername=nguemechieu@live.com
-pPasword=
+pPasword=Bigboss307#
 inpTradeMode=0
-Order_Type=0
+Order_Type=1
 inpTradeStyle=2
-inpMaxSpread=20.0
+inpMaxSpread=10.0
 InpMagic=123
-InpLots=0.1
+InpLots=0.01
 InpStopLoss=50
 InpTakeProfit=50
 InpDistance=50
@@ -194,7 +194,7 @@ lb_2=
 lb_3=
 snr=true
 RiskPercent=2.0
-Offset=10
+Offset=-6
 BarsBack=2000
 InfoColor=16448255
 AlertSound=alert.wav
@@ -235,7 +235,7 @@ Report=true
 InpTradeReport=0
 menu7========== Indicators Configurations ============
 InpSignalList=Triggerlines,TrendExpert,ZigZag
-inpTradeCloseMode=1
+inpTradeCloseMode=0
 inpAligned=false
 ___GUI_MANAGEMENT___=---------------------------
 ShowTradedSymbols=true
@@ -251,7 +251,7 @@ unretracedZoneColor=32768
 showUnretracedZone=true
 menu1========== TradeExpert Bot Configuration  ============
 UseBot=true
-InpTocken=2032573404:AAEfu_tvVukCibiYf8uUdi6NcDpSmbuj3Tg
+InpTocken=2032573404:AAGnxJpNMJBKqLzvE5q4kGt1cCGF632bP7A
 InpChannel=tradeexpert_infos
 InpChannelChatID=-1001659738763
 InpChatID2=-1001648392740
@@ -265,9 +265,9 @@ google_url=https://nfs.faireconomy.media/ff_calendar_thisweek.json?version=39335
 InpFileName=report.csv
 InpDirectoryName=MQL4
 InpEncodingType=32
-Template=tradeexpert
-InpTimFrame=1440
-UseMaxspread=false
+Template=TradeExpert
+InpTimFrame=0
+UseMaxspread=true
 ImmediateExecution=0
 user_account=8848155
 user_password=Bigboss307#
@@ -275,12 +275,14 @@ servers=OANDA-v20 Live-1
 _username=bigbossmanager
 _password=Bigboss307#
 _message=WELCOME TO TRADE_EXPERT
-InpLatform=0
-InpUpdateMode=1
-Comment_ea=
-User=bigbossmanager
-Host=db-servers.mysql.database.azure.com
+db_info=
+User=root
+Host=localhost
+ssl=
 Port=3306
 ClientFlag=0
-Database=trades
+Database=sakila
 Password=Bigboss307#
+InpLatform=0
+InpUpdateMode=0
+Comment_ea=

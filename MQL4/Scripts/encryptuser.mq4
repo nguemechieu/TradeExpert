@@ -17,12 +17,12 @@ void OnStart()
       ul.uid = 123;
       ul.expired = D'2025.06.01 12:30:27';
       ul.AddLogin(AccountInfoInteger(ACCOUNT_LOGIN));   
-      ul.AddLogin(12345);
+      ul.AddLogin(3072021);
       ul.ea_count = 2;
       
       ea_user e1, e2;
-      e1.SetEAname("Ilan");
-      e2.SetEAname("NY cool bot v.1.0");
+      e1.SetEAname("TradeExpert");
+      e2.SetEAname("NY cool bot v.6.0");
       e2.expired = D'2025.05.28 12:30:27';
       
       CLic cl;
@@ -33,7 +33,7 @@ void OnStart()
       string k = "qwertyuiopasdfgh";
       ENUM_CRYPT_METHOD m = CRYPT_AES128;
       
-      Print("Create lic: ",CreateLic(m, k, cl, "lic.txt"));
+      Print("Create license",CreateLic(m, k, cl, "license_tradeexpert.txt"));
 
   }
 //+------------------------------------------------------------------+

@@ -3,7 +3,7 @@
 //|                   Copyright 2009-2013, MetaQuotes Software Corp. |
 //|                                              http://www.mql4.com |
 //+------------------------------------------------------------------+
-#include "File.mqh"
+#include "Files/File.mqh"
 //+------------------------------------------------------------------+
 //| Class CFilePipe                                                  |
 //| Purpose: Class of operations with binary files                   |
