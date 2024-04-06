@@ -173,11 +173,11 @@ ulong CFile::Tell(void)
 //+------------------------------------------------------------------+
 //| Set position of pointer in file                                  |
 //+------------------------------------------------------------------+
-void CFile::Seek(const long xoffset,const ENUM_FILE_POSITION origin)
+void CFile::Seek(const long offset,const ENUM_FILE_POSITION origin)
   {
 //--- check handle
    if(m_handle!=INVALID_HANDLE)
-      FileSeek(m_handle,xoffset,origin);
+      FileSeek(m_handle,offset,origin);
   }
 //+------------------------------------------------------------------+
 //| Flush data from the file buffer of input-output to disk          |

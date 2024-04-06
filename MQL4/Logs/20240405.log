@@ -1,0 +1,52 @@
+0	08:46:09.915	Compiling 'MACD Sample'
+0	08:46:09.915	Compiling 'Moving Average'
+0	08:46:14.338	Compiling 'Accelerator'
+0	08:46:14.338	Compiling 'Accumulation'
+0	08:46:14.338	Compiling 'Alligator'
+0	08:46:14.338	Compiling 'ATR'
+0	08:46:14.338	Compiling 'Awesome'
+0	08:46:14.338	Compiling 'Bands'
+0	08:46:14.338	Compiling 'Bears'
+0	08:46:14.338	Compiling 'Bulls'
+0	08:46:14.338	Compiling 'CCI'
+0	08:46:14.338	Compiling 'Custom Moving Averages'
+0	08:46:14.338	Compiling 'Heiken Ashi'
+0	08:46:14.338	Compiling 'Ichimoku'
+0	08:46:14.338	Compiling 'iExposure'
+0	08:46:14.338	Compiling 'MACD'
+0	08:46:14.338	Compiling 'Momentum'
+0	08:46:14.338	Compiling 'OsMA'
+0	08:46:14.338	Compiling 'Parabolic'
+0	08:46:14.338	Compiling 'RSI'
+0	08:46:14.338	Compiling 'Stochastic'
+0	08:46:14.338	Compiling 'ZigZag'
+0	08:46:14.338	Compiling 'SimplePanel'
+0	08:46:36.261	Compiling 'PeriodConverter'
+0	08:46:36.261	Compiling 'DLLSampleTester'
+0	08:46:36.261	Compiling 'PipeClient'
+0	08:46:36.261	Compiling 'PipeClientPure'
+0	08:46:41.285	Compiling 'stdlib'
+0	15:45:30.455	Expert test0 USDCHF,H1: loaded successfully
+0	15:45:33.971	Expert test0 USDCHF,H1: removed
+0	15:46:03.284	Expert test0 USDJPY,H4: loaded successfully
+0	15:46:11.937	test0 USDJPY,H4 inputs: PortNumber=51234; 
+0	15:46:12.046	test0 USDJPY,H4: Requires 'Allow DLL imports'
+0	15:46:12.046	test0 USDJPY,H4: initialized
+0	15:46:36.875	test0 USDJPY,H4: uninit reason 1
+1	15:46:36.875	Cannot call 'Ws2_32.dll::closesocket', DLL is not allowed
+1	15:46:36.875	test0 USDJPY,H4: unresolved import function call
+0	15:46:36.883	Expert test0 USDJPY,H4: removed
+0	15:46:36.962	Expert test0 USDJPY,H4: loaded successfully
+0	15:46:38.922	test0 USDJPY,H4 inputs: PortNumber=51234; 
+0	15:46:38.963	test0 USDJPY,H4: initialized
+0	15:47:41.009	test0 USDJPY,H4: uninit reason 2
+0	15:47:41.051	Expert test0 USDJPY,H4: removed
+0	15:47:41.198	Expert test0 USDJPY,H4: loaded successfully
+0	15:47:41.356	test0 USDJPY,H4: initialized
+0	15:47:53.278	test0 USDJPY,H4: uninit reason 1
+0	15:47:53.292	Expert test0 USDJPY,H4: removed
+0	15:47:53.372	Expert test0 USDJPY,H4: loaded successfully
+0	15:47:55.607	test0 USDJPY,H4 inputs: PortNumber=3306; 
+0	15:47:55.670	test0 USDJPY,H4: initialized
+0	16:32:46.126	test0 USDJPY,H4: uninit reason 9
+0	16:32:46.582	Expert test0 USDJPY,H4: removed
